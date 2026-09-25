@@ -1,0 +1,2001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Type,Product,Category,Region,Quantity,Revenue,Profit,Profit Category
+1001,06/01/2026,C001,New Customer,Laptop,Electronics,Delhi,1,"₹65,000","₹8,000",Profit
+1002,06/03/2026,C002,Repeat Customer,Phone,Electronics,Delhi,2,"₹50,000","₹6,000",Profit
+1003,28/02/2026,C003,Repeat Customer,Headphones,Electronics,Mumbai,1,"₹5,000","₹1,200",Profit
+1004,06/05/2026,C004,Repeat Customer,Chair,Furniture,Bangalore,3,"₹12,000","₹2,500",Profit
+1005,07/03/2026,C314,Repeat Customer,Vacuum Cleaner,Home,Delhi,0,"₹8,506","₹1,455",Profit
+1006,18/05/2026,C359,Repeat Customer,Chair,Furniture,Chennai,1,"₹4,307",₹892,Profit
+1007,08/02/2026,C241,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹39,396","₹7,334",Profit
+1008,15/01/2026,C314,Repeat Customer,Camera,Electronics,Hyderabad,6,"₹374,814","₹51,761",Profit
+1009,30/05/2026,C290,Repeat Customer,Bookshelf,Furniture,Chennai,2,"₹22,960","₹5,742",Profit
+1010,22/05/2026,C447,Repeat Customer,Desk,Furniture,Mumbai,2,"₹26,696","₹6,419",Profit
+1011,08/11/2026,C026,Repeat Customer,Makeup Kit,Beauty,Delhi,5,"₹20,375","₹7,418",Profit
+1012,13/08/2026,UNKNOWN,Repeat Customer,Shoes,Apparel,Kolkata,3,"₹6,969","₹2,075",Profit
+1013,13/04/2026,C470,Repeat Customer,Makeup Kit,Beauty,Chennai,5,"₹20,680","₹7,568",Profit
+1014,05/12/2026,C446,Repeat Customer,Jeans,Apparel,Not Specified,2,"₹3,440",₹867,Profit
+1015,26/01/2026,C241,Repeat Customer,Camera,Electronics,Kolkata,5,"₹288,810","₹42,477",Profit
+1016,24/01/2026,C310,Repeat Customer,Tablet,Electronics,Mumbai,5,"₹148,500","₹16,484",Profit
+1017,18/02/2026,C141,Repeat Customer,Speaker,Electronics,Chennai,2,"₹17,140",₹744,Profit
+1018,31/01/2026,C097,Repeat Customer,Microwave,Home,Hyderabad,6,"₹60,828","₹10,647",Profit
+1019,19/01/2026,C242,Repeat Customer,Microwave,Home,Kolkata,1,"₹11,868","₹2,064",Profit
+1020,01/03/2026,C184,Repeat Customer,Microwave,Home,Delhi,2,"₹26,576","₹5,208",Profit
+1021,08/05/2026,C289,Repeat Customer,Skincare Set,Beauty,Delhi,2,"₹3,766","₹1,170",Profit
+1022,22/05/2026,C044,Repeat Customer,Table,Furniture,Delhi,2,"₹32,876","₹6,342",Profit
+1023,24/07/2026,C476,Repeat Customer,Sofa,Furniture,Bangalore,1,"₹44,455","₹8,790",Profit
+1024,28/04/2026,C476,Repeat Customer,Laptop,Electronics,Mumbai,3,"₹258,822","₹33,163",Profit
+1025,03/08/2026,C359,Repeat Customer,Chair,Furniture,Mumbai,0,"₹4,582",₹926,Profit
+1026,07/04/2026,C265,Repeat Customer,Table,Furniture,Delhi,4,"₹46,652","₹9,568",Profit
+1027,04/08/2026,C157,Repeat Customer,Camera,Electronics,Bangalore,6,"₹249,834","₹34,927",Profit
+1028,13/02/2026,C409,Repeat Customer,Cookware Set,Home,Kolkata,5,"₹441,450","₹89,593",Profit
+1029,07/03/2026,C352,Repeat Customer,Skincare Set,Beauty,Hyderabad,1,"₹3,876","₹1,283",Profit
+1030,24/05/2026,C081,Repeat Customer,Chair,Furniture,Mumbai,1,"₹3,873",₹764,Profit
+1031,03/12/2026,C449,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹12,735","₹3,881",Profit
+1032,30/05/2026,C412,Repeat Customer,Chair,Furniture,Bangalore,5,"₹18,300","₹3,632",Profit
+1033,28/03/2026,C470,Repeat Customer,Microwave,Home,Chennai,3,"₹29,676","₹5,674",Profit
+1034,28/03/2026,C369,Repeat Customer,Makeup Kit,Beauty,Mumbai,2,"₹7,096","₹2,772",Profit
+1035,03/03/2026,C306,Repeat Customer,T-Shirt,Apparel,Bangalore,4,"₹1,276",₹325,Profit
+1036,04/12/2026,C221,Repeat Customer,Microwave,Home,Mumbai,3,"₹33,129","₹5,845",Profit
+1037,01/04/2026,C465,Repeat Customer,Microwave,Home,Hyderabad,2,"₹13,338","₹2,108",Profit
+1038,08/07/2026,C438,Repeat Customer,Tablet,Electronics,Chennai,6,"₹180,384","₹22,751",Profit
+1039,01/03/2026,C026,Repeat Customer,Table,Furniture,Chennai,4,"₹61,344","₹12,901",Profit
+1040,19/04/2026,C012,Repeat Customer,Chair,Furniture,Hyderabad,5,"₹24,840","₹5,754",Profit
+1041,06/02/2026,C197,Repeat Customer,Desk,Furniture,Hyderabad,3,"₹27,354","₹6,502",Profit
+1042,05/01/2026,C409,Repeat Customer,Camera,Electronics,Bangalore,2,"₹79,618","₹10,513",Profit
+1043,06/05/2026,C476,Repeat Customer,Phone,Electronics,Bangalore,4,"₹77,904","₹8,105",Profit
+1044,14/02/2026,C074,Repeat Customer,Shoes,Apparel,Chennai,4,"₹13,740","₹4,383",Profit
+1045,30/01/2026,C297,Repeat Customer,T-Shirt,Apparel,Chennai,4,"₹2,392",₹666,Profit
+1046,06/03/2026,C198,Repeat Customer,Table,Furniture,Pune,1,"₹8,718","₹1,984",Profit
+1047,13/03/2026,C476,Repeat Customer,Bookshelf,Furniture,Kolkata,1,"₹5,875","₹1,450",Profit
+1048,22/03/2026,C421,Repeat Customer,Vacuum Cleaner,Home,Pune,1,"₹11,700","₹2,183",Profit
+1049,14/08/2026,C420,Repeat Customer,Kurta,Apparel,Pune,1,"₹1,946",₹576,Profit
+1050,30/06/2026,C243,Repeat Customer,Vacuum Cleaner,Home,Kolkata,6,"₹39,564","₹6,373",Profit
+1051,30/09/2026,C220,Repeat Customer,Jacket,Apparel,Mumbai,2,"₹6,142","₹1,903",Profit
+1052,23/03/2026,C141,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹12,024","₹4,006",Profit
+1053,17/06/2026,C034,Repeat Customer,Kurta,Apparel,Chennai,6,"₹5,466","₹1,386",Profit
+1054,25/06/2026,C438,Repeat Customer,Table,Furniture,Bangalore,4,"₹66,584","₹13,735",Profit
+1055,25/05/2026,C409,Repeat Customer,Makeup Kit,Beauty,Delhi,1,"₹4,114","₹1,593",Profit
+1056,30/03/2026,C480,Repeat Customer,Speaker,Electronics,Delhi,4,"₹23,780","₹4,537",Profit
+1057,28/02/2026,C479,Repeat Customer,T-Shirt,Apparel,Hyderabad,3,"₹1,509",₹506,Profit
+1058,23/04/2026,C273,Repeat Customer,Sofa,Furniture,Pune,5,"₹206,385","₹40,154",Profit
+1059,07/11/2026,C391,Repeat Customer,Smartwatch,Electronics,Delhi,3,"₹49,845","₹7,937",Profit
+1060,04/06/2026,C468,Repeat Customer,Jeans,Apparel,Delhi,2,"₹4,854","₹1,604",Profit
+1061,25/01/2026,C428,Repeat Customer,Laptop,Electronics,Kolkata,5,"₹282,480","₹26,350",Profit
+1062,24/04/2026,C131,Repeat Customer,Kurta,Apparel,Chennai,6,"₹12,156","₹3,548",Profit
+1063,13/01/2026,C238,Repeat Customer,Desk,Furniture,Delhi,3,"₹41,760","₹9,671",Profit
+1064,29/01/2026,C068,Repeat Customer,Smartwatch,Electronics,Pune,1,"₹9,788","₹2,025",Profit
+1065,06/07/2026,C472,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹147,182","₹13,313",Profit
+1066,06/12/2026,C306,Repeat Customer,Skincare Set,Beauty,Kolkata,6,"₹5,562","₹1,935",Profit
+1067,27/04/2026,C120,Repeat Customer,Kurta,Apparel,Kolkata,4,"₹6,540","₹1,699",Profit
+1068,24/05/2026,C341,Repeat Customer,Bookshelf,Furniture,Chennai,3,"₹21,198","₹4,980",Profit
+1069,27/05/2026,C309,Repeat Customer,Desk,Furniture,Pune,4,"₹23,368","₹5,328",Profit
+1070,25/05/2026,C187,Repeat Customer,Blender,Home,Pune,5,"₹21,320",₹0,Profit
+1071,13/01/2026,C056,Repeat Customer,Makeup Kit,Beauty,Hyderabad,1,"₹4,056","₹1,369",Profit
+1072,01/02/2026,C341,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹9,984","₹3,748",Profit
+1073,01/05/2026,C262,Repeat Customer,Smartwatch,Electronics,Pune,3,"₹20,793","₹4,206",Profit
+1074,22/04/2026,C391,Repeat Customer,Bookshelf,Furniture,Kolkata,4,"₹39,248","₹7,973",Profit
+1075,02/07/2026,C262,Repeat Customer,Kurta,Apparel,Pune,3,"₹3,159",₹842,Profit
+1076,22/03/2026,C428,Repeat Customer,Smartwatch,Electronics,Pune,1,"₹8,804","₹1,707",Profit
+1077,29/05/2026,C272,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹3,090",₹795,Profit
+1078,07/01/2026,C275,Repeat Customer,Phone,Electronics,Chennai,5,"₹273,590","₹31,818",Profit
+1079,06/04/2026,C442,Repeat Customer,Shoes,Apparel,Kolkata,3,"₹9,951","₹2,959",Profit
+1080,07/09/2026,C212,Repeat Customer,Microwave,Home,Hyderabad,3,"₹30,246","₹5,502",Profit
+1081,19/05/2026,C070,Repeat Customer,Headphones,Electronics,Hyderabad,5,"₹22,320","₹4,037",Profit
+1082,06/06/2026,C012,Repeat Customer,Phone,Electronics,Hyderabad,5,"₹102,940","₹9,187",Profit
+1083,06/04/2026,C389,Repeat Customer,Jeans,Apparel,Mumbai,3,"₹8,163","₹2,199",Profit
+1084,15/08/2026,C310,Repeat Customer,Vacuum Cleaner,Home,Chennai,5,"₹28,400","₹5,716",Profit
+1085,02/05/2026,C363,Repeat Customer,Phone,Electronics,Chennai,2,"₹74,614","₹7,647",Profit
+1086,17/01/2026,C114,Repeat Customer,Cookware Set,Home,Delhi,1,"₹4,096",₹786,Profit
+1087,05/10/2026,C070,Repeat Customer,Cookware Set,Home,Kolkata,5,"₹33,550","₹6,424",Profit
+1088,04/01/2026,C008,New Customer,Laptop,Electronics,Chennai,1,"₹76,659","₹7,849",Profit
+1089,28/07/2026,C183,Repeat Customer,Speaker,Electronics,Pune,4,"₹39,360","₹8,139",Profit
+1090,13/05/2026,C294,Repeat Customer,Vacuum Cleaner,Home,Mumbai,1,"₹14,743","₹2,505",Profit
+1091,06/07/2026,C204,Repeat Customer,T-Shirt,Apparel,Delhi,2,"₹1,716",₹446,Profit
+1092,26/05/2026,C229,Repeat Customer,Phone,Electronics,Delhi,4,"₹143,236","₹17,903",Profit
+1093,25/04/2026,C447,Repeat Customer,Jeans,Apparel,Bangalore,1,"₹1,363",₹395,Profit
+1094,08/06/2026,C183,Repeat Customer,Perfume,Beauty,Chennai,2,"₹3,612","₹1,408",Profit
+1095,17/01/2026,C259,Repeat Customer,Perfume,Beauty,Hyderabad,3,"₹16,101","₹6,416",Profit
+1096,02/03/2026,C396,Repeat Customer,Makeup Kit,Beauty,Chennai,4,"₹17,488","₹5,465",Profit
+1097,19/03/2026,C205,Repeat Customer,Phone,Electronics,Pune,2,"₹63,862","₹6,345",Profit
+1098,23/02/2026,C312,New Customer,Vacuum Cleaner,Home,Mumbai,5,"₹32,630","₹6,850",Profit
+1099,06/05/2026,C436,Repeat Customer,Vacuum Cleaner,Home,Delhi,6,"₹77,628","₹18,361",Profit
+1100,18/04/2026,C470,Repeat Customer,Bookshelf,Furniture,Hyderabad,3,"₹35,970","₹8,663",Profit
+1101,13/01/2026,C071,New Customer,Speaker,Electronics,Pune,5,"₹35,615","₹5,739",Profit
+1102,05/10/2026,C462,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,5,"₹20,665","₹4,018",Profit
+1103,05/02/2026,C249,Repeat Customer,Cookware Set,Home,Hyderabad,2,"₹5,584","₹1,360",Profit
+1104,22/06/2026,C137,Repeat Customer,Shoes,Apparel,Mumbai,5,"₹18,045","₹5,757",Profit
+1105,08/04/2026,C241,Repeat Customer,Sofa,Furniture,Pune,6,"₹213,714","₹39,156",Profit
+1106,13/05/2026,C476,Repeat Customer,Chair,Furniture,Delhi,6,"₹23,400","₹5,037",Profit
+1107,18/03/2026,C249,Repeat Customer,Skincare Set,Beauty,Chennai,3,"₹4,527","₹1,599",Profit
+1108,17/07/2026,C171,Repeat Customer,Sofa,Furniture,Pune,2,"₹75,234","₹12,954",Profit
+1109,16/05/2026,C315,Repeat Customer,Sofa,Furniture,Hyderabad,4,"₹145,976","₹26,791",Profit
+1110,15/03/2026,C127,Repeat Customer,Tablet,Electronics,Chennai,4,"₹73,176","₹7,921",Profit
+1111,08/12/2026,C042,Repeat Customer,Headphones,Electronics,Hyderabad,5,"₹37,755","₹9,199",Profit
+1112,03/07/2026,C068,Repeat Customer,Laptop,Electronics,Bangalore,1,"₹56,957","₹7,936",Profit
+1113,01/02/2026,C068,Repeat Customer,Bookshelf,Furniture,Pune,6,"₹61,218","₹14,011",Profit
+1114,31/01/2026,C075,Repeat Customer,Table,Furniture,Bangalore,6,"₹92,316","₹21,444",Profit
+1115,08/12/2026,C070,Repeat Customer,Desk,Furniture,Kolkata,2,"₹25,668","₹6,155",Profit
+1116,05/11/2026,C322,Repeat Customer,Shoes,Apparel,Hyderabad,5,"₹9,595","₹2,636",Profit
+1117,16/01/2026,C093,Repeat Customer,Smartwatch,Electronics,Kolkata,5,"₹24,455","₹4,819",Profit
+1118,08/12/2026,C183,Repeat Customer,Jacket,Apparel,Delhi,2,"₹9,298","₹2,920",Profit
+1119,30/03/2026,UNKNOWN,Repeat Customer,Desk,Furniture,Delhi,5,"₹57,195","₹13,625",Profit
+1120,23/04/2026,C246,Repeat Customer,Makeup Kit,Beauty,Pune,6,"₹16,302","₹6,416",Profit
+1121,16/01/2026,C338,Repeat Customer,Phone,Electronics,Mumbai,3,"₹82,038","₹10,163",Profit
+1122,08/06/2026,C089,Repeat Customer,Makeup Kit,Beauty,Mumbai,4,"₹13,104","₹5,205",Profit
+1123,03/10/2026,C102,Repeat Customer,Smartwatch,Electronics,Pune,1,"₹16,522","₹3,122",Profit
+1124,03/04/2026,C022,New Customer,Phone,Electronics,Pune,5,"₹297,340","₹27,658",Profit
+1125,22/03/2026,C087,Repeat Customer,Kurta,Apparel,Mumbai,3,"₹4,137","₹1,302",Profit
+1126,30/07/2026,C142,New Customer,Chair,Furniture,Hyderabad,3,"₹22,596","₹5,114",Profit
+1127,13/01/2026,C090,Repeat Customer,Makeup Kit,Beauty,Chennai,6,"₹25,536","₹8,018",Profit
+1128,07/04/2026,C050,Repeat Customer,Vacuum Cleaner,Home,Mumbai,2,"₹8,298","₹1,630",Profit
+1129,14/04/2026,C062,Repeat Customer,Laptop,Electronics,Kolkata,6,"₹379,308","₹51,049",Profit
+1130,08/08/2026,C242,Repeat Customer,Perfume,Beauty,Not Specified,1,"₹1,459",₹493,Profit
+1131,07/12/2026,C112,Repeat Customer,Phone,Electronics,Mumbai,6,"₹294,864","₹24,412",Profit
+1132,22/04/2026,C192,Repeat Customer,Headphones,Electronics,Bangalore,2,"₹12,284","₹2,320",Profit
+1133,17/07/2026,C254,New Customer,Cookware Set,Home,Pune,5,"₹26,245","₹5,409",Profit
+1134,25/04/2026,C356,New Customer,Perfume,Beauty,Delhi,2,"₹8,624","₹3,133",Profit
+1135,25/06/2026,C021,Repeat Customer,Tablet,Electronics,Delhi,5,"₹90,245","₹13,272",Profit
+1136,04/12/2026,C402,Repeat Customer,Sofa,Furniture,Bangalore,1,"₹20,479","₹3,675",Profit
+1137,20/07/2026,C314,Repeat Customer,Bookshelf,Furniture,Chennai,6,"₹71,880","₹14,666",Profit
+1138,23/07/2026,C044,Repeat Customer,Kurta,Apparel,Bangalore,5,"₹5,045","₹1,536",Profit
+1139,04/03/2026,C442,Repeat Customer,Smartwatch,Electronics,Hyderabad,3,"₹24,150","₹4,956",Profit
+1140,26/01/2026,C454,Repeat Customer,Cookware Set,Home,Hyderabad,1,"₹8,299","₹1,935",Profit
+1141,07/06/2026,C035,Repeat Customer,Shoes,Apparel,Kolkata,5,"₹14,050","₹3,640",Profit
+1142,07/09/2026,C141,Repeat Customer,Jeans,Apparel,Pune,4,"₹8,904","₹2,616",Profit
+1143,13/03/2026,C406,Repeat Customer,Speaker,Electronics,Bangalore,4,"₹23,192",₹0,Profit
+1144,28/04/2026,C385,Repeat Customer,Headphones,Electronics,Kolkata,5,"₹15,155","₹2,571",Profit
+1145,18/05/2026,C095,Repeat Customer,Perfume,Beauty,Pune,5,"₹9,470","₹3,137",Profit
+1146,05/06/2026,C113,Repeat Customer,Speaker,Electronics,Kolkata,3,"₹12,894","₹2,694",Profit
+1147,18/07/2026,C193,Repeat Customer,Jacket,Apparel,Mumbai,1,"₹4,759","₹1,328",Profit
+1148,31/01/2026,C248,Repeat Customer,Blender,Home,Pune,6,"₹19,842","₹4,745",Profit
+1149,16/03/2026,C309,Repeat Customer,Makeup Kit,Beauty,Kolkata,6,"₹20,994","₹6,646",Profit
+1150,28/05/2026,C193,Repeat Customer,Shoes,Apparel,Hyderabad,2,"₹8,742","₹2,790",Profit
+1151,20/06/2026,C242,Repeat Customer,Not Specified,Apparel,Chennai,1,"₹1,425",₹395,Profit
+1152,20/07/2026,C385,Repeat Customer,Blender,Home,Chennai,4,"₹19,512","₹3,541",Profit
+1153,14/01/2026,C018,Repeat Customer,Speaker,Electronics,Chennai,4,"₹21,256","₹4,541",Profit
+1154,02/03/2026,C135,Repeat Customer,Perfume,Beauty,Pune,6,"₹11,682","₹3,505",Profit
+1155,31/03/2026,C366,New Customer,Headphones,Electronics,Hyderabad,1,"₹4,066",₹731,Profit
+1156,06/03/2026,C447,Repeat Customer,Smartwatch,Electronics,Chennai,4,"₹40,472","₹6,355",Profit
+1157,19/01/2026,C257,Repeat Customer,Perfume,Beauty,Delhi,6,"₹22,026","₹7,944",Profit
+1158,05/10/2026,C262,Repeat Customer,Desk,Furniture,Bangalore,5,"₹59,475","₹13,954",Profit
+1159,24/06/2026,C054,Repeat Customer,T-Shirt,Apparel,Chennai,1,₹955,₹297,Profit
+1160,01/06/2026,C235,Repeat Customer,T-Shirt,Apparel,Hyderabad,2,₹718,₹245,Profit
+1161,27/04/2026,C262,Repeat Customer,Makeup Kit,Beauty,Bangalore,2,"₹8,142","₹2,661",Profit
+1162,02/08/2026,C128,Repeat Customer,Microwave,Home,Not Specified,3,"₹47,679","₹3,618",Profit
+1163,01/12/2026,C140,Repeat Customer,Phone,Electronics,Kolkata,6,"₹329,832","₹32,754",Profit
+1164,07/07/2026,C197,Repeat Customer,Jeans,Apparel,Pune,3,"₹6,420","₹1,898",Profit
+1165,03/02/2026,C010,Repeat Customer,Chair,Furniture,Mumbai,4,"₹12,780","₹2,654",Profit
+1166,22/04/2026,C166,Repeat Customer,Smartwatch,Electronics,Hyderabad,1,"₹10,584","₹1,972",Profit
+1167,31/01/2026,C113,Repeat Customer,Sofa,Furniture,Bangalore,4,"₹151,844","₹26,244",Profit
+1168,13/01/2026,C170,Repeat Customer,Camera,Electronics,Chennai,3,"₹83,574","₹12,407",Profit
+1169,06/11/2026,C061,Repeat Customer,Speaker,Electronics,Delhi,4,"₹44,432","₹7,441",Profit
+1170,21/04/2026,C446,Repeat Customer,Microwave,Home,Bangalore,1,"₹5,357",₹813,Profit
+1171,13/03/2026,C297,Repeat Customer,Laptop,Electronics,Chennai,2,"₹116,392","₹10,618",Profit
+1172,06/02/2026,C347,Repeat Customer,Vacuum Cleaner,Home,Pune,6,"₹102,852","₹16,617",Profit
+1173,28/05/2026,C397,Repeat Customer,Table,Furniture,Delhi,4,"₹58,696","₹13,307",Profit
+1174,27/07/2026,C251,Repeat Customer,Desk,Furniture,Pune,2,"₹15,770","₹3,239",Profit
+1175,01/06/2026,UNKNOWN,Repeat Customer,Sofa,Furniture,Mumbai,1,"₹16,840","₹2,783",Profit
+1176,16/06/2026,C265,Repeat Customer,Smartwatch,Electronics,Pune,5,"₹74,780","₹13,172",Profit
+1177,08/06/2026,C293,Repeat Customer,Blender,Home,Hyderabad,5,"₹47,679","₹5,035",Profit
+1178,07/06/2026,C384,Repeat Customer,Phone,Electronics,Mumbai,5,"₹132,380","₹11,417",Profit
+1179,08/10/2026,C227,Repeat Customer,Table,Furniture,Mumbai,1,"₹11,742",₹506,Profit
+1180,17/08/2026,C067,Repeat Customer,Chair,Furniture,Mumbai,1,"₹5,415","₹1,087",Profit
+1181,21/05/2026,C147,New Customer,Vacuum Cleaner,Home,Mumbai,4,"₹26,292","₹4,903",Profit
+1182,14/06/2026,C190,New Customer,Desk,Furniture,Delhi,3,"₹44,499","₹8,355",Profit
+1183,28/02/2026,C325,Repeat Customer,Kurta,Apparel,Bangalore,1,"₹1,139",₹314,Profit
+1184,13/07/2026,C280,Repeat Customer,Shoes,Apparel,Chennai,6,"₹29,334","₹7,144",Profit
+1185,04/12/2026,C186,Repeat Customer,Speaker,Electronics,Mumbai,2,"₹5,398","₹1,183",Profit
+1186,18/05/2026,C476,Repeat Customer,Shoes,Apparel,Chennai,1,"₹5,813","₹1,522",Profit
+1187,03/10/2026,C306,Repeat Customer,Table,Furniture,Chennai,5,"₹79,885","₹15,479",Profit
+1188,24/02/2026,C124,Repeat Customer,Sofa,Furniture,Bangalore,4,"₹172,488","₹27,059",Profit
+1189,15/01/2026,C053,Repeat Customer,Jacket,Apparel,Pune,3,"₹14,586","₹4,800",Profit
+1190,17/08/2026,C075,Repeat Customer,Desk,Furniture,Hyderabad,3,"₹37,815","₹8,728",Profit
+1191,01/03/2026,C130,Repeat Customer,Headphones,Electronics,Bangalore,0,"₹1,906",₹394,Profit
+1192,06/09/2026,C081,Repeat Customer,Speaker,Electronics,Kolkata,2,"₹12,270","₹2,650",Profit
+1193,18/03/2026,C096,Repeat Customer,Shoes,Apparel,Hyderabad,3,"₹16,797","₹4,718",Profit
+1194,18/02/2026,C148,Repeat Customer,Chair,Furniture,Delhi,5,"₹31,550","₹7,397",Profit
+1195,24/06/2026,C089,Repeat Customer,Skincare Set,Beauty,Kolkata,4,"₹14,204","₹4,687",Profit
+1196,05/09/2026,C447,Repeat Customer,Chair,Furniture,Bangalore,3,"₹19,332","₹3,992",Profit
+1197,22/03/2026,C044,Repeat Customer,Shoes,Apparel,Bangalore,2,"₹4,250","₹1,080",Profit
+1197,22/03/2026,C044,Repeat Customer,Shoes,Apparel,Bangalore,2,"₹4,250","₹1,080",Profit
+1198,04/06/2026,C262,Repeat Customer,Table,Furniture,Mumbai,2,"₹30,882","₹6,768",Profit
+1199,15/05/2026,C217,New Customer,Shoes,Apparel,Mumbai,1,"₹3,038",₹934,Profit
+1200,07/02/2026,C476,Repeat Customer,Smartwatch,Electronics,Bangalore,4,"₹59,084","₹9,544",Profit
+1201,25/06/2026,C056,Repeat Customer,Vacuum Cleaner,Home,Bangalore,5,"₹23,980","₹3,928",Profit
+1202,14/05/2026,C207,Repeat Customer,Skincare Set,Beauty,Delhi,3,"₹10,050","₹3,152",Profit
+1203,20/01/2026,C476,Repeat Customer,T-Shirt,Apparel,Bangalore,5,"₹4,040","₹1,288",Profit
+1204,08/07/2026,C438,Repeat Customer,Table,Furniture,Hyderabad,3,"₹30,981","₹5,823",Profit
+1205,24/07/2026,C412,Repeat Customer,Bookshelf,Furniture,Bangalore,5,"₹30,985","₹5,807",Profit
+1206,02/03/2026,C137,Repeat Customer,Makeup Kit,Beauty,Delhi,2,"₹2,848","₹1,022",Profit
+1207,25/01/2026,C088,Repeat Customer,T-Shirt,Apparel,Chennai,3,"₹2,910",₹932,Profit
+1208,24/03/2026,C338,Repeat Customer,Jacket,Apparel,Bangalore,6,"₹18,456","₹6,139",Profit
+1209,16/04/2026,C463,Repeat Customer,Phone,Electronics,Kolkata,6,"₹220,884","₹20,785",Profit
+1210,05/02/2026,C274,Repeat Customer,Headphones,Electronics,Pune,5,"₹33,610","₹6,750",Profit
+1211,15/04/2026,C280,Repeat Customer,Jeans,Apparel,Delhi,6,"₹102,480","₹29,259",Profit
+1212,05/10/2026,C143,Repeat Customer,Camera,Electronics,Delhi,4,"₹136,512","₹20,051",Profit
+1213,04/09/2026,C391,Repeat Customer,Shoes,Apparel,Hyderabad,4,"₹23,172","₹6,275",Profit
+1214,06/11/2026,C096,Repeat Customer,Perfume,Beauty,Pune,4,"₹16,032","₹5,535",Profit
+1215,17/04/2026,C166,Repeat Customer,Perfume,Beauty,Bangalore,6,"₹13,716","₹5,006",Profit
+1216,20/07/2026,C227,Repeat Customer,Blender,Home,Bangalore,4,"₹19,240","₹3,242",Profit
+1217,04/10/2026,C257,Repeat Customer,Phone,Electronics,Bangalore,1,"₹52,377","₹6,514",Profit
+1218,20/02/2026,C128,Repeat Customer,Skincare Set,Beauty,Bangalore,1,₹853,₹273,Profit
+1219,02/09/2026,C056,Repeat Customer,Sofa,Furniture,Chennai,6,"₹104,640","₹16,969",Profit
+1220,20/05/2026,C306,Repeat Customer,Cookware Set,Home,Delhi,6,"₹42,258","₹8,624",Profit
+1221,06/09/2026,C151,Repeat Customer,Chair,Furniture,Mumbai,3,"₹17,865","₹4,573",Profit
+1222,22/01/2026,C287,Repeat Customer,Bookshelf,Furniture,Chennai,1,"₹7,161","₹1,703",Profit
+1223,07/11/2026,C076,Repeat Customer,Blender,Home,Kolkata,1,"₹2,363",₹524,Profit
+1224,01/02/2026,C248,Repeat Customer,Perfume,Beauty,Bangalore,1,"₹1,644",₹534,Profit
+1225,02/04/2026,C262,Repeat Customer,Makeup Kit,Beauty,Kolkata,1,"₹2,465",₹765,Profit
+1226,18/05/2026,C031,Repeat Customer,Blender,Home,Bangalore,2,"₹5,440",₹0,Profit
+1227,07/12/2026,C177,Repeat Customer,Camera,Electronics,Hyderabad,6,"₹255,204","₹39,387",Profit
+1228,26/03/2026,C070,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹3,225",₹869,Profit
+1229,25/04/2026,C035,Repeat Customer,Microwave,Home,Mumbai,3,"₹30,546","₹4,585",Profit
+1230,29/05/2026,C478,New Customer,Blender,Home,Delhi,5,"₹9,175","₹2,098",Profit
+1231,19/06/2026,C166,Repeat Customer,Camera,Electronics,Delhi,5,"₹276,840","₹40,560",Profit
+1232,04/05/2026,C407,Repeat Customer,Cookware Set,Home,Hyderabad,5,"₹15,745","₹3,059",Profit
+1233,04/07/2026,C135,Repeat Customer,Shoes,Apparel,Pune,4,"₹18,896","₹4,232",Profit
+1234,02/08/2026,C350,Repeat Customer,Headphones,Electronics,Kolkata,2,"₹11,460","₹2,655",Profit
+1235,06/11/2026,C391,Repeat Customer,Perfume,Beauty,Pune,2,"₹9,192","₹3,419",Profit
+1236,13/02/2026,C298,Repeat Customer,Smartwatch,Electronics,Delhi,2,"₹39,858","₹7,650",Profit
+1237,18/04/2026,C244,Repeat Customer,Smartwatch,Electronics,Pune,2,"₹39,476","₹7,922",Profit
+1238,21/04/2026,C218,Repeat Customer,Speaker,Electronics,Chennai,5,"₹47,679","₹2,470",Profit
+1239,14/03/2026,C183,Repeat Customer,Phone,Electronics,Hyderabad,2,"₹87,192","₹8,969",Profit
+1240,25/05/2026,C463,Repeat Customer,Table,Furniture,Mumbai,1,"₹15,469","₹3,427",Profit
+1241,07/11/2026,C414,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹12,244","₹4,263",Profit
+1242,03/09/2026,C474,Repeat Customer,Speaker,Electronics,Delhi,4,"₹30,176","₹5,823",Profit
+1243,13/05/2026,C064,Repeat Customer,Phone,Electronics,Hyderabad,4,"₹47,679","₹20,306",Profit
+1244,07/08/2026,UNKNOWN,Repeat Customer,Cookware Set,Home,Kolkata,2,"₹14,078","₹2,574",Profit
+1245,17/03/2026,C465,Repeat Customer,Blender,Home,Bangalore,5,"₹19,435","₹4,607",Profit
+1246,18/01/2026,C093,Repeat Customer,Shoes,Apparel,Bangalore,5,"₹15,245","₹4,826",Profit
+1247,17/08/2026,C035,Repeat Customer,Chair,Furniture,Hyderabad,3,"₹19,134","₹1,338",Profit
+1248,19/06/2026,C382,Repeat Customer,Makeup Kit,Beauty,Hyderabad,2,"₹6,086","₹1,968",Profit
+1248,19/06/2026,C382,Repeat Customer,Makeup Kit,Beauty,Hyderabad,2,"₹6,086","₹1,968",Profit
+1249,15/05/2026,C281,Repeat Customer,Blender,Home,Delhi,3,"₹12,126","₹2,811",Profit
+1250,17/02/2026,C421,Repeat Customer,Blender,Home,Delhi,4,"₹17,244","₹3,389",Profit
+1251,25/07/2026,C070,Repeat Customer,Jacket,Apparel,Kolkata,2,"₹7,084","₹2,067",Profit
+1252,13/01/2026,C401,Repeat Customer,Kurta,Apparel,Mumbai,6,"₹5,436","₹1,364",Profit
+1253,28/05/2026,C108,Repeat Customer,Phone,Electronics,Mumbai,4,"₹213,112","₹26,569",Profit
+1254,27/05/2026,C082,Repeat Customer,Speaker,Electronics,Pune,3,"₹31,089","₹6,266",Profit
+1255,08/07/2026,C082,Repeat Customer,Headphones,Electronics,Mumbai,3,"₹12,285","₹2,715",Profit
+1256,02/09/2026,C409,Repeat Customer,Skincare Set,Beauty,Bangalore,6,"₹23,220","₹7,353",Profit
+1257,21/05/2026,C337,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹7,086","₹1,861",Profit
+1258,03/08/2026,C262,Repeat Customer,Perfume,Beauty,Kolkata,5,"₹24,700","₹8,980",Profit
+1259,18/02/2026,C187,Repeat Customer,Shoes,Apparel,Pune,2,"₹7,634","₹2,087",Profit
+1260,27/07/2026,C442,Repeat Customer,Kurta,Apparel,Mumbai,6,"₹11,532","₹3,319",Profit
+1261,23/04/2026,C204,Repeat Customer,Headphones,Electronics,Mumbai,1,"₹6,717","₹1,311",Profit
+1262,05/01/2026,C412,Repeat Customer,Smartwatch,Electronics,Delhi,3,"₹50,310","₹10,361",Profit
+1263,04/10/2026,C230,Repeat Customer,Table,Furniture,Pune,1,"₹7,998","₹1,896",Profit
+1264,02/12/2026,C197,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹10,100","₹2,238",Profit
+1265,16/01/2026,C242,Repeat Customer,Kurta,Apparel,Pune,1,"₹1,790",₹532,Profit
+1266,30/06/2026,C155,Repeat Customer,Blender,Home,Pune,4,"₹9,812","₹2,008",Profit
+1267,01/01/2026,C385,Repeat Customer,Perfume,Beauty,Chennai,2,"₹11,306","₹4,219",Profit
+1268,15/04/2026,C253,Repeat Customer,Makeup Kit,Beauty,Mumbai,5,"₹22,545","₹8,161",Profit
+1269,06/05/2026,C122,Repeat Customer,Shoes,Apparel,Hyderabad,2,"₹4,926","₹1,183",Profit
+1270,19/03/2026,C447,Repeat Customer,Camera,Electronics,Hyderabad,1,"₹50,674","₹5,251",Profit
+1271,29/06/2026,C199,Repeat Customer,Shoes,Apparel,Delhi,2,"₹10,710","₹2,563",Profit
+1272,07/05/2026,C268,Repeat Customer,Speaker,Electronics,Pune,4,"₹41,072","₹6,615",Profit
+1273,26/02/2026,C447,Repeat Customer,Blender,Home,Mumbai,5,"₹22,745","₹5,389",Profit
+1274,13/04/2026,C314,Repeat Customer,Perfume,Beauty,Pune,5,"₹26,940","₹10,576",Profit
+1275,27/03/2026,C057,New Customer,Headphones,Electronics,Hyderabad,4,"₹11,664","₹2,798",Profit
+1276,13/01/2026,C466,New Customer,T-Shirt,Apparel,Pune,2,"₹2,130",₹660,Profit
+1277,02/03/2026,C314,Repeat Customer,Jeans,Apparel,Pune,5,"₹5,840","₹1,629",Profit
+1278,18/02/2026,C177,Repeat Customer,Camera,Electronics,Chennai,5,"₹164,255","₹26,252",Profit
+1279,03/04/2026,C070,Repeat Customer,Laptop,Electronics,Pune,3,"₹226,152","₹28,985",Profit
+1280,01/05/2026,C400,Repeat Customer,Sofa,Furniture,Delhi,1,"₹24,998","₹3,789",Profit
+1281,16/03/2026,C310,Repeat Customer,Shoes,Apparel,Delhi,1,"₹3,326",₹963,Profit
+1282,05/06/2026,C262,Repeat Customer,Chair,Furniture,Chennai,6,"₹22,890","₹5,007",Profit
+1283,02/08/2026,C446,Repeat Customer,Desk,Furniture,Hyderabad,6,"₹59,718","₹15,422",Profit
+1284,02/05/2026,C397,Repeat Customer,Smartwatch,Electronics,Delhi,5,"₹52,260","₹9,934",Profit
+1285,16/04/2026,C075,Repeat Customer,Shoes,Apparel,Mumbai,2,"₹11,254","₹2,833",Profit
+1286,02/04/2026,C158,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,2,"₹11,498","₹1,863",Profit
+1287,15/02/2026,C132,Repeat Customer,Perfume,Beauty,Hyderabad,4,"₹20,900","₹6,612",Profit
+1288,01/10/2026,C384,Repeat Customer,Cookware Set,Home,Chennai,4,"₹16,084","₹3,893",Profit
+1289,14/01/2026,C015,Repeat Customer,Phone,Electronics,Mumbai,4,"₹58,288","₹6,468",Profit
+1290,27/04/2026,C280,Repeat Customer,Jeans,Apparel,Pune,1,"₹2,850",₹934,Profit
+1291,16/07/2026,C391,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,6,"₹96,078","₹16,249",Profit
+1292,01/04/2026,C442,Repeat Customer,Skincare Set,Beauty,Pune,2,"₹3,064",₹0,Profit
+1293,17/02/2026,C179,Repeat Customer,Blender,Home,Pune,4,"₹9,896","₹2,105",Profit
+1294,15/02/2026,C412,Repeat Customer,Phone,Electronics,Mumbai,6,"₹299,310","₹29,304",Profit
+1295,28/06/2026,C055,Repeat Customer,Desk,Furniture,Delhi,3,"₹30,867","₹6,491",Profit
+1296,25/05/2026,C424,Repeat Customer,Microwave,Home,Hyderabad,5,"₹32,180","₹5,834",Profit
+1297,13/06/2026,C067,Repeat Customer,Jacket,Apparel,Chennai,5,"₹12,265",₹262,Profit
+1298,22/06/2026,C206,Repeat Customer,Perfume,Beauty,Bangalore,1,"₹3,721","₹1,320",Profit
+1299,01/05/2026,C402,Repeat Customer,Phone,Electronics,Hyderabad,2,"₹106,208","₹14,010",Profit
+1300,03/11/2026,C074,Repeat Customer,Desk,Furniture,Delhi,3,"₹16,530","₹3,471",Profit
+1301,05/04/2026,C121,Repeat Customer,Chair,Furniture,Bangalore,3,"₹14,310","₹2,776",Profit
+1302,08/12/2026,C368,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹10,734","₹2,375",Profit
+1303,30/01/2026,C367,Repeat Customer,Phone,Electronics,Delhi,6,"₹194,868","₹24,457",Profit
+1304,22/06/2026,C322,Repeat Customer,Shoes,Apparel,Delhi,3,"₹16,500","₹3,863",Profit
+1305,15/07/2026,C358,Repeat Customer,Headphones,Electronics,Chennai,6,"₹38,298","₹8,155",Profit
+1306,05/05/2026,C267,Repeat Customer,Perfume,Beauty,Chennai,3,"₹15,036","₹5,935",Profit
+1307,16/04/2026,C135,Repeat Customer,Desk,Furniture,Chennai,2,"₹19,248","₹4,395",Profit
+1308,05/05/2026,C183,Repeat Customer,Speaker,Electronics,Chennai,3,"₹16,233","₹3,106",Profit
+1309,29/05/2026,C093,Repeat Customer,Bookshelf,Furniture,Kolkata,4,"₹21,772","₹4,625",Profit
+1310,30/03/2026,C448,Repeat Customer,Laptop,Electronics,Pune,2,"₹129,372","₹13,376",Profit
+1311,04/11/2026,C289,Repeat Customer,Cookware Set,Home,Kolkata,2,"₹17,966","₹3,764",Profit
+1312,02/06/2026,C210,Repeat Customer,Kurta,Apparel,Chennai,2,"₹3,912",₹0,Profit
+1313,06/04/2026,C242,Repeat Customer,T-Shirt,Apparel,Mumbai,6,"₹6,750","₹1,995",Profit
+1314,08/08/2026,C470,Repeat Customer,Makeup Kit,Beauty,Mumbai,3,"₹8,046","₹2,877",Profit
+1315,01/06/2026,C075,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹5,810","₹1,818",Profit
+1316,07/08/2026,C291,New Customer,Makeup Kit,Beauty,Bangalore,3,"₹6,552","₹2,420",Profit
+1317,29/06/2026,C256,Repeat Customer,Headphones,Electronics,Mumbai,3,"₹10,692","₹1,904",Profit
+1318,14/01/2026,C306,Repeat Customer,Shoes,Apparel,Pune,1,"₹2,188",₹661,Profit
+1319,25/04/2026,C009,Repeat Customer,Tablet,Electronics,Delhi,4,"₹122,420",₹0,Profit
+1320,07/11/2026,C442,Repeat Customer,Shoes,Apparel,Hyderabad,1,"₹5,352","₹1,689",Profit
+1321,15/01/2026,C465,Repeat Customer,Camera,Electronics,Kolkata,6,"₹190,746","₹4,592",Profit
+1322,20/01/2026,C277,Repeat Customer,Camera,Electronics,Kolkata,6,"₹167,172","₹22,782",Profit
+1323,21/02/2026,C359,Repeat Customer,Table,Furniture,Pune,6,"₹111,678","₹22,401",Profit
+1324,01/01/2026,C456,Repeat Customer,Jacket,Apparel,Delhi,4,"₹9,576","₹2,495",Profit
+1325,19/07/2026,C365,Repeat Customer,Table,Furniture,Mumbai,4,"₹616,560","₹145,883",Profit
+1326,04/09/2026,C075,Repeat Customer,Desk,Furniture,Bangalore,4,"₹23,616","₹6,062",Profit
+1327,17/05/2026,C281,Repeat Customer,Kurta,Apparel,Delhi,3,"₹4,788","₹1,499",Profit
+1328,07/08/2026,C306,Repeat Customer,Laptop,Electronics,Delhi,3,"₹259,881","₹27,113",Profit
+1329,24/07/2026,C226,Repeat Customer,Jacket,Apparel,Kolkata,6,"₹24,942","₹6,665",Profit
+1330,13/07/2026,C379,Repeat Customer,Camera,Electronics,Chennai,6,"₹386,754","₹41,478",Profit
+1331,06/01/2026,C465,Repeat Customer,Blender,Home,Mumbai,5,"₹47,679","₹1,859",Profit
+1332,18/04/2026,C460,Repeat Customer,Jacket,Apparel,Hyderabad,2,"₹8,240","₹2,431",Profit
+1333,05/08/2026,C238,Repeat Customer,Tablet,Electronics,Kolkata,5,"₹134,290","₹21,379",Profit
+1334,18/08/2026,C056,Repeat Customer,Phone,Electronics,Delhi,3,"₹77,205","₹7,724",Profit
+1335,25/02/2026,C476,Repeat Customer,Microwave,Home,Bangalore,6,"₹62,016","₹9,092",Profit
+1336,15/08/2026,C420,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹5,982","₹2,079",Profit
+1337,25/03/2026,C064,Repeat Customer,Vacuum Cleaner,Home,Kolkata,5,"₹65,280","₹10,896",Profit
+1338,23/05/2026,C454,Repeat Customer,Microwave,Home,Mumbai,1,"₹11,844","₹1,686",Profit
+1339,14/04/2026,C442,Repeat Customer,T-Shirt,Apparel,Mumbai,3,"₹1,632",₹422,Profit
+1340,14/08/2026,C262,Repeat Customer,Vacuum Cleaner,Home,Chennai,1,"₹14,277","₹3,304",Profit
+1341,16/06/2026,C295,New Customer,Shoes,Apparel,Hyderabad,1,"₹1,909",₹508,Profit
+1342,31/07/2026,C208,Repeat Customer,Microwave,Home,Pune,2,"₹17,386","₹3,370",Profit
+1343,02/07/2026,C034,Repeat Customer,Cookware Set,Home,Bangalore,6,"₹51,750","₹12,971",Profit
+1344,15/06/2026,C177,Repeat Customer,Shoes,Apparel,Hyderabad,0,"₹4,412","₹1,209",Profit
+1345,08/05/2026,C404,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,4,"₹54,884","₹11,109",Profit
+1346,17/02/2026,C002,Repeat Customer,Jeans,Apparel,Mumbai,2,"₹5,984","₹2,078",Profit
+1347,20/05/2026,C175,Repeat Customer,Skincare Set,Beauty,Bangalore,2,"₹4,654","₹1,850",Profit
+1348,06/08/2026,C207,Repeat Customer,Perfume,Beauty,Bangalore,3,"₹17,697","₹6,724",Profit
+1349,23/03/2026,C265,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹18,588","₹3,201",Profit
+1350,25/07/2026,C454,Repeat Customer,Phone,Electronics,Hyderabad,2,"₹117,842","₹12,040",Profit
+1351,30/09/2026,C183,Repeat Customer,Makeup Kit,Beauty,Chennai,4,"₹6,284","₹2,260",Profit
+1352,30/09/2026,C183,Repeat Customer,Perfume,Beauty,Kolkata,2,"₹5,664","₹1,915",Profit
+1353,08/11/2026,C379,Repeat Customer,Vacuum Cleaner,Home,Chennai,6,"₹52,278","₹10,421",Profit
+1354,13/01/2026,C239,Repeat Customer,Perfume,Beauty,Pune,5,"₹29,560","₹9,635",Profit
+1355,04/01/2026,C119,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹18,006","₹3,779",Profit
+1356,22/05/2026,C239,Repeat Customer,Shoes,Apparel,Bangalore,4,"₹17,500","₹5,443",Profit
+1357,07/10/2026,C070,Repeat Customer,T-Shirt,Apparel,Chennai,1,"₹1,138",₹286,Profit
+1358,06/01/2026,C090,Repeat Customer,Perfume,Beauty,Mumbai,3,"₹6,678","₹2,658",Profit
+1359,31/03/2026,C251,Repeat Customer,Table,Furniture,Delhi,6,"₹37,008","₹8,977",Profit
+1360,05/10/2026,C221,Repeat Customer,Makeup Kit,Beauty,Kolkata,5,"₹6,395","₹2,288",Profit
+1361,30/06/2026,C452,Repeat Customer,Perfume,Beauty,Kolkata,6,"₹12,474","₹4,184",Profit
+1362,23/06/2026,C189,Repeat Customer,Headphones,Electronics,Bangalore,4,"₹15,292","₹3,419",Profit
+1363,21/02/2026,C286,New Customer,Skincare Set,Beauty,Chennai,4,"₹10,376","₹3,814",Profit
+1364,13/03/2026,C315,Repeat Customer,Tablet,Electronics,Mumbai,6,"₹188,124","₹26,865",Profit
+1365,14/07/2026,C007,Repeat Customer,Tablet,Electronics,Bangalore,2,"₹71,180","₹7,244",Profit
+1366,08/07/2026,C336,Repeat Customer,Jacket,Apparel,Pune,3,"₹12,633","₹3,795",Profit
+1367,02/10/2026,C092,Repeat Customer,Phone,Electronics,Mumbai,3,"₹174,816","₹18,502",Profit
+1368,25/01/2026,C472,Repeat Customer,Jacket,Apparel,Kolkata,5,"₹21,350","₹7,425",Profit
+1369,05/12/2026,C074,Repeat Customer,T-Shirt,Apparel,Bangalore,2,"₹1,106",₹311,Profit
+1370,22/04/2026,C219,Repeat Customer,Perfume,Beauty,Chennai,3,"₹12,882","₹4,279",Profit
+1371,16/05/2026,C047,Repeat Customer,Headphones,Electronics,Pune,2,"₹7,708","₹1,385",Profit
+1372,28/05/2026,C479,Repeat Customer,Headphones,Electronics,Hyderabad,5,"₹19,780","₹4,035",Profit
+1373,08/05/2026,C253,Repeat Customer,Makeup Kit,Beauty,Chennai,6,"₹19,092","₹7,355",Profit
+1374,22/04/2026,C298,Repeat Customer,Headphones,Electronics,Hyderabad,4,"₹14,744","₹3,164",Profit
+1375,17/01/2026,C035,Repeat Customer,Camera,Electronics,Mumbai,1,"₹36,934","₹4,308",Profit
+1376,15/08/2026,C386,Repeat Customer,Desk,Furniture,Hyderabad,1,"₹11,502","₹2,736",Profit
+1377,29/06/2026,C113,Repeat Customer,Bookshelf,Furniture,Bangalore,6,"₹43,164","₹10,338",Profit
+1378,21/07/2026,C447,Repeat Customer,T-Shirt,Apparel,Chennai,3,"₹3,600",₹952,Profit
+1379,13/07/2026,C110,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹8,058","₹2,566",Profit
+1380,02/11/2026,C100,New Customer,Speaker,Electronics,Chennai,6,"₹51,936","₹8,786",Profit
+1381,02/10/2026,C018,Repeat Customer,Desk,Furniture,Chennai,5,"₹51,765","₹9,430",Profit
+1382,04/11/2026,C245,New Customer,Vacuum Cleaner,Home,Pune,5,"₹76,175","₹17,912",Profit
+1383,23/01/2026,C277,Repeat Customer,Microwave,Home,Mumbai,0,"₹5,376",₹961,Profit
+1384,21/04/2026,C035,Repeat Customer,Microwave,Home,Delhi,5,"₹60,645","₹11,868",Profit
+1385,24/03/2026,C392,Repeat Customer,Sofa,Furniture,Hyderabad,4,"₹83,640",₹0,Profit
+1386,27/07/2026,C240,New Customer,Camera,Electronics,Hyderabad,4,"₹272,964","₹28,492",Profit
+1387,02/06/2026,C262,Repeat Customer,Cookware Set,Home,Chennai,4,"₹29,992","₹7,721",Profit
+1388,02/08/2026,C231,Repeat Customer,Smartwatch,Electronics,Chennai,3,"₹44,445","₹7,546",Profit
+1389,28/04/2026,C210,Repeat Customer,Vacuum Cleaner,Home,Pune,2,"₹12,870","₹2,247",Profit
+1390,20/01/2026,C274,Repeat Customer,Smartwatch,Electronics,Delhi,2,"₹24,618","₹3,982",Profit
+1391,03/10/2026,C076,Repeat Customer,Tablet,Electronics,Bangalore,0,"₹37,325","₹4,005",Profit
+1391,03/10/2026,C076,Repeat Customer,Tablet,Electronics,Bangalore,0,"₹37,325","₹4,005",Profit
+1392,06/04/2026,C093,Repeat Customer,Phone,Electronics,Hyderabad,4,"₹133,172","₹18,642",Profit
+1393,20/08/2026,C436,Repeat Customer,Speaker,Electronics,Mumbai,4,"₹13,844","₹2,278",Profit
+1394,29/03/2026,C470,Repeat Customer,Skincare Set,Beauty,Delhi,5,"₹8,090","₹3,143",Profit
+1395,17/03/2026,C194,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,4,"₹50,552","₹10,210",Profit
+1396,04/11/2026,C141,Repeat Customer,Phone,Electronics,Kolkata,4,"₹156,268","₹18,697",Profit
+1397,22/04/2026,C324,Repeat Customer,Perfume,Beauty,Bangalore,6,"₹29,562","₹10,198",Profit
+1397,22/04/2026,C324,Repeat Customer,Perfume,Beauty,Bangalore,6,"₹29,562","₹10,198",Profit
+1398,19/03/2026,C215,Repeat Customer,Tablet,Electronics,Delhi,4,"₹120,312","₹18,302",Profit
+1399,01/06/2026,C012,Repeat Customer,Camera,Electronics,Delhi,6,"₹194,010","₹21,836",Profit
+1400,05/07/2026,C077,Repeat Customer,Makeup Kit,Beauty,Hyderabad,4,"₹11,724","₹4,044",Profit
+1401,15/06/2026,C367,Repeat Customer,Blender,Home,Bangalore,4,"₹13,964","₹3,043",Profit
+1402,18/06/2026,C331,Repeat Customer,Jacket,Apparel,Kolkata,3,"₹10,008","₹2,522",Profit
+1403,02/10/2026,C012,Repeat Customer,Makeup Kit,Beauty,Hyderabad,4,"₹17,648","₹6,445",Profit
+1404,31/01/2026,C117,Repeat Customer,T-Shirt,Apparel,Chennai,2,"₹1,740",₹438,Profit
+1405,29/01/2026,C121,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹10,308","₹2,076",Profit
+1406,02/09/2026,C341,Repeat Customer,Cookware Set,Home,Pune,1,"₹8,747","₹1,929",Profit
+1407,07/12/2026,C010,Repeat Customer,Smartwatch,Electronics,Delhi,4,"₹66,492","₹10,004",Profit
+1408,13/04/2026,C053,Repeat Customer,Chair,Furniture,Mumbai,4,"₹25,412","₹6,509",Profit
+1409,07/04/2026,C403,Repeat Customer,Phone,Electronics,Chennai,6,"₹324,234","₹37,116",Profit
+1410,20/02/2026,C092,Repeat Customer,Laptop,Electronics,Pune,5,"₹375,015","₹45,758",Profit
+1411,03/08/2026,C326,Repeat Customer,Blender,Home,Bangalore,6,"₹27,186","₹5,481",Profit
+1412,26/07/2026,C126,Repeat Customer,Makeup Kit,Beauty,Chennai,1,"₹3,998","₹1,348",Profit
+1413,04/03/2026,C052,Repeat Customer,Perfume,Beauty,Hyderabad,5,"₹15,575","₹5,115",Profit
+1414,23/04/2026,C128,Repeat Customer,T-Shirt,Apparel,Pune,1,₹363,₹95,Profit
+1415,31/01/2026,C368,Repeat Customer,Makeup Kit,Beauty,Chennai,2,"₹6,142","₹2,279",Profit
+1416,25/02/2026,C431,Repeat Customer,Tablet,Electronics,Bangalore,1,"₹32,130","₹3,929",Profit
+1417,26/04/2026,C414,Repeat Customer,Laptop,Electronics,Delhi,1,"₹37,928","₹4,338",Profit
+1418,06/11/2026,C205,Repeat Customer,Makeup Kit,Beauty,Bangalore,5,"₹18,605","₹6,301",Profit
+1419,01/05/2026,C338,Repeat Customer,Blender,Home,Hyderabad,5,"₹9,240","₹1,935",Profit
+1420,30/01/2026,C110,Repeat Customer,Perfume,Beauty,Pune,4,"₹7,572","₹2,731",Profit
+1421,04/07/2026,C154,Repeat Customer,Sofa,Furniture,Mumbai,1,"₹20,053","₹3,579",Profit
+1422,01/05/2026,C447,Repeat Customer,Phone,Electronics,Mumbai,5,"₹252,030","₹27,853",Profit
+1423,19/04/2026,C007,Repeat Customer,Skincare Set,Beauty,Delhi,5,"₹17,340","₹5,730",Profit
+1424,14/03/2026,C048,Repeat Customer,Phone,Electronics,Delhi,5,"₹154,780","₹13,936",Profit
+1425,07/01/2026,C113,Repeat Customer,Microwave,Home,Delhi,4,"₹28,056","₹5,148",Profit
+1426,18/05/2026,UNKNOWN,Repeat Customer,Bookshelf,Furniture,Bangalore,5,"₹33,450","₹7,872",Profit
+1427,24/04/2026,C093,Repeat Customer,Vacuum Cleaner,Home,Delhi,6,"₹67,758","₹12,754",Profit
+1428,20/02/2026,C288,Repeat Customer,Table,Furniture,Hyderabad,3,"₹27,411","₹6,279",Profit
+1429,14/08/2026,C223,Repeat Customer,Tablet,Electronics,Pune,5,"₹155,935","₹17,406",Profit
+1430,03/12/2026,C446,Repeat Customer,Camera,Electronics,Pune,6,"₹386,496","₹44,514",Profit
+1431,26/06/2026,C412,Repeat Customer,Jacket,Apparel,Not Specified,1,"₹4,454","₹1,237",Profit
+1432,14/01/2026,C179,Repeat Customer,Chair,Furniture,Mumbai,3,"₹10,542","₹1,979",Profit
+1433,24/04/2026,C138,Repeat Customer,Chair,Furniture,Delhi,5,"₹32,960","₹7,581",Profit
+1434,06/08/2026,C198,Repeat Customer,T-Shirt,Apparel,Delhi,1,₹872,₹292,Profit
+1435,07/05/2026,C294,Repeat Customer,Skincare Set,Beauty,Pune,0,"₹2,918",₹931,Profit
+1436,13/05/2026,C140,Repeat Customer,Smartwatch,Electronics,Pune,2,"₹26,424","₹4,912",Profit
+1437,29/05/2026,C314,Repeat Customer,Phone,Electronics,Mumbai,5,"₹77,890","₹7,144",Profit
+1438,26/07/2026,C216,Repeat Customer,Sofa,Furniture,Chennai,1,"₹29,886","₹6,387",Profit
+1439,15/08/2026,C272,Repeat Customer,Speaker,Electronics,Pune,3,"₹6,486",₹986,Profit
+1440,19/06/2026,C229,Repeat Customer,Blender,Home,Mumbai,1,"₹2,221",₹517,Profit
+1441,18/02/2026,C155,Repeat Customer,Cookware Set,Home,Chennai,1,"₹2,970",₹754,Profit
+1442,15/06/2026,C470,Repeat Customer,Smartwatch,Electronics,Bangalore,6,"₹73,062","₹15,314",Profit
+1443,03/02/2026,C391,Repeat Customer,Shoes,Apparel,Chennai,6,"₹24,372","₹6,539",Profit
+1444,25/07/2026,C070,Repeat Customer,Kurta,Apparel,Kolkata,3,"₹3,363",₹885,Profit
+1445,27/03/2026,C440,Repeat Customer,Laptop,Electronics,Mumbai,3,"₹231,879","₹31,092",Profit
+1446,20/07/2026,C249,Repeat Customer,Sofa,Furniture,Hyderabad,6,"₹47,679","₹51,088",Profit
+1447,29/03/2026,C447,Repeat Customer,Microwave,Home,Pune,4,"₹53,596","₹10,563",Profit
+1448,28/03/2026,C403,Repeat Customer,Camera,Electronics,Chennai,6,"₹47,679","₹36,097",Profit
+1449,04/08/2026,C227,Repeat Customer,Kurta,Apparel,Pune,5,"₹6,065","₹1,530",Profit
+1450,04/09/2026,C012,Repeat Customer,Blender,Home,Chennai,1,"₹2,846",₹558,Profit
+1451,02/03/2026,C140,Repeat Customer,Skincare Set,Beauty,Kolkata,1,"₹2,309",₹732,Profit
+1452,26/05/2026,C267,Repeat Customer,Perfume,Beauty,Hyderabad,5,"₹29,555","₹10,602",Profit
+1453,18/06/2026,C315,Repeat Customer,Microwave,Home,Delhi,3,"₹37,428","₹7,132",Profit
+1454,04/05/2026,C137,Repeat Customer,Kurta,Apparel,Hyderabad,2,"₹4,826","₹1,338",Profit
+1455,02/04/2026,C070,Repeat Customer,Bookshelf,Furniture,Chennai,3,"₹17,094",₹0,Profit
+1456,20/01/2026,C418,New Customer,Jacket,Apparel,Chennai,5,"₹20,955","₹7,229",Profit
+1457,24/04/2026,C476,Repeat Customer,Table,Furniture,Mumbai,2,"₹19,098","₹4,801",Profit
+1457,24/04/2026,C476,Repeat Customer,Table,Furniture,Mumbai,2,"₹19,098","₹4,801",Profit
+1458,20/06/2026,C262,Repeat Customer,Kurta,Apparel,Pune,2,"₹2,734",₹738,Profit
+1459,04/10/2026,C088,Repeat Customer,T-Shirt,Apparel,Kolkata,3,"₹1,890",₹508,Profit
+1460,25/01/2026,C141,Repeat Customer,Skincare Set,Beauty,Pune,5,"₹11,555","₹4,489",Profit
+1461,03/01/2026,C010,Repeat Customer,Perfume,Beauty,Chennai,6,"₹13,728","₹4,990",Profit
+1462,07/05/2026,C452,Repeat Customer,Laptop,Electronics,Mumbai,0,"₹84,737","₹8,349",Profit
+1463,20/06/2026,C058,Repeat Customer,Makeup Kit,Beauty,Bangalore,3,"₹10,908","₹3,315",Profit
+1464,22/02/2026,C282,Repeat Customer,Perfume,Beauty,Hyderabad,4,"₹21,884","₹1,579",Profit
+1465,02/12/2026,C141,Repeat Customer,Makeup Kit,Beauty,Chennai,6,"₹10,854","₹3,447",Profit
+1466,20/03/2026,C273,Repeat Customer,Cookware Set,Home,Hyderabad,2,"₹17,428","₹3,809",Profit
+1467,05/06/2026,C325,Repeat Customer,Cookware Set,Home,Chennai,2,"₹15,712","₹3,022",Profit
+1468,04/09/2026,C414,Repeat Customer,Headphones,Electronics,Chennai,1,"₹4,652",₹773,Profit
+1469,30/01/2026,C112,Repeat Customer,Chair,Furniture,Chennai,3,"₹24,504","₹4,466",Profit
+1470,07/06/2026,C004,Repeat Customer,Kurta,Apparel,Chennai,1,"₹1,661",₹560,Profit
+1471,07/07/2026,C070,Repeat Customer,Not Specified,Home,Pune,2,"₹18,814","₹3,683",Profit
+1472,06/09/2026,C447,Repeat Customer,Speaker,Electronics,Hyderabad,4,"₹19,924","₹3,142",Profit
+1473,24/02/2026,C442,Repeat Customer,Headphones,Electronics,Bangalore,1,"₹3,767",₹576,Profit
+1473,24/02/2026,C442,Repeat Customer,Headphones,Electronics,Bangalore,1,"₹3,767",₹576,Profit
+1474,04/02/2026,C300,New Customer,Cookware Set,Home,Kolkata,3,"₹17,940","₹3,712",Profit
+1475,05/12/2026,C303,Repeat Customer,Laptop,Electronics,Chennai,4,"₹330,112","₹44,730",Profit
+1476,05/02/2026,C337,Repeat Customer,Vacuum Cleaner,Home,Pune,6,"₹59,406","₹14,112",Profit
+1477,30/04/2026,C089,Repeat Customer,Tablet,Electronics,Hyderabad,5,"₹106,960","₹16,278",Profit
+1478,03/07/2026,C452,Repeat Customer,Tablet,Electronics,Chennai,2,"₹45,948","₹6,671",Profit
+1479,04/08/2026,C221,Repeat Customer,Skincare Set,Beauty,Delhi,5,"₹16,975","₹5,246",Profit
+1480,21/03/2026,C199,Repeat Customer,T-Shirt,Apparel,Pune,3,"₹1,254",₹327,Profit
+1481,05/08/2026,C262,Repeat Customer,Kurta,Apparel,Chennai,3,"₹6,699","₹2,208",Profit
+1482,27/07/2026,C027,New Customer,Sofa,Furniture,Mumbai,6,"₹96,750","₹16,604",Profit
+1483,19/04/2026,C084,New Customer,Camera,Electronics,Pune,2,"₹131,802","₹20,480",Profit
+1484,17/06/2026,C379,Repeat Customer,Kurta,Apparel,Chennai,6,"₹7,074","₹2,421",Profit
+1485,08/04/2026,UNKNOWN,Repeat Customer,Perfume,Beauty,Chennai,2,"₹5,836","₹2,187",Profit
+1486,17/06/2026,C305,Repeat Customer,Desk,Furniture,Chennai,1,"₹6,922","₹1,605",Profit
+1487,05/03/2026,UNKNOWN,Repeat Customer,Skincare Set,Beauty,Hyderabad,4,"₹13,852","₹5,031",Profit
+1488,16/05/2026,C201,Repeat Customer,Microwave,Home,Mumbai,6,"₹72,630","₹10,713",Profit
+1489,17/06/2026,C151,Repeat Customer,Microwave,Home,Kolkata,6,"₹42,198","₹6,432",Profit
+1490,24/04/2026,C186,Repeat Customer,Phone,Electronics,Not Specified,5,"₹157,835","₹17,782",Profit
+1491,04/02/2026,C367,Repeat Customer,Bookshelf,Furniture,Kolkata,3,"₹26,895","₹5,292",Profit
+1492,15/06/2026,C155,Repeat Customer,T-Shirt,Apparel,Delhi,3,"₹2,070",₹551,Profit
+1493,13/06/2026,C278,Repeat Customer,Skincare Set,Beauty,Hyderabad,5,"₹7,355","₹2,319",Profit
+1494,16/05/2026,C246,Repeat Customer,Table,Furniture,Mumbai,2,"₹20,966","₹4,406",Profit
+1495,03/08/2026,C336,Repeat Customer,Sofa,Furniture,Kolkata,1,"₹44,378","₹7,644",Profit
+1496,03/12/2026,C465,Repeat Customer,Smartwatch,Electronics,Hyderabad,4,"₹47,044","₹9,445",Profit
+1497,05/07/2026,C377,Repeat Customer,Perfume,Beauty,Pune,6,"₹11,472","₹3,907",Profit
+1498,07/11/2026,C115,Repeat Customer,T-Shirt,Apparel,Hyderabad,6,"₹2,634",₹794,Profit
+1499,19/04/2026,C013,Repeat Customer,Skincare Set,Beauty,Pune,5,"₹18,005","₹6,495",Profit
+1500,05/12/2026,C140,Repeat Customer,Tablet,Electronics,Bangalore,2,"₹65,330","₹9,895",Profit
+1501,16/05/2026,C298,Repeat Customer,Jeans,Apparel,Kolkata,1,"₹47,679",₹668,Profit
+1502,01/02/2026,C031,Repeat Customer,Tablet,Electronics,Chennai,3,"₹67,224","₹8,232",Profit
+1503,07/02/2026,C250,Repeat Customer,Camera,Electronics,Delhi,1,"₹28,760","₹4,159",Profit
+1504,06/02/2026,C299,Repeat Customer,Kurta,Apparel,Kolkata,6,"₹13,956","₹3,672",Profit
+1505,27/01/2026,C176,Repeat Customer,Sofa,Furniture,Bangalore,4,"₹92,472","₹18,591",Profit
+1506,06/12/2026,C391,Repeat Customer,Speaker,Electronics,Mumbai,5,"₹22,180","₹3,532",Profit
+1507,15/03/2026,C054,Repeat Customer,T-Shirt,Apparel,Chennai,4,"₹3,836","₹1,001",Profit
+1508,03/02/2026,C041,New Customer,Tablet,Electronics,Chennai,4,"₹107,652","₹11,485",Profit
+1509,07/05/2026,C373,Repeat Customer,Kurta,Apparel,Delhi,2,"₹3,778",₹989,Profit
+1510,05/04/2026,C250,Repeat Customer,Blender,Home,Hyderabad,2,"₹4,570",₹991,Profit
+1511,20/01/2026,C353,Repeat Customer,Shoes,Apparel,Pune,0,"₹5,908","₹1,871",Profit
+1512,26/02/2026,C229,Repeat Customer,Kurta,Apparel,Kolkata,4,"₹7,372","₹1,978",Profit
+1513,16/06/2026,C130,Repeat Customer,Tablet,Electronics,Mumbai,5,"₹114,025","₹15,778",Profit
+1514,01/05/2026,C412,Repeat Customer,Desk,Furniture,Bangalore,6,"₹83,994","₹16,016",Profit
+1515,25/04/2026,C402,Repeat Customer,Microwave,Home,Delhi,6,"₹67,548","₹10,499",Profit
+1516,06/05/2026,C359,Repeat Customer,Desk,Furniture,Mumbai,1,"₹13,125","₹2,556",Profit
+1517,03/05/2026,C141,Repeat Customer,T-Shirt,Apparel,Mumbai,6,"₹4,272","₹1,293",Profit
+1518,15/01/2026,C294,Repeat Customer,Vacuum Cleaner,Home,Kolkata,1,"₹16,970","₹3,714",Profit
+1519,14/08/2026,C188,Repeat Customer,Blender,Home,Delhi,0,"₹1,682",₹309,Profit
+1520,20/04/2026,C051,Repeat Customer,Perfume,Beauty,Pune,4,"₹10,356","₹3,339",Profit
+1521,30/04/2026,C454,Repeat Customer,Skincare Set,Beauty,Chennai,6,"₹21,684","₹8,278",Profit
+1522,06/04/2026,C070,Repeat Customer,Smartwatch,Electronics,Chennai,4,"₹20,820","₹3,745",Profit
+1523,04/03/2026,C470,Repeat Customer,Vacuum Cleaner,Home,Mumbai,5,"₹60,720","₹12,108",Profit
+1524,31/07/2026,C234,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹84,438","₹8,524",Profit
+1525,20/01/2026,C095,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹156,084","₹24,644",Profit
+1526,14/06/2026,C267,Repeat Customer,T-Shirt,Apparel,Mumbai,4,"₹47,679","₹1,284",Profit
+1527,24/02/2026,C442,Repeat Customer,Shoes,Apparel,Mumbai,4,"₹18,884","₹5,720",Profit
+1528,20/01/2026,C377,Repeat Customer,Kurta,Apparel,Mumbai,5,"₹9,195","₹3,049",Profit
+1529,22/07/2026,C406,Repeat Customer,Bookshelf,Furniture,Delhi,2,"₹16,872","₹3,322",Profit
+1530,26/07/2026,C331,Repeat Customer,Headphones,Electronics,Bangalore,3,"₹22,971","₹4,360",Profit
+1531,05/09/2026,C357,Repeat Customer,Kurta,Apparel,Chennai,1,"₹1,194",₹379,Profit
+1532,02/09/2026,C427,New Customer,Vacuum Cleaner,Home,Kolkata,3,"₹33,993","₹6,360",Profit
+1533,07/01/2026,C134,New Customer,Tablet,Electronics,Pune,3,"₹98,784","₹14,604",Profit
+1534,06/09/2026,C249,Repeat Customer,Jacket,Apparel,Bangalore,4,"₹16,652","₹5,728",Profit
+1535,27/02/2026,C117,Repeat Customer,Skincare Set,Beauty,Chennai,3,"₹10,785","₹4,289",Profit
+1536,05/05/2026,C476,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹35,298","₹6,935",Profit
+1537,24/02/2026,C468,Repeat Customer,Tablet,Electronics,Bangalore,5,"₹100,515","₹10,929",Profit
+1538,19/08/2026,C021,Repeat Customer,Skincare Set,Beauty,Chennai,6,"₹9,126","₹2,801",Profit
+1539,20/01/2026,C364,Repeat Customer,Sofa,Furniture,Mumbai,4,"₹47,679","₹24,405",Profit
+1540,08/08/2026,C460,Repeat Customer,Smartwatch,Electronics,Bangalore,6,"₹80,226","₹17,068",Profit
+1541,18/08/2026,C093,Repeat Customer,Microwave,Home,Delhi,6,"₹48,444","₹8,369",Profit
+1542,04/08/2026,C279,New Customer,Tablet,Electronics,Hyderabad,4,"₹114,268","₹13,841",Profit
+1543,20/05/2026,C452,Repeat Customer,Skincare Set,Beauty,Chennai,6,"₹20,046","₹7,829",Profit
+1544,20/07/2026,C015,Repeat Customer,Microwave,Home,Pune,3,"₹35,673","₹6,657",Profit
+1544,20/07/2026,C015,Repeat Customer,Microwave,Home,Pune,3,"₹35,673","₹6,657",Profit
+1545,29/07/2026,C359,Repeat Customer,Desk,Furniture,Pune,3,"₹28,152","₹5,663",Profit
+1546,20/08/2026,C155,Repeat Customer,Bookshelf,Furniture,Bangalore,5,"₹37,610","₹9,698",Profit
+1547,30/04/2026,C458,New Customer,Chair,Furniture,Delhi,2,"₹14,260","₹3,224",Profit
+1548,17/07/2026,C476,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹45,084","₹8,808",Profit
+1549,26/01/2026,C468,Repeat Customer,Headphones,Electronics,Mumbai,6,"₹37,476","₹6,037",Profit
+1550,29/03/2026,C246,Repeat Customer,Headphones,Electronics,Chennai,1,"₹3,222",₹604,Profit
+1551,26/02/2026,C436,Repeat Customer,Cookware Set,Home,Kolkata,2,"₹12,548","₹3,188",Profit
+1552,13/03/2026,C422,Repeat Customer,Smartwatch,Electronics,Bangalore,2,"₹12,026","₹2,268",Profit
+1553,26/04/2026,C163,Repeat Customer,Microwave,Home,Bangalore,2,"₹25,984","₹4,333",Profit
+1554,04/06/2026,C413,Repeat Customer,Shoes,Apparel,Bangalore,3,"₹17,841","₹5,075",Profit
+1555,26/07/2026,C019,New Customer,Laptop,Electronics,Bangalore,6,"₹339,312","₹38,697",Profit
+1556,01/06/2026,C299,Repeat Customer,Vacuum Cleaner,Home,Chennai,4,"₹36,824","₹6,475",Profit
+1557,07/12/2026,C121,Repeat Customer,Microwave,Home,Delhi,3,"₹21,441","₹3,519",Profit
+1558,24/03/2026,C062,Repeat Customer,Bookshelf,Furniture,Chennai,4,"₹25,776",₹0,Profit
+1559,04/08/2026,C043,Repeat Customer,Chair,Furniture,Mumbai,6,"₹36,126","₹2,214",Profit
+1560,24/03/2026,C359,Repeat Customer,Smartwatch,Electronics,Kolkata,2,"₹26,926","₹5,458",Profit
+1561,04/09/2026,C179,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹13,068","₹3,052",Profit
+1562,05/12/2026,C368,Repeat Customer,Camera,Electronics,Pune,5,"₹268,400","₹39,086",Profit
+1563,04/01/2026,C035,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹24,096","₹5,005",Profit
+1564,16/05/2026,C161,Repeat Customer,Headphones,Electronics,Bangalore,2,"₹9,502","₹1,907",Profit
+1565,07/07/2026,C266,Repeat Customer,Tablet,Electronics,Hyderabad,2,"₹37,278","₹3,846",Profit
+1566,24/06/2026,UNKNOWN,Repeat Customer,Jacket,Apparel,Mumbai,2,"₹5,846","₹1,874",Profit
+1567,05/01/2026,C163,Repeat Customer,Jeans,Apparel,Mumbai,6,"₹16,458",₹0,Profit
+1568,28/04/2026,C314,Repeat Customer,Microwave,Home,Hyderabad,2,"₹27,212","₹5,042",Profit
+1569,21/04/2026,C445,Repeat Customer,Perfume,Beauty,Bangalore,6,"₹31,002","₹11,426",Profit
+1570,21/03/2026,C307,Repeat Customer,Camera,Electronics,Chennai,3,"₹183,249","₹28,211",Profit
+1571,23/05/2026,C122,Repeat Customer,Perfume,Beauty,Bangalore,1,"₹4,750","₹1,694",Profit
+1572,14/03/2026,C012,Repeat Customer,Sofa,Furniture,Delhi,1,"₹47,679","₹5,072",Profit
+1573,20/08/2026,C442,Repeat Customer,Blender,Home,Mumbai,6,"₹15,648","₹3,421",Profit
+1574,20/05/2026,C012,Repeat Customer,Sofa,Furniture,Kolkata,5,"₹146,400","₹25,264",Profit
+1575,13/07/2026,C442,Repeat Customer,T-Shirt,Apparel,Delhi,4,"₹4,040","₹1,387",Profit
+1576,15/01/2026,C262,Repeat Customer,Chair,Furniture,Kolkata,2,"₹16,172","₹3,642",Profit
+1577,27/02/2026,C465,Repeat Customer,Tablet,Electronics,Bangalore,3,"₹100,584","₹12,057",Profit
+1578,04/11/2026,C402,Repeat Customer,Smartwatch,Electronics,Bangalore,6,"₹19,266","₹3,730",Profit
+1579,05/11/2026,C479,Repeat Customer,Kurta,Apparel,Chennai,2,"₹4,646","₹1,282",Profit
+1580,01/03/2026,C184,Repeat Customer,Jacket,Apparel,Chennai,6,"₹11,454","₹3,428",Profit
+1581,17/01/2026,C391,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹9,811","₹1,937",Profit
+1582,07/01/2026,C211,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,4,"₹62,868","₹10,763",Profit
+1583,14/07/2026,C248,Repeat Customer,Shoes,Apparel,Bangalore,3,"₹17,469","₹4,451",Profit
+1584,14/02/2026,C314,Repeat Customer,Makeup Kit,Beauty,Pune,2,"₹7,964","₹2,991",Profit
+1585,21/06/2026,C442,Repeat Customer,Kurta,Apparel,Mumbai,5,"₹8,695","₹2,393",Profit
+1586,08/07/2026,C476,Repeat Customer,Smartwatch,Electronics,Delhi,4,"₹21,432","₹4,238",Profit
+1587,30/06/2026,C391,Repeat Customer,T-Shirt,Apparel,Hyderabad,1,₹882,₹289,Profit
+1588,28/03/2026,C220,Repeat Customer,Speaker,Electronics,Bangalore,5,"₹29,775","₹6,408",Profit
+1589,17/04/2026,C223,Repeat Customer,Phone,Electronics,Mumbai,6,"₹201,606","₹24,152",Profit
+1590,20/07/2026,C379,Repeat Customer,Headphones,Electronics,Kolkata,2,"₹7,432","₹1,192",Profit
+1591,29/03/2026,C126,Repeat Customer,Kurta,Apparel,Hyderabad,1,"₹1,731",₹499,Profit
+1592,01/12/2026,C055,Repeat Customer,Chair,Furniture,Delhi,2,"₹12,766","₹3,205",Profit
+1593,04/04/2026,C185,Repeat Customer,Chair,Furniture,Bangalore,4,"₹27,684","₹6,437",Profit
+1594,07/09/2026,C151,Repeat Customer,Vacuum Cleaner,Home,Mumbai,3,"₹27,672","₹5,542",Profit
+1595,06/06/2026,C155,Repeat Customer,Makeup Kit,Beauty,Pune,1,"₹1,962",₹716,Profit
+1596,03/09/2026,C122,Repeat Customer,Kurta,Apparel,Chennai,2,"₹2,042",₹645,Profit
+1597,19/04/2026,C024,Repeat Customer,Laptop,Electronics,Bangalore,5,"₹317,235","₹40,275",Profit
+1598,06/07/2026,C009,Repeat Customer,Shoes,Apparel,Bangalore,4,"₹19,312","₹6,034",Profit
+1599,25/02/2026,C476,Repeat Customer,Table,Furniture,Pune,5,"₹31,010","₹6,991",Profit
+1600,17/06/2026,C227,Repeat Customer,Headphones,Electronics,Bangalore,5,"₹20,360","₹3,950",Profit
+1601,24/04/2026,C199,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹8,665","₹2,785",Profit
+1602,01/08/2026,C348,New Customer,Camera,Electronics,Bangalore,6,"₹283,560","₹35,611",Profit
+1603,16/06/2026,C116,Repeat Customer,Smartwatch,Electronics,Kolkata,0,"₹9,929","₹1,844",Profit
+1604,17/03/2026,C470,Repeat Customer,Chair,Furniture,Kolkata,5,"₹40,815","₹8,711",Profit
+1605,28/02/2026,C397,Repeat Customer,Desk,Furniture,Mumbai,6,"₹41,340","₹8,912",Profit
+1606,27/04/2026,C051,Repeat Customer,Smartwatch,Electronics,Kolkata,4,"₹30,104","₹6,192",Profit
+1607,28/06/2026,C220,Repeat Customer,Table,Furniture,Pune,4,"₹72,680","₹18,137",Profit
+1608,29/06/2026,C442,Repeat Customer,Tablet,Electronics,Bangalore,3,"₹103,143","₹10,981",Profit
+1609,29/03/2026,C468,Repeat Customer,Microwave,Home,Pune,1,"₹7,494","₹1,316",Profit
+1610,26/01/2026,C243,Repeat Customer,Shoes,Apparel,Kolkata,4,"₹13,344","₹3,360",Profit
+1611,06/03/2026,C306,Repeat Customer,Sofa,Furniture,Bangalore,2,"₹88,022","₹18,990",Profit
+1612,08/05/2026,C085,Repeat Customer,Blender,Home,Kolkata,1,"₹3,500",₹567,Profit
+1613,18/07/2026,C479,Repeat Customer,Jacket,Apparel,Bangalore,2,"₹5,280","₹1,381",Profit
+1614,03/09/2026,C122,Repeat Customer,Phone,Electronics,Chennai,6,"₹276,978","₹36,141",Profit
+1615,06/07/2026,C468,Repeat Customer,Speaker,Electronics,Hyderabad,2,"₹10,506","₹1,641",Profit
+1616,18/08/2026,C325,Repeat Customer,Vacuum Cleaner,Home,Bangalore,6,"₹41,700","₹9,476",Profit
+1617,01/08/2026,C306,Repeat Customer,Jeans,Apparel,Bangalore,4,"₹5,096","₹1,761",Profit
+1618,26/02/2026,C258,Repeat Customer,T-Shirt,Apparel,Delhi,3,"₹1,701",₹495,Profit
+1619,13/05/2026,C121,Repeat Customer,Camera,Electronics,Pune,5,"₹300,130","₹40,907",Profit
+1620,22/07/2026,C090,Repeat Customer,Speaker,Electronics,Pune,6,"₹34,542","₹5,571",Profit
+1621,07/07/2026,C117,Repeat Customer,Sofa,Furniture,Delhi,6,"₹138,618","₹28,069",Profit
+1622,28/05/2026,C096,Repeat Customer,Blender,Home,Kolkata,1,"₹4,514",₹863,Profit
+1623,01/07/2026,C395,Repeat Customer,Headphones,Electronics,Mumbai,5,"₹18,905","₹4,551",Profit
+1624,07/05/2026,C183,Repeat Customer,Desk,Furniture,Chennai,6,"₹60,534","₹14,817",Profit
+1625,16/06/2026,C034,Repeat Customer,Phone,Electronics,Pune,4,"₹129,644","₹16,861",Profit
+1626,19/04/2026,C476,Repeat Customer,Jacket,Apparel,Kolkata,6,"₹27,012","₹7,036",Profit
+1627,14/05/2026,C443,Repeat Customer,Shoes,Apparel,Chennai,5,"₹22,125","₹5,524",Profit
+1628,18/01/2026,C462,Repeat Customer,Perfume,Beauty,Bangalore,3,"₹15,201","₹5,983",Profit
+1628,18/01/2026,C462,Repeat Customer,Perfume,Beauty,Bangalore,3,"₹15,201","₹5,983",Profit
+1629,08/11/2026,C479,Repeat Customer,Perfume,Beauty,Mumbai,1,"₹5,605","₹1,734",Profit
+1630,26/03/2026,C089,Repeat Customer,Desk,Furniture,Kolkata,3,"₹42,579","₹9,910",Profit
+1631,18/08/2026,C205,Repeat Customer,Cookware Set,Home,Bangalore,6,"₹42,270","₹9,209",Profit
+1632,02/12/2026,C390,Repeat Customer,Jeans,Apparel,Chennai,3,"₹6,117","₹1,601",Profit
+1633,24/02/2026,C359,Repeat Customer,Perfume,Beauty,Mumbai,5,"₹24,085","₹9,125",Profit
+1634,14/06/2026,C076,Repeat Customer,Camera,Electronics,Chennai,6,"₹124,194","₹15,109",Profit
+1635,01/10/2026,C411,Repeat Customer,Perfume,Beauty,Hyderabad,6,"₹10,008","₹3,826",Profit
+1636,27/03/2026,C119,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹4,556","₹1,746",Profit
+1637,24/04/2026,C119,Repeat Customer,Bookshelf,Furniture,Hyderabad,5,"₹49,575","₹10,971",Profit
+1638,23/03/2026,C265,Repeat Customer,Perfume,Beauty,Kolkata,6,"₹7,356","₹2,619",Profit
+1639,15/02/2026,C297,Repeat Customer,Speaker,Electronics,Pune,3,"₹28,626","₹5,745",Profit
+1640,01/10/2026,C285,Repeat Customer,T-Shirt,Apparel,Mumbai,3,"₹1,512",₹422,Profit
+1641,30/04/2026,C051,Repeat Customer,Smartwatch,Electronics,Kolkata,6,"₹103,296","₹21,357",Profit
+1642,28/03/2026,C442,Repeat Customer,Shoes,Apparel,Hyderabad,4,"₹8,580","₹2,164",Profit
+1643,13/04/2026,C140,Repeat Customer,Desk,Furniture,Bangalore,5,"₹40,250","₹8,658",Profit
+1644,26/05/2026,C068,Repeat Customer,Chair,Furniture,Pune,5,"₹19,415","₹4,696",Profit
+1645,22/04/2026,C446,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹6,533","₹1,249",Profit
+1646,02/02/2026,C472,Repeat Customer,Skincare Set,Beauty,Kolkata,3,"₹2,460",₹822,Profit
+1647,04/03/2026,C436,Repeat Customer,Kurta,Apparel,Pune,3,"₹6,834","₹2,304",Profit
+1648,03/08/2026,C407,Repeat Customer,Cookware Set,Home,Kolkata,1,"₹7,288","₹1,603",Profit
+1649,28/02/2026,C328,Repeat Customer,Speaker,Electronics,Chennai,1,"₹9,617","₹1,675",Profit
+1650,08/11/2026,C272,Repeat Customer,T-Shirt,Apparel,Bangalore,1,₹918,₹312,Profit
+1651,28/03/2026,C049,Repeat Customer,Bookshelf,Furniture,Hyderabad,2,"₹16,436","₹3,915",Profit
+1652,02/07/2026,C215,Repeat Customer,Laptop,Electronics,Kolkata,3,"₹175,164","₹18,708",Profit
+1653,14/08/2026,C194,Repeat Customer,Table,Furniture,Bangalore,6,"₹96,672","₹23,785",Profit
+1654,19/03/2026,C138,Repeat Customer,Makeup Kit,Beauty,Delhi,6,"₹24,408","₹8,300",Profit
+1655,15/04/2026,C368,Repeat Customer,Chair,Furniture,Hyderabad,3,"₹23,088","₹5,560",Profit
+1656,06/02/2026,C250,Repeat Customer,Skincare Set,Beauty,Mumbai,4,"₹13,012","₹4,729",Profit
+1657,05/05/2026,C044,Repeat Customer,Blender,Home,Delhi,3,"₹8,754","₹1,506",Profit
+1658,23/05/2026,C117,Repeat Customer,Camera,Electronics,Hyderabad,3,"₹119,775","₹14,243",Profit
+1659,25/02/2026,C351,Repeat Customer,Kurta,Apparel,Kolkata,5,"₹11,700","₹3,388",Profit
+1660,08/12/2026,C042,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹9,441","₹2,424",Profit
+1661,06/03/2026,C428,Repeat Customer,Blender,Home,Pune,4,"₹16,748","₹3,895",Profit
+1662,07/05/2026,C250,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹144,620","₹17,507",Profit
+1663,26/03/2026,C248,Repeat Customer,Perfume,Beauty,Mumbai,3,"₹5,190","₹1,664",Profit
+1664,06/05/2026,C296,Repeat Customer,Chair,Furniture,Chennai,1,"₹3,056",₹716,Profit
+1665,03/09/2026,C413,Repeat Customer,Laptop,Electronics,Chennai,6,"₹233,508","₹24,262",Profit
+1666,17/03/2026,C183,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹146,052","₹22,605",Profit
+1667,23/04/2026,C347,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹2,838",₹751,Profit
+1668,19/08/2026,C277,Repeat Customer,Perfume,Beauty,Mumbai,3,"₹13,041","₹4,209",Profit
+1669,02/08/2026,C140,Repeat Customer,Smartwatch,Electronics,Kolkata,3,"₹45,801","₹9,839",Profit
+1670,26/03/2026,C442,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹120,204","₹16,626",Profit
+1671,06/05/2026,C402,Repeat Customer,Blender,Home,Pune,1,"₹4,768",₹979,Profit
+1672,20/02/2026,C330,Repeat Customer,Makeup Kit,Beauty,Mumbai,1,"₹4,711","₹1,659",Profit
+1673,03/06/2026,C428,Repeat Customer,Jacket,Apparel,Mumbai,5,"₹11,900",₹544,Profit
+1674,05/05/2026,C439,Repeat Customer,Jacket,Apparel,Hyderabad,5,"₹17,395","₹6,003",Profit
+1675,20/03/2026,C365,Repeat Customer,Shoes,Apparel,Chennai,2,"₹3,074",₹883,Profit
+1676,21/07/2026,C419,Repeat Customer,Tablet,Electronics,Hyderabad,5,"₹109,450","₹11,960",Profit
+1677,04/01/2026,C359,Repeat Customer,Chair,Furniture,Bangalore,3,"₹18,111","₹3,743",Profit
+1678,08/08/2026,C349,Repeat Customer,Jeans,Apparel,Pune,6,"₹9,768","₹3,142",Profit
+1679,13/06/2026,C309,Repeat Customer,Speaker,Electronics,Bangalore,6,"₹70,284","₹15,320",Profit
+1680,03/08/2026,C387,New Customer,Jeans,Apparel,Bangalore,2,"₹2,206",₹722,Profit
+1681,06/04/2026,C079,Repeat Customer,Perfume,Beauty,Delhi,1,"₹3,771","₹1,267",Profit
+1682,14/03/2026,C442,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹123,744","₹18,549",Profit
+1683,30/04/2026,C442,Repeat Customer,Makeup Kit,Beauty,Delhi,5,"₹20,985","₹6,627",Profit
+1684,27/02/2026,C012,Repeat Customer,Makeup Kit,Beauty,Mumbai,1,"₹1,744",₹582,Profit
+1685,01/07/2026,C413,Repeat Customer,Chair,Furniture,Kolkata,3,"₹22,083","₹5,150",Profit
+1686,19/08/2026,C068,Repeat Customer,Phone,Electronics,Pune,3,"₹49,617","₹4,908",Profit
+1687,02/01/2026,C177,Repeat Customer,Kurta,Apparel,Delhi,6,"₹14,094","₹4,059",Profit
+1688,26/01/2026,C384,Repeat Customer,Jacket,Apparel,Hyderabad,6,"₹16,782","₹4,548",Profit
+1689,15/02/2026,C081,Repeat Customer,Headphones,Electronics,Chennai,6,"₹23,778","₹5,234",Profit
+1690,21/06/2026,C412,Repeat Customer,Smartwatch,Electronics,Mumbai,1,"₹5,004",₹824,Profit
+1691,01/12/2026,C415,Repeat Customer,Tablet,Electronics,Pune,4,"₹86,748","₹11,929",Profit
+1692,01/01/2026,C257,Repeat Customer,Makeup Kit,Beauty,Kolkata,1,"₹1,061",₹341,Profit
+1693,07/10/2026,C002,Repeat Customer,Table,Furniture,Mumbai,5,"₹59,945","₹13,995",Profit
+1694,02/07/2026,C151,Repeat Customer,Cookware Set,Home,Delhi,3,"₹10,536","₹2,150",Profit
+1695,06/10/2026,C308,Repeat Customer,Phone,Electronics,Hyderabad,4,"₹213,640","₹19,627",Profit
+1696,27/04/2026,C476,Repeat Customer,Kurta,Apparel,Chennai,4,"₹7,488","₹2,201",Profit
+1697,22/04/2026,C315,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹10,405","₹2,407",Profit
+1698,19/05/2026,C138,Repeat Customer,Shoes,Apparel,Mumbai,5,"₹12,980","₹3,738",Profit
+1699,13/04/2026,C316,Repeat Customer,Shoes,Apparel,Mumbai,1,"₹2,356",₹720,Profit
+1700,30/07/2026,C266,Repeat Customer,T-Shirt,Apparel,Chennai,2,"₹2,076",₹519,Profit
+1701,24/04/2026,C395,Repeat Customer,Chair,Furniture,Chennai,6,"₹38,592","₹7,543",Profit
+1702,07/04/2026,C054,Repeat Customer,Bookshelf,Furniture,Delhi,5,"₹32,745","₹7,915",Profit
+1703,08/10/2026,C391,Repeat Customer,Phone,Electronics,Chennai,3,"₹58,182","₹6,141",Profit
+1704,01/04/2026,C266,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹10,108","₹3,138",Profit
+1705,06/01/2026,C473,Repeat Customer,Chair,Furniture,Kolkata,5,"₹32,765","₹6,170",Profit
+1706,13/04/2026,C179,Repeat Customer,Tablet,Electronics,Kolkata,2,"₹53,638","₹7,646",Profit
+1707,03/05/2026,C315,Repeat Customer,T-Shirt,Apparel,Hyderabad,2,"₹1,760",₹550,Profit
+1708,04/01/2026,C465,Repeat Customer,Bookshelf,Furniture,Chennai,6,"₹36,930","₹7,121",Profit
+1709,02/10/2026,C053,Repeat Customer,Chair,Furniture,Bangalore,1,"₹8,914","₹1,894",Profit
+1710,02/07/2026,C465,Repeat Customer,Tablet,Electronics,Mumbai,5,"₹189,725","₹22,344",Profit
+1711,03/12/2026,C353,Repeat Customer,Kurta,Apparel,Mumbai,1,"₹2,330",₹772,Profit
+1712,08/06/2026,C035,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹9,614","₹3,091",Profit
+1713,03/05/2026,C155,Repeat Customer,Microwave,Home,Chennai,6,"₹65,778","₹10,249",Profit
+1714,28/04/2026,C365,Repeat Customer,Tablet,Electronics,Pune,6,"₹183,528","₹19,506",Profit
+1715,07/06/2026,C035,Repeat Customer,T-Shirt,Apparel,Delhi,2,₹644,₹196,Profit
+1716,22/03/2026,C288,Repeat Customer,T-Shirt,Apparel,Hyderabad,2,"₹1,410",₹416,Profit
+1717,05/07/2026,C183,Repeat Customer,Phone,Electronics,Hyderabad,5,"₹99,215","₹8,359",Profit
+1718,21/02/2026,C311,Repeat Customer,Tablet,Electronics,Chennai,6,"₹166,170","₹20,418",Profit
+1719,24/07/2026,C026,Repeat Customer,Not Specified,Home,Delhi,1,"₹12,583","₹2,898",Profit
+1720,02/08/2026,C442,Repeat Customer,Headphones,Electronics,Mumbai,5,"₹27,905","₹4,795",Profit
+1721,27/04/2026,C476,Repeat Customer,Cookware Set,Home,Delhi,1,"₹8,612","₹2,194",Profit
+1722,18/06/2026,C476,Repeat Customer,Kurta,Apparel,Pune,1,"₹1,969",₹558,Profit
+1723,20/04/2026,C386,Repeat Customer,Tablet,Electronics,Pune,6,"₹218,736","₹28,794",Profit
+1724,07/11/2026,C068,Repeat Customer,Jacket,Apparel,Delhi,3,"₹11,394","₹3,291",Profit
+1725,28/06/2026,C390,Repeat Customer,Vacuum Cleaner,Home,Bangalore,5,"₹22,290","₹4,106",Profit
+1726,28/07/2026,C012,Repeat Customer,Jeans,Apparel,Mumbai,6,"₹12,666",₹0,Profit
+1727,07/08/2026,C012,Repeat Customer,Speaker,Electronics,Chennai,3,"₹25,755","₹4,118",Profit
+1728,30/01/2026,C166,Repeat Customer,Laptop,Electronics,Chennai,4,"₹212,896","₹19,452",Profit
+1729,15/08/2026,C249,Repeat Customer,Jacket,Apparel,Delhi,3,"₹6,555","₹1,806",Profit
+1730,16/07/2026,C391,Repeat Customer,Jacket,Apparel,Mumbai,1,"₹3,420",₹893,Profit
+1731,17/01/2026,C351,Repeat Customer,Camera,Electronics,Pune,3,"₹68,601","₹10,764",Profit
+1732,07/04/2026,C234,Repeat Customer,Bookshelf,Furniture,Hyderabad,1,"₹11,137","₹2,756",Profit
+1733,05/02/2026,C141,Repeat Customer,Desk,Furniture,Delhi,1,"₹8,828","₹1,591",Profit
+1734,13/06/2026,C479,Repeat Customer,Sofa,Furniture,Hyderabad,4,"₹179,304","₹35,466",Profit
+1735,18/04/2026,C227,Repeat Customer,Kurta,Apparel,Bangalore,3,"₹6,345","₹2,097",Profit
+1736,29/04/2026,C239,Repeat Customer,Jeans,Apparel,Chennai,4,"₹9,156","₹2,898",Profit
+1737,04/09/2026,C082,Repeat Customer,T-Shirt,Apparel,Bangalore,2,"₹1,404",₹366,Profit
+1738,05/05/2026,C400,Repeat Customer,Jeans,Apparel,Delhi,4,"₹6,020","₹1,954",Profit
+1739,20/03/2026,C358,Repeat Customer,Cookware Set,Home,Kolkata,1,"₹7,539","₹1,396",Profit
+1740,06/10/2026,C117,Repeat Customer,Bookshelf,Furniture,Kolkata,4,"₹31,564","₹6,123",Profit
+1741,27/05/2026,C045,Repeat Customer,Perfume,Beauty,Pune,1,"₹2,401",₹743,Profit
+1742,07/02/2026,C349,Repeat Customer,Jacket,Apparel,Hyderabad,3,"₹5,544","₹1,424",Profit
+1743,16/06/2026,C327,Repeat Customer,Desk,Furniture,Kolkata,4,"₹21,044","₹4,781",Profit
+1744,27/06/2026,C141,Repeat Customer,Jeans,Apparel,Chennai,3,"₹8,028","₹2,274",Profit
+1745,08/09/2026,C470,Repeat Customer,Bookshelf,Furniture,Bangalore,4,"₹29,340","₹5,591",Profit
+1746,30/05/2026,C074,Repeat Customer,Smartwatch,Electronics,Pune,2,"₹10,876","₹1,680",Profit
+1747,07/03/2026,C227,Repeat Customer,Jeans,Apparel,Hyderabad,6,"₹7,398","₹1,891",Profit
+1748,02/06/2026,C468,Repeat Customer,Shoes,Apparel,Mumbai,2,"₹47,679","₹2,413",Profit
+1749,07/08/2026,C221,Repeat Customer,Camera,Electronics,Hyderabad,1,"₹32,333","₹3,856",Profit
+1749,07/08/2026,C221,Repeat Customer,Camera,Electronics,Hyderabad,1,"₹32,333","₹3,856",Profit
+1750,23/03/2026,C320,New Customer,Skincare Set,Beauty,Bangalore,2,"₹2,128",₹743,Profit
+1751,13/02/2026,C206,Repeat Customer,Desk,Furniture,Hyderabad,6,"₹36,474","₹8,687",Profit
+1752,04/04/2026,C141,Repeat Customer,Jeans,Apparel,Chennai,4,"₹10,796","₹3,200",Profit
+1753,07/05/2026,C476,Repeat Customer,Skincare Set,Beauty,Mumbai,2,"₹3,376","₹1,144",Profit
+1754,02/10/2026,C216,Repeat Customer,Speaker,Electronics,Chennai,1,"₹7,789",₹0,Profit
+1755,26/06/2026,C446,Repeat Customer,Cookware Set,Home,Chennai,5,"₹15,300","₹3,171",Profit
+1756,28/07/2026,C121,Repeat Customer,Bookshelf,Furniture,Hyderabad,4,"₹41,780","₹8,659",Profit
+1757,03/12/2026,C114,Repeat Customer,Jacket,Apparel,Delhi,1,"₹3,073",₹959,Profit
+1758,06/02/2026,C013,Repeat Customer,Phone,Electronics,Chennai,6,"₹73,200","₹9,478",Profit
+1759,30/04/2026,C326,Repeat Customer,Phone,Electronics,Hyderabad,5,"₹225,190","₹28,698",Profit
+1760,22/05/2026,C193,Repeat Customer,Jeans,Apparel,Hyderabad,2,"₹5,238","₹1,365",Profit
+1761,02/03/2026,C438,Repeat Customer,Makeup Kit,Beauty,Chennai,6,"₹16,668","₹5,659",Profit
+1762,21/05/2026,C246,Repeat Customer,Smartwatch,Electronics,Mumbai,2,"₹21,400","₹3,749",Profit
+1763,05/09/2026,C475,Repeat Customer,Jeans,Apparel,Mumbai,3,"₹5,193","₹1,633",Profit
+1764,14/08/2026,C095,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,5,"₹82,710","₹13,389",Profit
+1765,31/01/2026,C440,Repeat Customer,Speaker,Electronics,Chennai,5,"₹10,600","₹2,142",Profit
+1766,24/02/2026,C393,Repeat Customer,Jeans,Apparel,Kolkata,6,"₹17,376","₹4,699",Profit
+1767,28/04/2026,C391,Repeat Customer,Desk,Furniture,Chennai,6,"₹52,590","₹13,186",Profit
+1768,01/06/2026,C423,New Customer,Speaker,Electronics,Chennai,5,"₹33,375","₹6,564",Profit
+1769,24/07/2026,C391,Repeat Customer,Speaker,Electronics,Delhi,2,"₹10,250","₹2,069",Profit
+1770,25/02/2026,C314,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹11,807","₹1,995",Profit
+1771,08/12/2026,C070,Repeat Customer,Laptop,Electronics,Delhi,4,"₹248,112","₹20,046",Profit
+1772,04/06/2026,C014,Repeat Customer,Laptop,Electronics,Hyderabad,5,"₹448,740","₹50,948",Profit
+1773,21/04/2026,C454,Repeat Customer,Blender,Home,Kolkata,6,"₹24,708","₹4,297",Profit
+1774,08/06/2026,C308,Repeat Customer,Smartwatch,Electronics,Bangalore,6,"₹109,728","₹20,600",Profit
+1775,05/06/2026,C402,Repeat Customer,Camera,Electronics,Pune,1,"₹47,458","₹7,566",Profit
+1776,28/02/2026,C248,Repeat Customer,Desk,Furniture,Kolkata,5,"₹57,175","₹11,897",Profit
+1777,31/01/2026,C058,Repeat Customer,Perfume,Beauty,Bangalore,4,"₹14,724","₹5,215",Profit
+1778,29/06/2026,C065,New Customer,Kurta,Apparel,Delhi,3,"₹3,906","₹1,057",Profit
+1779,07/05/2026,C352,Repeat Customer,Blender,Home,Pune,6,"₹23,424","₹4,405",Profit
+1780,01/08/2026,C227,Repeat Customer,Tablet,Electronics,Chennai,3,"₹68,727","₹8,807",Profit
+1781,26/03/2026,C107,Repeat Customer,Shoes,Apparel,Mumbai,6,"₹33,768","₹10,552",Profit
+1782,26/07/2026,C249,Repeat Customer,Headphones,Electronics,Mumbai,2,"₹3,092",₹694,Profit
+1783,23/05/2026,C035,Repeat Customer,Tablet,Electronics,Mumbai,6,"₹208,986","₹26,391",Profit
+1784,23/05/2026,C287,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹26,574","₹5,333",Profit
+1785,16/05/2026,C140,Repeat Customer,Skincare Set,Beauty,Mumbai,1,"₹47,679",₹990,Profit
+1786,08/09/2026,C402,Repeat Customer,Smartwatch,Electronics,Bangalore,4,"₹39,988","₹7,327",Profit
+1787,04/06/2026,C158,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹46,026","₹9,783",Profit
+1788,24/05/2026,C241,Repeat Customer,Chair,Furniture,Hyderabad,4,"₹32,148","₹7,097",Profit
+1789,08/12/2026,C005,Repeat Customer,Smartwatch,Electronics,Pune,3,"₹36,267","₹6,619",Profit
+1790,05/12/2026,C039,Repeat Customer,Blender,Home,Hyderabad,6,"₹28,308","₹5,592",Profit
+1791,17/03/2026,C204,Repeat Customer,Bookshelf,Furniture,Mumbai,3,"₹35,895","₹8,832",Profit
+1792,03/04/2026,C248,Repeat Customer,Perfume,Beauty,Kolkata,2,"₹9,980","₹3,167",Profit
+1793,30/05/2026,C303,Repeat Customer,Microwave,Home,Chennai,2,"₹18,346","₹2,846",Profit
+1794,21/05/2026,C152,New Customer,T-Shirt,Apparel,Mumbai,4,"₹3,772","₹1,167",Profit
+1795,08/04/2026,C359,Repeat Customer,Tablet,Electronics,Hyderabad,2,"₹32,616","₹1,313",Profit
+1796,28/04/2026,C434,Repeat Customer,Microwave,Home,Bangalore,2,"₹22,558","₹3,992",Profit
+1797,06/07/2026,C395,Repeat Customer,Chair,Furniture,Bangalore,2,"₹16,996","₹3,847",Profit
+1798,04/07/2026,C021,Repeat Customer,Table,Furniture,Mumbai,4,"₹52,616","₹11,676",Profit
+1799,27/05/2026,C248,Repeat Customer,Camera,Electronics,Bangalore,3,"₹108,909","₹16,761",Profit
+1800,01/10/2026,C053,Repeat Customer,Jacket,Apparel,Chennai,4,"₹7,464","₹2,125",Profit
+1801,02/12/2026,C128,Repeat Customer,Chair,Furniture,Delhi,2,"₹7,512","₹1,684",Profit
+1802,18/01/2026,C476,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹47,490","₹11,653",Profit
+1803,15/01/2026,C070,Repeat Customer,Speaker,Electronics,Kolkata,4,"₹44,268","₹8,881",Profit
+1804,01/01/2026,C251,Repeat Customer,Jacket,Apparel,Mumbai,2,"₹7,988","₹2,455",Profit
+1805,02/12/2026,C309,Repeat Customer,Jacket,Apparel,Hyderabad,5,"₹18,585","₹6,298",Profit
+1806,06/01/2026,C362,Repeat Customer,Phone,Electronics,Mumbai,3,"₹94,674","₹12,709",Profit
+1807,18/08/2026,C274,Repeat Customer,Vacuum Cleaner,Home,Pune,2,"₹12,662","₹2,255",Profit
+1808,01/03/2026,C004,Repeat Customer,Desk,Furniture,Delhi,4,"₹48,400","₹9,850",Profit
+1809,23/04/2026,C169,New Customer,Perfume,Beauty,Kolkata,1,"₹5,373","₹1,891",Profit
+1810,06/07/2026,C262,Repeat Customer,Shoes,Apparel,Delhi,5,"₹28,195","₹9,018",Profit
+1811,07/06/2026,C049,Repeat Customer,Phone,Electronics,Delhi,2,"₹49,492","₹4,534",Profit
+1812,26/03/2026,C183,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹5,068","₹1,499",Profit
+1813,06/01/2026,C014,Repeat Customer,Smartwatch,Electronics,Hyderabad,6,"₹72,846","₹14,895",Profit
+1814,06/09/2026,C044,Repeat Customer,Tablet,Electronics,Pune,2,"₹44,348","₹5,096",Profit
+1815,24/02/2026,C205,Repeat Customer,Headphones,Electronics,Pune,1,"₹5,068",₹979,Profit
+1816,26/07/2026,C070,Repeat Customer,Sofa,Furniture,Mumbai,2,"₹52,026","₹8,995",Profit
+1817,22/01/2026,C278,Repeat Customer,Phone,Electronics,Delhi,1,"₹20,747","₹2,709",Profit
+1818,25/01/2026,C354,Repeat Customer,Camera,Electronics,Pune,4,"₹208,544","₹28,279",Profit
+1819,20/06/2026,C403,Repeat Customer,Sofa,Furniture,Delhi,3,"₹110,373","₹20,207",Profit
+1820,02/01/2026,C106,New Customer,Smartwatch,Electronics,Hyderabad,1,"₹4,925",₹779,Profit
+1821,18/06/2026,C085,Repeat Customer,Skincare Set,Beauty,Kolkata,3,"₹11,112","₹3,859",Profit
+1822,27/03/2026,C053,Repeat Customer,Bookshelf,Furniture,Chennai,3,"₹30,315","₹6,480",Profit
+1823,05/09/2026,C317,Repeat Customer,Chair,Furniture,Kolkata,3,"₹47,679","₹2,981",Profit
+1824,16/03/2026,C364,Repeat Customer,Skincare Set,Beauty,Hyderabad,6,"₹17,208","₹5,834",Profit
+1825,18/03/2026,C013,Repeat Customer,Phone,Electronics,Bangalore,4,"₹202,484","₹25,818",Profit
+1826,20/05/2026,C465,Repeat Customer,Chair,Furniture,Hyderabad,3,"₹18,702","₹4,160",Profit
+1827,20/05/2026,C031,Repeat Customer,Makeup Kit,Beauty,Pune,3,"₹12,447","₹3,797",Profit
+1828,15/03/2026,C266,Repeat Customer,T-Shirt,Apparel,Delhi,2,"₹1,582",₹416,Profit
+1829,19/07/2026,C365,Repeat Customer,Blender,Home,Hyderabad,2,"₹3,994",₹640,Profit
+1830,02/11/2026,C442,Repeat Customer,Jacket,Apparel,Hyderabad,1,"₹2,959",₹844,Profit
+1831,28/06/2026,C367,Repeat Customer,Perfume,Beauty,Kolkata,6,"₹24,468","₹9,428",Profit
+1832,17/04/2026,C404,Repeat Customer,Not Specified,Furniture,Pune,4,"₹30,264","₹6,385",Profit
+1832,17/04/2026,C404,Repeat Customer,Not Specified,Furniture,Pune,4,"₹30,264","₹6,385",Profit
+1833,13/06/2026,C179,Repeat Customer,Bookshelf,Furniture,Pune,2,"₹21,812","₹4,834",Profit
+1834,05/08/2026,C409,Repeat Customer,T-Shirt,Apparel,Bangalore,1,₹356,₹112,Profit
+1835,24/02/2026,C044,Repeat Customer,Laptop,Electronics,Delhi,3,"₹141,327","₹18,679",Profit
+1836,21/03/2026,C447,Repeat Customer,Phone,Electronics,Bangalore,5,"₹237,375","₹20,124",Profit
+1837,23/07/2026,C271,Repeat Customer,Skincare Set,Beauty,Bangalore,1,"₹1,360",₹537,Profit
+1838,03/11/2026,C412,Repeat Customer,Speaker,Electronics,Hyderabad,6,"₹22,206",₹0,Profit
+1839,02/01/2026,C239,Repeat Customer,Camera,Electronics,Chennai,1,"₹48,162","₹6,743",Profit
+1840,01/12/2026,C323,Repeat Customer,Cookware Set,Home,Chennai,1,"₹5,322","₹1,275",Profit
+1841,16/04/2026,C262,Repeat Customer,Smartwatch,Electronics,Mumbai,1,"₹3,092",₹619,Profit
+1842,20/07/2026,C376,Repeat Customer,Table,Furniture,Chennai,6,"₹50,340","₹10,483",Profit
+1843,26/06/2026,C044,Repeat Customer,Jeans,Apparel,Kolkata,4,"₹5,008","₹1,322",Profit
+1844,26/06/2026,C035,Repeat Customer,Kurta,Apparel,Bangalore,2,"₹2,994",₹753,Profit
+1845,16/02/2026,C130,Repeat Customer,Shoes,Apparel,Pune,4,"₹4,664","₹1,472",Profit
+1846,06/10/2026,UNKNOWN,Repeat Customer,Laptop,Electronics,Mumbai,3,"₹256,089","₹28,997",Profit
+1847,20/01/2026,C442,Repeat Customer,Cookware Set,Home,Kolkata,1,"₹5,112","₹1,000",Profit
+1848,31/05/2026,C116,Repeat Customer,Chair,Furniture,Chennai,2,"₹13,652","₹3,545",Profit
+1849,18/06/2026,C476,Repeat Customer,Vacuum Cleaner,Home,Kolkata,2,"₹11,062","₹1,979",Profit
+1850,07/09/2026,C178,Repeat Customer,Jacket,Apparel,Not Specified,4,"₹11,416","₹3,429",Profit
+1851,07/05/2026,C093,Repeat Customer,Laptop,Electronics,Hyderabad,2,"₹177,782","₹22,089",Profit
+1852,02/09/2026,UNKNOWN,Repeat Customer,Sofa,Furniture,Pune,2,"₹75,082","₹15,998",Profit
+1853,19/06/2026,C331,Repeat Customer,Perfume,Beauty,Pune,6,"₹32,766","₹12,725",Profit
+1854,23/07/2026,C251,Repeat Customer,T-Shirt,Apparel,Mumbai,4,"₹2,340",₹726,Profit
+1855,06/05/2026,C273,Repeat Customer,Chair,Furniture,Hyderabad,1,"₹7,588","₹1,917",Profit
+1856,02/07/2026,C367,Repeat Customer,Blender,Home,Kolkata,5,"₹18,505","₹3,347",Profit
+1857,22/01/2026,C120,Repeat Customer,Makeup Kit,Beauty,Hyderabad,6,"₹24,678","₹7,809",Profit
+1858,04/08/2026,C479,Repeat Customer,Vacuum Cleaner,Home,Kolkata,6,"₹42,714","₹9,586",Profit
+1859,06/09/2026,C476,Repeat Customer,Shoes,Apparel,Hyderabad,3,"₹9,408","₹2,583",Profit
+1860,02/01/2026,C325,Repeat Customer,Jacket,Apparel,Delhi,4,"₹6,428","₹1,638",Profit
+1861,08/08/2026,C105,Repeat Customer,Table,Furniture,Kolkata,3,"₹36,162","₹7,568",Profit
+1862,30/09/2026,C349,Repeat Customer,Desk,Furniture,Pune,5,"₹68,075","₹12,604",Profit
+1863,14/05/2026,C039,Repeat Customer,Blender,Home,Chennai,2,"₹7,224","₹1,570",Profit
+1864,30/07/2026,C013,Repeat Customer,Makeup Kit,Beauty,Bangalore,2,"₹2,168",₹741,Profit
+1865,21/06/2026,C137,Repeat Customer,Vacuum Cleaner,Home,Chennai,3,"₹49,239","₹11,318",Profit
+1866,26/03/2026,C242,Repeat Customer,T-Shirt,Apparel,Pune,3,"₹2,475",₹820,Profit
+1867,31/05/2026,C439,Repeat Customer,Cookware Set,Home,Pune,6,"₹45,828","₹9,311",Profit
+1868,20/02/2026,C371,New Customer,Kurta,Apparel,Hyderabad,2,"₹4,500","₹1,167",Profit
+1869,15/04/2026,C383,Repeat Customer,Vacuum Cleaner,Home,Bangalore,1,"₹10,662","₹2,322",Profit
+1870,05/01/2026,C227,Repeat Customer,Shoes,Apparel,Delhi,2,"₹5,418","₹1,732",Profit
+1871,26/07/2026,C183,Repeat Customer,Makeup Kit,Beauty,Bangalore,5,"₹7,450","₹2,911",Profit
+1872,02/07/2026,C193,Repeat Customer,Microwave,Home,Bangalore,3,"₹26,100","₹4,483",Profit
+1873,05/07/2026,C476,Repeat Customer,Bookshelf,Furniture,Bangalore,1,"₹6,090","₹1,435",Profit
+1874,29/07/2026,C021,Repeat Customer,Makeup Kit,Beauty,Delhi,1,"₹1,477",₹506,Profit
+1875,19/04/2026,C439,Repeat Customer,Smartwatch,Electronics,Hyderabad,3,"₹29,922","₹4,855",Profit
+1876,21/05/2026,C284,Repeat Customer,Smartwatch,Electronics,Kolkata,5,"₹58,215","₹12,657",Profit
+1877,16/03/2026,C229,Repeat Customer,T-Shirt,Apparel,Delhi,6,"₹4,098","₹1,075",Profit
+1878,14/06/2026,C368,Repeat Customer,Laptop,Electronics,Hyderabad,3,"₹219,600","₹22,876",Profit
+1879,21/03/2026,C248,Repeat Customer,Makeup Kit,Beauty,Hyderabad,4,"₹5,468","₹1,802",Profit
+1880,23/05/2026,C442,Repeat Customer,Camera,Electronics,Mumbai,1,"₹32,121","₹4,767",Profit
+1881,14/05/2026,C447,Repeat Customer,Tablet,Electronics,Chennai,1,"₹36,034","₹5,223",Profit
+1882,14/04/2026,C223,Repeat Customer,Laptop,Electronics,Pune,3,"₹2,677,920","₹269,615",Profit
+1883,02/07/2026,C141,Repeat Customer,Skincare Set,Beauty,Mumbai,3,"₹3,546","₹1,199",Profit
+1884,02/12/2026,C296,Repeat Customer,Bookshelf,Furniture,Kolkata,1,"₹6,063","₹1,468",Profit
+1885,30/07/2026,C451,Repeat Customer,Laptop,Electronics,Hyderabad,4,"₹297,388","₹39,586",Profit
+1886,14/06/2026,C113,Repeat Customer,Headphones,Electronics,Chennai,5,"₹34,050","₹6,105",Profit
+1887,06/02/2026,C314,Repeat Customer,Makeup Kit,Beauty,Bangalore,3,"₹6,318","₹2,208",Profit
+1888,03/09/2026,C315,Repeat Customer,Headphones,Electronics,Hyderabad,6,"₹39,738","₹9,627",Profit
+1889,23/06/2026,C377,Repeat Customer,Camera,Electronics,Chennai,2,"₹81,182","₹12,651",Profit
+1890,20/03/2026,C070,Repeat Customer,Laptop,Electronics,Chennai,4,"₹202,380","₹28,084",Profit
+1891,17/05/2026,C367,Repeat Customer,Speaker,Electronics,Pune,1,"₹4,307",₹734,Profit
+1892,18/04/2026,C448,Repeat Customer,Jeans,Apparel,Hyderabad,6,"₹17,412","₹4,677",Profit
+1893,01/08/2026,C092,Repeat Customer,Makeup Kit,Beauty,Pune,6,"₹22,878","₹7,398",Profit
+1894,01/04/2026,C125,Repeat Customer,Jeans,Apparel,Hyderabad,0,"₹2,555",₹875,Profit
+1894,01/04/2026,C125,Repeat Customer,Jeans,Apparel,Hyderabad,0,"₹2,555",₹875,Profit
+1895,03/09/2026,C476,Repeat Customer,Blender,Home,Mumbai,2,"₹4,478",₹841,Profit
+1896,19/05/2026,C093,Repeat Customer,Headphones,Electronics,Kolkata,2,"₹4,190",₹686,Profit
+1897,18/03/2026,C429,New Customer,Laptop,Electronics,Mumbai,1,"₹56,684","₹7,770",Profit
+1898,18/08/2026,C249,Repeat Customer,Makeup Kit,Beauty,Kolkata,6,"₹7,620","₹2,502",Profit
+1899,02/08/2026,C131,Repeat Customer,Jacket,Apparel,Mumbai,6,"₹13,584","₹4,232",Profit
+1900,22/07/2026,C442,Repeat Customer,T-Shirt,Apparel,Kolkata,2,"₹2,314",₹652,Profit
+1901,04/06/2026,C233,New Customer,Table,Furniture,Delhi,3,"₹55,137","₹11,604",Profit
+1902,26/02/2026,C259,Repeat Customer,Shoes,Apparel,Chennai,4,"₹10,424","₹3,154",Profit
+1903,14/04/2026,C187,Repeat Customer,Microwave,Home,Delhi,2,"₹18,542","₹3,352",Profit
+1904,24/05/2026,C297,Repeat Customer,Perfume,Beauty,Mumbai,5,"₹21,155","₹8,166",Profit
+1905,20/02/2026,C081,Repeat Customer,Jacket,Apparel,Pune,3,"₹7,254","₹2,035",Profit
+1906,29/07/2026,C203,Repeat Customer,Microwave,Home,Mumbai,1,"₹6,409",₹978,Profit
+1907,04/01/2026,C476,Repeat Customer,Shoes,Apparel,Delhi,4,"₹18,656","₹4,189",Profit
+1908,13/04/2026,C137,Repeat Customer,Shoes,Apparel,Not Specified,5,"₹24,365","₹6,834",Profit
+1909,28/03/2026,C329,Repeat Customer,Bookshelf,Furniture,Kolkata,4,"₹29,632","₹6,102",Profit
+1910,27/06/2026,C167,Repeat Customer,Table,Furniture,Kolkata,6,"₹93,834","₹19,620",Profit
+1911,25/03/2026,C391,Repeat Customer,Smartwatch,Electronics,Pune,1,"₹4,404",₹755,Profit
+1912,05/06/2026,C069,Repeat Customer,Laptop,Electronics,Bangalore,1,"₹69,195","₹8,163",Profit
+1913,18/01/2026,C476,Repeat Customer,Perfume,Beauty,Mumbai,6,"₹28,878","₹9,508",Profit
+1914,03/04/2026,C241,Repeat Customer,Speaker,Electronics,Hyderabad,1,"₹4,190",₹0,Profit
+1915,24/05/2026,C123,New Customer,Camera,Electronics,Hyderabad,3,"₹64,761","₹9,456",Profit
+1916,07/03/2026,C039,Repeat Customer,Kurta,Apparel,Mumbai,1,"₹1,266",₹327,Profit
+1917,26/05/2026,C087,Repeat Customer,Jacket,Apparel,Mumbai,6,"₹14,280","₹4,694",Profit
+1918,28/05/2026,C262,Repeat Customer,T-Shirt,Apparel,Mumbai,6,"₹4,422","₹1,396",Profit
+1919,28/05/2026,C178,Repeat Customer,Bookshelf,Furniture,Kolkata,3,"₹22,269","₹5,299",Profit
+1920,05/08/2026,UNKNOWN,Repeat Customer,Cookware Set,Home,Hyderabad,2,"₹11,320","₹2,805",Profit
+1921,18/02/2026,C227,Repeat Customer,Perfume,Beauty,Pune,5,"₹28,865","₹10,157",Profit
+1922,17/02/2026,C132,Repeat Customer,Table,Furniture,Pune,5,"₹96,420","₹24,180",Profit
+1923,23/02/2026,C309,Repeat Customer,Phone,Electronics,Pune,1,"₹25,237","₹3,499",Profit
+1924,30/07/2026,C365,Repeat Customer,Headphones,Electronics,Delhi,6,"₹37,368","₹9,068",Profit
+1924,30/07/2026,C365,Repeat Customer,Headphones,Electronics,Delhi,6,"₹37,368","₹9,068",Profit
+1925,15/04/2026,C085,Repeat Customer,T-Shirt,Apparel,Chennai,6,"₹5,442","₹1,691",Profit
+1926,14/07/2026,C086,Repeat Customer,Phone,Electronics,Delhi,6,"₹336,804","₹29,221",Profit
+1927,14/03/2026,C018,Repeat Customer,Cookware Set,Home,Hyderabad,1,"₹4,405",₹944,Profit
+1928,08/05/2026,C379,Repeat Customer,Laptop,Electronics,Pune,4,"₹303,928","₹41,126",Profit
+1929,27/04/2026,C336,Repeat Customer,Makeup Kit,Beauty,Chennai,1,"₹4,319","₹1,578",Profit
+1930,02/01/2026,C246,Repeat Customer,T-Shirt,Apparel,Bangalore,5,"₹3,375","₹1,101",Profit
+1931,19/08/2026,C422,Repeat Customer,Chair,Furniture,Kolkata,1,"₹4,362",₹806,Profit
+1932,04/05/2026,C406,Repeat Customer,Speaker,Electronics,Pune,6,"₹12,744","₹2,545",Profit
+1933,28/02/2026,C290,Repeat Customer,Cookware Set,Home,Delhi,5,"₹37,730","₹7,841",Profit
+1934,25/04/2026,C439,Repeat Customer,Shoes,Apparel,Delhi,1,"₹4,379","₹1,007",Profit
+1935,16/05/2026,C111,Repeat Customer,Makeup Kit,Beauty,Delhi,6,"₹7,494","₹2,394",Profit
+1936,24/05/2026,C056,Repeat Customer,Camera,Electronics,Pune,1,"₹66,141","₹6,683",Profit
+1937,08/01/2026,C140,Repeat Customer,Skincare Set,Beauty,Pune,2,"₹6,572","₹2,512",Profit
+1938,01/10/2026,C034,Repeat Customer,Laptop,Electronics,Delhi,3,"₹184,227","₹15,845",Profit
+1939,03/07/2026,C262,Repeat Customer,Microwave,Home,Mumbai,5,"₹30,565","₹5,311",Profit
+1940,23/05/2026,C465,Repeat Customer,Microwave,Home,Bangalore,5,"₹65,705","₹10,755",Profit
+1941,16/03/2026,C021,Repeat Customer,Kurta,Apparel,Delhi,4,"₹4,748","₹1,417",Profit
+1942,28/01/2026,C063,Repeat Customer,Cookware Set,Home,Chennai,1,"₹7,828","₹1,574",Profit
+1943,19/07/2026,C239,Repeat Customer,Speaker,Electronics,Hyderabad,1,"₹6,251","₹1,344",Profit
+1944,17/05/2026,C465,Repeat Customer,Tablet,Electronics,Delhi,1,"₹38,951","₹5,072",Profit
+1945,24/01/2026,C162,Repeat Customer,Jeans,Apparel,Bangalore,6,"₹10,524","₹3,094",Profit
+1946,05/10/2026,C257,Repeat Customer,Camera,Electronics,Chennai,3,"₹177,114","₹25,836",Profit
+1947,05/07/2026,C023,Repeat Customer,Kurta,Apparel,Kolkata,6,"₹14,016","₹4,394",Profit
+1948,15/08/2026,C073,New Customer,Speaker,Electronics,Chennai,6,"₹66,378","₹11,505",Profit
+1949,02/10/2026,C476,Repeat Customer,Vacuum Cleaner,Home,Bangalore,4,"₹41,148","₹8,954",Profit
+1950,03/08/2026,C474,Repeat Customer,Chair,Furniture,Pune,3,"₹22,335","₹4,020",Profit
+1951,13/06/2026,C002,Repeat Customer,Shoes,Apparel,Chennai,1,"₹4,480","₹1,358",Profit
+1952,04/03/2026,C470,Repeat Customer,Camera,Electronics,Hyderabad,2,"₹67,962","₹2,120",Profit
+1953,07/11/2026,C321,New Customer,Sofa,Furniture,Chennai,1,"₹35,194","₹6,062",Profit
+1954,27/01/2026,C439,Repeat Customer,Perfume,Beauty,Bangalore,5,"₹28,385","₹10,067",Profit
+1955,04/08/2026,C241,Repeat Customer,Cookware Set,Home,Mumbai,6,"₹30,504","₹6,822",Profit
+1956,16/08/2026,C260,Repeat Customer,Headphones,Electronics,Bangalore,3,"₹12,204","₹1,890",Profit
+1957,03/08/2026,C249,Repeat Customer,Headphones,Electronics,Chennai,6,"₹44,790","₹10,447",Profit
+1958,20/08/2026,C337,Repeat Customer,Kurta,Apparel,Chennai,1,"₹1,816",₹557,Profit
+1959,20/07/2026,C070,Repeat Customer,T-Shirt,Apparel,Chennai,1,₹634,₹175,Profit
+1960,28/01/2026,C013,Repeat Customer,Chair,Furniture,Mumbai,5,"₹16,180","₹3,226",Profit
+1961,05/02/2026,C156,New Customer,Cookware Set,Home,Bangalore,1,"₹2,075",₹485,Profit
+1962,01/02/2026,C363,Repeat Customer,Bookshelf,Furniture,Kolkata,1,"₹4,849",₹981,Profit
+1963,03/11/2026,C108,Repeat Customer,Laptop,Electronics,Delhi,5,"₹304,785","₹33,426",Profit
+1964,31/05/2026,C342,Repeat Customer,T-Shirt,Apparel,Pune,2,"₹1,906",₹491,Profit
+1965,07/12/2026,C476,Repeat Customer,Blender,Home,Delhi,3,"₹14,562","₹2,759",Profit
+1966,15/03/2026,C051,Repeat Customer,Phone,Electronics,Hyderabad,3,"₹96,063","₹9,328",Profit
+1967,01/08/2026,C342,Repeat Customer,Makeup Kit,Beauty,Hyderabad,6,"₹29,100","₹11,103",Profit
+1968,04/09/2026,C232,Repeat Customer,Blender,Home,Chennai,1,"₹3,444",₹554,Profit
+1969,08/12/2026,C439,Repeat Customer,Chair,Furniture,Bangalore,5,"₹20,930","₹5,263",Profit
+1970,05/02/2026,C090,Repeat Customer,Sofa,Furniture,Kolkata,4,"₹105,264","₹17,844",Profit
+1971,31/05/2026,C358,Repeat Customer,Perfume,Beauty,Pune,1,"₹3,825","₹1,375",Profit
+1972,07/11/2026,C420,Repeat Customer,Perfume,Beauty,Kolkata,3,"₹15,426","₹4,832",Profit
+1973,29/07/2026,C468,Repeat Customer,Speaker,Electronics,Bangalore,2,"₹22,242","₹4,258",Profit
+1974,29/04/2026,C351,Repeat Customer,Camera,Electronics,Mumbai,5,"₹116,175","₹15,500",Profit
+1975,07/05/2026,C250,Repeat Customer,Laptop,Electronics,Kolkata,5,"₹395,025","₹53,396",Profit
+1976,08/02/2026,C309,Repeat Customer,Bookshelf,Furniture,Hyderabad,1,"₹8,830","₹1,622",Profit
+1977,26/06/2026,C440,Repeat Customer,Laptop,Electronics,Mumbai,1,"₹64,952","₹6,771",Profit
+1978,19/05/2026,C280,Repeat Customer,Skincare Set,Beauty,Chennai,1,"₹1,102",₹401,Profit
+1979,02/10/2026,C013,Repeat Customer,Microwave,Home,Bangalore,4,"₹22,748","₹3,205",Profit
+1980,16/02/2026,C464,Repeat Customer,Laptop,Electronics,Kolkata,4,"₹286,284","₹38,322",Profit
+1981,04/08/2026,C354,Repeat Customer,Microwave,Home,Chennai,1,"₹14,743","₹2,083",Profit
+1982,05/05/2026,C346,Repeat Customer,Blender,Home,Pune,5,"₹15,045","₹3,539",Profit
+1983,14/01/2026,C115,Repeat Customer,Headphones,Electronics,Delhi,6,"₹36,102","₹5,747",Profit
+1984,08/11/2026,C331,Repeat Customer,Table,Furniture,Hyderabad,3,"₹24,480","₹5,490",Profit
+1985,05/09/2026,C204,Repeat Customer,Perfume,Beauty,Kolkata,1,"₹1,719",₹553,Profit
+1986,19/05/2026,C325,Repeat Customer,Bookshelf,Furniture,Hyderabad,3,"₹12,123","₹2,652",Profit
+1987,18/06/2026,C054,Repeat Customer,Not Specified,Furniture,Delhi,1,"₹10,757","₹2,488",Profit
+1988,05/04/2026,C330,Repeat Customer,Headphones,Electronics,Hyderabad,6,"₹26,826","₹6,215",Profit
+1989,30/03/2026,C480,Repeat Customer,Vacuum Cleaner,Home,Delhi,5,"₹84,320","₹18,289",Profit
+1990,03/08/2026,C028,Repeat Customer,Jacket,Apparel,Pune,6,"₹11,160","₹3,675",Profit
+1991,02/08/2026,C476,Repeat Customer,Blender,Home,Hyderabad,2,"₹8,608","₹1,699",Profit
+1992,04/08/2026,C214,New Customer,Table,Furniture,Kolkata,6,"₹78,198","₹17,755",Profit
+1993,22/02/2026,C442,Repeat Customer,Vacuum Cleaner,Home,Pune,2,"₹25,700","₹4,798",Profit
+1994,05/10/2026,C396,Repeat Customer,Laptop,Electronics,Kolkata,3,"₹255,534","₹21,094",Profit
+1995,28/06/2026,C278,Repeat Customer,Skincare Set,Beauty,Delhi,3,"₹11,052","₹4,069",Profit
+1996,28/03/2026,C380,New Customer,Laptop,Electronics,Delhi,2,"₹127,374","₹16,188",Profit
+1997,21/05/2026,C442,Repeat Customer,Speaker,Electronics,Bangalore,6,"₹69,822","₹13,570",Profit
+1998,18/08/2026,C212,Repeat Customer,Makeup Kit,Beauty,Kolkata,6,"₹6,684","₹2,450",Profit
+1998,18/08/2026,C212,Repeat Customer,Makeup Kit,Beauty,Kolkata,6,"₹6,684","₹2,450",Profit
+1999,06/07/2026,C170,Repeat Customer,Desk,Furniture,Mumbai,2,"₹24,038","₹5,502",Profit
+2000,31/07/2026,C338,Repeat Customer,Desk,Furniture,Bangalore,2,"₹22,248","₹4,610",Profit
+2001,28/06/2026,C406,Repeat Customer,Kurta,Apparel,Hyderabad,3,"₹2,070",₹702,Profit
+2002,19/08/2026,C391,Repeat Customer,Chair,Furniture,Delhi,4,"₹27,020","₹6,696",Profit
+2003,14/06/2026,C402,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹5,250","₹1,659",Profit
+2004,01/02/2026,C229,Repeat Customer,Skincare Set,Beauty,Delhi,1,"₹3,409","₹1,207",Profit
+2005,25/07/2026,C412,Repeat Customer,Jeans,Apparel,Bangalore,5,"₹13,235","₹4,057",Profit
+2006,07/12/2026,C061,Repeat Customer,Perfume,Beauty,Mumbai,3,"₹16,395","₹5,337",Profit
+2007,22/04/2026,C268,Repeat Customer,T-Shirt,Apparel,Hyderabad,1,₹962,₹310,Profit
+2008,07/12/2026,C002,Repeat Customer,T-Shirt,Apparel,Mumbai,3,"₹2,589",₹836,Profit
+2009,08/10/2026,C167,Repeat Customer,Chair,Furniture,Chennai,6,"₹47,676","₹8,837",Profit
+2010,13/03/2026,C192,Repeat Customer,Shoes,Apparel,Mumbai,4,"₹93,240","₹22,169",Profit
+2011,06/12/2026,C205,Repeat Customer,Camera,Electronics,Hyderabad,6,"₹326,394","₹33,932",Profit
+2012,27/03/2026,C359,Repeat Customer,Perfume,Beauty,Hyderabad,2,"₹4,538","₹1,587",Profit
+2013,16/06/2026,C201,Repeat Customer,Kurta,Apparel,Mumbai,1,"₹1,305",₹403,Profit
+2014,07/09/2026,C236,Repeat Customer,T-Shirt,Apparel,Hyderabad,6,"₹6,360","₹1,779",Profit
+2015,04/11/2026,C125,Repeat Customer,Cookware Set,Home,Chennai,2,"₹13,296","₹3,317",Profit
+2016,20/02/2026,C194,Repeat Customer,Phone,Electronics,Chennai,4,"₹88,100","₹9,755",Profit
+2017,25/02/2026,C119,Repeat Customer,Camera,Electronics,Hyderabad,4,"₹170,120","₹23,618",Profit
+2018,26/01/2026,C039,Repeat Customer,Makeup Kit,Beauty,Bangalore,5,"₹19,240","₹7,067",Profit
+2019,17/02/2026,C305,Repeat Customer,Smartwatch,Electronics,Hyderabad,3,"₹17,319","₹3,289",Profit
+2020,03/10/2026,C338,Repeat Customer,Desk,Furniture,Kolkata,2,"₹18,542","₹4,745",Profit
+2021,04/03/2026,C309,Repeat Customer,Makeup Kit,Beauty,Chennai,5,"₹18,825","₹6,270",Profit
+2022,28/06/2026,C242,Repeat Customer,Microwave,Home,Chennai,3,"₹34,317","₹6,303",Profit
+2023,03/12/2026,C198,Repeat Customer,Cookware Set,Home,Bangalore,3,"₹10,554","₹2,402",Profit
+2024,19/03/2026,C437,New Customer,Perfume,Beauty,Kolkata,3,"₹8,061","₹3,170",Profit
+2025,04/02/2026,C262,Repeat Customer,Camera,Electronics,Hyderabad,4,"₹228,520","₹31,871",Profit
+2026,03/08/2026,C248,Repeat Customer,Tablet,Electronics,Delhi,5,"₹148,175","₹23,108",Profit
+2027,26/04/2026,C012,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹6,376","₹2,017",Profit
+2028,04/05/2026,C179,Repeat Customer,Skincare Set,Beauty,Bangalore,2,"₹54,340","₹17,816",Profit
+2029,27/05/2026,C198,Repeat Customer,Phone,Electronics,Delhi,0,"₹21,960","₹2,655",Profit
+2030,06/03/2026,C208,Repeat Customer,Camera,Electronics,Pune,6,"₹392,940","₹62,716",Profit
+2031,28/02/2026,C285,Repeat Customer,Vacuum Cleaner,Home,Pune,2,"₹19,270","₹3,659",Profit
+2032,05/01/2026,C262,Repeat Customer,Shoes,Apparel,Kolkata,1,"₹3,353",₹896,Profit
+2033,15/06/2026,C306,Repeat Customer,Blender,Home,Chennai,2,"₹6,186","₹1,379",Profit
+2034,14/04/2026,C391,Repeat Customer,Blender,Home,Mumbai,5,"₹21,380","₹5,066",Profit
+2035,07/09/2026,C409,Repeat Customer,Table,Furniture,Mumbai,2,"₹34,636","₹6,626",Profit
+2036,06/12/2026,C367,Repeat Customer,Skincare Set,Beauty,Hyderabad,2,"₹3,062","₹1,026",Profit
+2037,24/05/2026,C472,Repeat Customer,Chair,Furniture,Delhi,1,"₹7,354","₹1,557",Profit
+2038,01/12/2026,C010,Repeat Customer,Skincare Set,Beauty,Delhi,4,"₹6,056","₹1,851",Profit
+2039,28/05/2026,C105,Repeat Customer,Headphones,Electronics,Pune,6,"₹41,424","₹6,571",Profit
+2040,25/01/2026,UNKNOWN,Repeat Customer,Camera,Electronics,Kolkata,5,"₹262,740","₹29,188",Profit
+2041,05/06/2026,C325,Repeat Customer,Smartwatch,Electronics,Bangalore,2,"₹21,966","₹3,956",Profit
+2042,23/02/2026,C447,Repeat Customer,Cookware Set,Home,Pune,4,"₹29,364","₹7,081",Profit
+2043,31/05/2026,C128,Repeat Customer,Perfume,Beauty,Hyderabad,1,"₹1,951",₹659,Profit
+2044,22/04/2026,C462,Repeat Customer,Desk,Furniture,Chennai,3,"₹28,899","₹6,256",Profit
+2045,20/02/2026,C035,Repeat Customer,Jeans,Apparel,Kolkata,3,"₹3,492",₹943,Profit
+2046,15/02/2026,C465,Repeat Customer,Table,Furniture,Kolkata,2,"₹27,216","₹5,138",Profit
+2047,14/03/2026,C184,Repeat Customer,Shoes,Apparel,Mumbai,6,"₹16,140","₹3,929",Profit
+2048,08/08/2026,C053,Repeat Customer,Sofa,Furniture,Bangalore,3,"₹118,266","₹23,609",Profit
+2049,07/05/2026,C248,Repeat Customer,Sofa,Furniture,Mumbai,3,"₹131,217","₹19,840",Profit
+2050,05/03/2026,C136,Repeat Customer,Skincare Set,Beauty,Not Specified,5,"₹15,930","₹5,208",Profit
+2051,19/03/2026,C148,Repeat Customer,Sofa,Furniture,Pune,2,"₹48,812","₹10,001",Profit
+2052,04/11/2026,C155,Repeat Customer,Makeup Kit,Beauty,Kolkata,1,"₹4,370","₹1,703",Profit
+2053,26/02/2026,C404,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹13,099","₹3,113",Profit
+2054,28/01/2026,C265,Repeat Customer,Blender,Home,Kolkata,2,"₹5,428",₹951,Profit
+2055,30/05/2026,C158,Repeat Customer,Jeans,Apparel,Hyderabad,5,"₹12,115","₹3,683",Profit
+2056,02/11/2026,C306,Repeat Customer,Vacuum Cleaner,Home,Delhi,4,"₹44,712","₹7,384",Profit
+2057,13/04/2026,C367,Repeat Customer,Table,Furniture,Chennai,2,"₹26,694","₹6,363",Profit
+2058,05/03/2026,C141,Repeat Customer,Camera,Electronics,Delhi,2,"₹65,856","₹8,436",Profit
+2059,03/11/2026,C219,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹5,421","₹1,136",Profit
+2060,14/01/2026,C063,Repeat Customer,Smartwatch,Electronics,Delhi,3,"₹54,066","₹11,789",Profit
+2061,06/03/2026,C093,Repeat Customer,Makeup Kit,Beauty,Chennai,3,"₹11,115","₹3,848",Profit
+2062,30/05/2026,C350,Repeat Customer,Table,Furniture,Delhi,6,"₹89,238","₹22,290",Profit
+2063,13/01/2026,C093,Repeat Customer,Kurta,Apparel,Pune,6,"₹6,726","₹2,168",Profit
+2064,06/11/2026,C262,Repeat Customer,Shoes,Apparel,Delhi,3,"₹16,584","₹5,171",Profit
+2065,26/02/2026,C365,Repeat Customer,Desk,Furniture,Delhi,5,"₹45,625","₹8,862",Profit
+2066,30/06/2026,C054,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹88,918","₹8,053",Profit
+2067,05/10/2026,C278,Repeat Customer,Sofa,Furniture,Chennai,1,"₹24,985","₹4,654",Profit
+2068,05/08/2026,C136,Repeat Customer,Bookshelf,Furniture,Mumbai,4,"₹32,280","₹7,623",Profit
+2069,24/03/2026,C473,Repeat Customer,Speaker,Electronics,Bangalore,1,"₹8,854","₹1,575",Profit
+2070,15/07/2026,C248,Repeat Customer,T-Shirt,Apparel,Mumbai,5,"₹3,125",₹989,Profit
+2071,08/06/2026,C406,Repeat Customer,Kurta,Apparel,Delhi,3,"₹5,628","₹1,770",Profit
+2072,18/05/2026,C272,Repeat Customer,Headphones,Electronics,Pune,2,"₹5,486","₹1,277",Profit
+2073,05/09/2026,C025,Repeat Customer,Laptop,Electronics,Delhi,1,"₹47,679","₹7,912",Profit
+2074,18/06/2026,C315,Repeat Customer,Vacuum Cleaner,Home,Kolkata,3,"₹37,596","₹8,231",Profit
+2075,14/08/2026,C470,Repeat Customer,Perfume,Beauty,Chennai,2,"₹3,630","₹1,095",Profit
+2076,01/06/2026,C304,Repeat Customer,Tablet,Electronics,Delhi,5,"₹148,155","₹21,574",Profit
+2077,01/12/2026,C412,Repeat Customer,T-Shirt,Apparel,Chennai,0,"₹1,004",₹321,Profit
+2078,28/06/2026,C443,Repeat Customer,Chair,Furniture,Kolkata,5,"₹440,700","₹91,851",Profit
+2079,05/10/2026,C120,Repeat Customer,T-Shirt,Apparel,Mumbai,2,"₹2,328",₹789,Profit
+2080,07/03/2026,C114,Repeat Customer,Vacuum Cleaner,Home,Kolkata,4,"₹27,600","₹4,647",Profit
+2081,05/07/2026,C306,Repeat Customer,Blender,Home,Pune,2,"₹5,860","₹1,153",Profit
+2082,15/04/2026,C218,Repeat Customer,T-Shirt,Apparel,Pune,3,"₹3,435",₹860,Profit
+2083,04/07/2026,C421,Repeat Customer,Perfume,Beauty,Delhi,5,"₹23,160","₹8,182",Profit
+2084,21/06/2026,C447,Repeat Customer,Kurta,Apparel,Kolkata,2,"₹3,704","₹1,138",Profit
+2085,01/01/2026,C184,Repeat Customer,Jeans,Apparel,Hyderabad,2,"₹1,784",₹557,Profit
+2086,15/03/2026,C124,Repeat Customer,Sofa,Furniture,Hyderabad,3,"₹99,966","₹19,318",Profit
+2087,05/12/2026,C396,Repeat Customer,Vacuum Cleaner,Home,Bangalore,6,"₹47,679","₹16,448",Profit
+2088,27/01/2026,C141,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹5,343","₹1,372",Profit
+2088,27/01/2026,C141,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹5,343","₹1,372",Profit
+2089,08/10/2026,C412,Repeat Customer,Blender,Home,Kolkata,6,"₹28,770","₹5,713",Profit
+2090,04/02/2026,C226,Repeat Customer,Jeans,Apparel,Pune,1,"₹9,930","₹2,528",Profit
+2091,13/08/2026,C338,Repeat Customer,Table,Furniture,Pune,4,"₹59,476","₹14,974",Profit
+2092,19/04/2026,C051,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹108,804","₹11,682",Profit
+2093,16/02/2026,C314,Repeat Customer,Desk,Furniture,Mumbai,1,"₹11,190","₹2,710",Profit
+2093,16/02/2026,C314,Repeat Customer,Desk,Furniture,Mumbai,1,"₹11,190","₹2,710",Profit
+2094,13/02/2026,C239,Repeat Customer,Chair,Furniture,Mumbai,6,"₹50,430","₹12,277",Profit
+2095,18/06/2026,C292,New Customer,Chair,Furniture,Kolkata,1,"₹7,006","₹1,804",Profit
+2096,22/05/2026,C086,Repeat Customer,Headphones,Electronics,Hyderabad,2,"₹15,758","₹3,361",Profit
+2097,13/01/2026,C379,Repeat Customer,Skincare Set,Beauty,Bangalore,3,"₹4,119","₹1,364",Profit
+2098,31/01/2026,C436,Repeat Customer,Table,Furniture,Chennai,3,"₹41,178","₹8,618",Profit
+2099,14/06/2026,C116,Repeat Customer,Microwave,Home,Chennai,3,"₹44,640","₹7,142",Profit
+2100,25/06/2026,C051,Repeat Customer,Speaker,Electronics,Chennai,5,"₹48,865","₹10,372",Profit
+2101,08/11/2026,C012,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹5,013","₹1,618",Profit
+2102,20/08/2026,C322,Repeat Customer,Jacket,Apparel,Chennai,2,"₹7,852","₹2,425",Profit
+2103,19/05/2026,C306,Repeat Customer,Microwave,Home,Kolkata,6,"₹33,630","₹5,782",Profit
+2104,13/08/2026,C270,Repeat Customer,Sofa,Furniture,Bangalore,3,"₹83,325","₹17,969",Profit
+2105,19/06/2026,C122,Repeat Customer,Jacket,Apparel,Bangalore,5,"₹14,635","₹3,843",Profit
+2106,19/04/2026,C203,Repeat Customer,Smartwatch,Electronics,Bangalore,2,"₹35,612","₹6,493",Profit
+2107,08/02/2026,C297,Repeat Customer,Shoes,Apparel,Chennai,1,"₹1,679",₹405,Profit
+2108,08/09/2026,C250,Repeat Customer,Bookshelf,Furniture,Kolkata,1,"₹10,044","₹2,335",Profit
+2109,02/02/2026,C476,Repeat Customer,Camera,Electronics,Mumbai,3,"₹47,679","₹10,816",Profit
+2110,01/11/2026,C070,Repeat Customer,Makeup Kit,Beauty,Delhi,2,"₹8,448","₹2,543",Profit
+2111,16/05/2026,C359,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹11,008","₹2,089",Profit
+2112,07/12/2026,C212,Repeat Customer,Kurta,Apparel,Mumbai,1,"₹1,044",₹314,Profit
+2113,23/06/2026,C227,Repeat Customer,Desk,Furniture,Hyderabad,4,"₹36,140","₹7,471",Profit
+2114,03/07/2026,C367,Repeat Customer,Shoes,Apparel,Mumbai,2,"₹9,486","₹2,237",Profit
+2115,02/01/2026,C357,Repeat Customer,T-Shirt,Apparel,Delhi,1,₹938,₹277,Profit
+2116,28/02/2026,C479,Repeat Customer,Blender,Home,Delhi,2,"₹3,066",₹609,Profit
+2117,15/07/2026,C068,Repeat Customer,Laptop,Electronics,Kolkata,1,"₹47,679","₹5,967",Profit
+2118,19/04/2026,C053,Repeat Customer,Shoes,Apparel,Chennai,3,"₹11,616","₹3,376",Profit
+2119,07/11/2026,C368,Repeat Customer,Tablet,Electronics,Pune,4,"₹95,516","₹13,939",Profit
+2120,13/06/2026,C284,Repeat Customer,Makeup Kit,Beauty,Not Specified,3,"₹12,348","₹3,721",Profit
+2121,29/04/2026,C141,Repeat Customer,Speaker,Electronics,Kolkata,2,"₹15,424","₹2,493",Profit
+2122,21/03/2026,C044,Repeat Customer,Table,Furniture,Delhi,4,"₹69,184","₹16,350",Profit
+2123,08/04/2026,C048,Repeat Customer,Smartwatch,Electronics,Mumbai,5,"₹91,285","₹18,358",Profit
+2124,01/04/2026,C446,Repeat Customer,Sofa,Furniture,Delhi,6,"₹216,942","₹35,159",Profit
+2125,28/03/2026,C102,Repeat Customer,Perfume,Beauty,Hyderabad,2,"₹2,974",₹991,Profit
+2126,28/01/2026,C166,Repeat Customer,Laptop,Electronics,Delhi,2,"₹87,898","₹11,240",Profit
+2127,29/01/2026,C119,Repeat Customer,Microwave,Home,Delhi,4,"₹24,952","₹4,235",Profit
+2128,04/12/2026,C185,Repeat Customer,Headphones,Electronics,Chennai,4,"₹14,412","₹2,748",Profit
+2129,22/06/2026,C036,Repeat Customer,Camera,Electronics,Kolkata,1,"₹29,300","₹4,536",Profit
+2130,31/03/2026,C262,Repeat Customer,Desk,Furniture,Bangalore,2,"₹25,410","₹5,898",Profit
+2131,16/04/2026,C035,Repeat Customer,Tablet,Electronics,Delhi,1,"₹25,474","₹3,368",Profit
+2132,27/05/2026,C403,Repeat Customer,Shoes,Apparel,Hyderabad,2,"₹9,594",₹494,Profit
+2133,21/07/2026,C122,Repeat Customer,Microwave,Home,Mumbai,3,"₹17,142","₹2,987",Profit
+2134,02/12/2026,C266,Repeat Customer,Blender,Home,Bangalore,3,"₹10,017",₹0,Profit
+2135,03/03/2026,C442,Repeat Customer,Skincare Set,Beauty,Hyderabad,1,"₹2,271",₹681,Profit
+2136,05/07/2026,C325,Repeat Customer,Laptop,Electronics,Kolkata,5,"₹204,485","₹17,820",Profit
+2137,05/03/2026,C262,Repeat Customer,Microwave,Home,Hyderabad,5,"₹62,665","₹11,095",Profit
+2138,14/08/2026,C166,Repeat Customer,Phone,Electronics,Delhi,0,"₹51,106","₹7,070",Profit
+2139,15/07/2026,C175,Repeat Customer,Cookware Set,Home,Kolkata,6,"₹24,732","₹4,731",Profit
+2140,01/05/2026,C339,New Customer,Laptop,Electronics,Chennai,5,"₹373,970","₹36,276",Profit
+2141,03/09/2026,C479,Repeat Customer,Blender,Home,Delhi,2,"₹4,128",₹830,Profit
+2142,29/06/2026,C333,New Customer,Jeans,Apparel,Mumbai,3,"₹4,767","₹1,267",Profit
+2143,20/04/2026,C274,Repeat Customer,Skincare Set,Beauty,Chennai,6,"₹9,138","₹3,631",Profit
+2144,01/08/2026,C375,Repeat Customer,Smartwatch,Electronics,Kolkata,2,"₹36,032","₹5,631",Profit
+2145,15/02/2026,C242,Repeat Customer,Blender,Home,Hyderabad,4,"₹18,048","₹3,972",Profit
+2146,05/06/2026,C035,Repeat Customer,T-Shirt,Apparel,Not Specified,3,"₹2,076",₹524,Profit
+2147,28/02/2026,C276,New Customer,Desk,Furniture,Kolkata,1,"₹13,047","₹2,906",Profit
+2148,17/03/2026,C472,Repeat Customer,Kurta,Apparel,Bangalore,4,"₹3,648","₹1,012",Profit
+2149,27/07/2026,C089,Repeat Customer,Skincare Set,Beauty,Mumbai,6,"₹9,900","₹3,006",Profit
+2150,13/04/2026,C355,New Customer,Makeup Kit,Beauty,Chennai,4,"₹12,972","₹4,034",Profit
+2151,31/05/2026,C107,Repeat Customer,Sofa,Furniture,Hyderabad,1,"₹18,312","₹3,531",Profit
+2152,24/01/2026,C265,Repeat Customer,Shoes,Apparel,Pune,1,"₹5,327","₹1,484",Profit
+2153,26/01/2026,C051,Repeat Customer,Sofa,Furniture,Mumbai,3,"₹53,085","₹8,655",Profit
+2154,01/04/2026,C237,Repeat Customer,Shoes,Apparel,Chennai,1,"₹2,659",₹850,Profit
+2155,14/07/2026,C390,Repeat Customer,Jacket,Apparel,Pune,1,"₹4,572","₹1,484",Profit
+2156,29/03/2026,C183,Repeat Customer,Perfume,Beauty,Kolkata,1,"₹5,356","₹1,918",Profit
+2157,17/04/2026,C337,Repeat Customer,Perfume,Beauty,Not Specified,0,"₹2,563",₹942,Profit
+2158,28/03/2026,C401,Repeat Customer,Perfume,Beauty,Kolkata,5,"₹25,250","₹7,965",Profit
+2159,17/03/2026,C462,Repeat Customer,T-Shirt,Apparel,Kolkata,1,₹486,₹148,Profit
+2160,24/06/2026,C122,Repeat Customer,Camera,Electronics,Chennai,2,"₹55,930","₹5,720",Profit
+2161,19/01/2026,C208,Repeat Customer,Cookware Set,Home,Hyderabad,5,"₹44,800","₹11,402",Profit
+2162,05/09/2026,C075,Repeat Customer,Camera,Electronics,Mumbai,6,"₹325,524","₹49,989",Profit
+2163,04/10/2026,C479,Repeat Customer,Sofa,Furniture,Delhi,5,"₹207,605","₹42,970",Profit
+2164,29/07/2026,C462,Repeat Customer,Chair,Furniture,Mumbai,5,"₹28,515","₹6,387",Profit
+2165,25/05/2026,C266,Repeat Customer,Tablet,Electronics,Bangalore,5,"₹130,205","₹18,996",Profit
+2166,19/04/2026,C421,Repeat Customer,Desk,Furniture,Bangalore,6,"₹34,482","₹8,446",Profit
+2167,16/01/2026,C262,Repeat Customer,Phone,Electronics,Bangalore,1,"₹13,790","₹1,153",Profit
+2168,04/11/2026,C314,Repeat Customer,Sofa,Furniture,Mumbai,2,"₹88,238","₹18,308",Profit
+2169,28/03/2026,C051,Repeat Customer,Smartwatch,Electronics,Chennai,5,"₹64,190","₹11,644",Profit
+2170,14/05/2026,C389,Repeat Customer,Kurta,Apparel,Chennai,2,"₹2,666",₹724,Profit
+2171,25/03/2026,C067,Repeat Customer,Chair,Furniture,Mumbai,3,"₹18,105","₹3,635",Profit
+2172,30/06/2026,C413,Repeat Customer,Table,Furniture,Pune,2,"₹34,340","₹7,064",Profit
+2173,08/02/2026,C396,Repeat Customer,Shoes,Apparel,Bangalore,2,"₹9,812","₹2,553",Profit
+2174,27/01/2026,C365,Repeat Customer,Jacket,Apparel,Chennai,4,"₹7,744","₹1,980",Profit
+2175,08/01/2026,C018,Repeat Customer,Laptop,Electronics,Mumbai,2,"₹94,534","₹8,584",Profit
+2176,23/02/2026,C155,Repeat Customer,Laptop,Electronics,Pune,4,"₹339,088","₹31,522",Profit
+2177,07/09/2026,C140,Repeat Customer,Speaker,Electronics,Bangalore,4,"₹45,848","₹7,240",Profit
+2178,08/09/2026,C188,Repeat Customer,Table,Furniture,Delhi,3,"₹48,264","₹11,844",Profit
+2179,22/05/2026,C049,Repeat Customer,Tablet,Electronics,Pune,3,"₹109,113","₹17,294",Profit
+2180,08/11/2026,UNKNOWN,Repeat Customer,Camera,Electronics,Kolkata,5,"₹345,405","₹42,283",Profit
+2181,03/08/2026,C273,Repeat Customer,Laptop,Electronics,Hyderabad,1,"₹72,030","₹9,411",Profit
+2182,16/01/2026,C155,Repeat Customer,Microwave,Home,Mumbai,2,"₹21,418","₹3,316",Profit
+2183,02/11/2026,C205,Repeat Customer,Chair,Furniture,Bangalore,6,"₹51,564","₹10,213",Profit
+2184,24/04/2026,C235,Repeat Customer,Speaker,Electronics,Kolkata,1,"₹10,804","₹2,047",Profit
+2185,04/09/2026,C303,Repeat Customer,Kurta,Apparel,Bangalore,5,"₹9,155","₹3,159",Profit
+2186,08/07/2026,C260,Repeat Customer,Table,Furniture,Hyderabad,2,"₹26,684","₹6,907",Profit
+2187,07/09/2026,C454,Repeat Customer,Smartwatch,Electronics,Hyderabad,6,"₹96,372","₹15,149",Profit
+2188,18/03/2026,C250,Repeat Customer,Bookshelf,Furniture,Pune,1,"₹5,565","₹1,048",Profit
+2189,06/10/2026,C479,Repeat Customer,Shoes,Apparel,Pune,5,"₹23,880","₹5,876",Profit
+2190,31/05/2026,C428,Repeat Customer,Blender,Home,Pune,2,"₹9,028","₹1,449",Profit
+2191,19/02/2026,C113,Repeat Customer,Desk,Furniture,Delhi,5,"₹29,680","₹6,451",Profit
+2192,23/03/2026,C464,Repeat Customer,Bookshelf,Furniture,Hyderabad,4,"₹20,420","₹3,956",Profit
+2193,22/05/2026,C056,Repeat Customer,Microwave,Home,Chennai,2,"₹15,656","₹2,520",Profit
+2194,08/01/2026,C412,Repeat Customer,Table,Furniture,Mumbai,1,"₹19,944","₹4,855",Profit
+2195,22/01/2026,C198,Repeat Customer,T-Shirt,Apparel,Chennai,3,"₹3,441","₹1,191",Profit
+2196,01/10/2026,C442,Repeat Customer,Camera,Electronics,Kolkata,2,"₹61,012","₹7,798",Profit
+2197,24/01/2026,C439,Repeat Customer,Tablet,Electronics,Hyderabad,1,"₹30,532","₹4,647",Profit
+2198,07/03/2026,C406,Repeat Customer,Smartwatch,Electronics,Pune,1,"₹9,736","₹2,064",Profit
+2199,16/03/2026,C398,New Customer,Sofa,Furniture,Delhi,2,"₹60,130","₹10,997",Profit
+2200,13/02/2026,C155,Repeat Customer,Table,Furniture,Chennai,4,"₹45,480","₹8,550",Profit
+2201,08/12/2026,C044,Repeat Customer,Sofa,Furniture,Bangalore,1,"₹40,184","₹6,643",Profit
+2202,05/09/2026,C212,Repeat Customer,Makeup Kit,Beauty,Mumbai,2,"₹5,424",₹0,Profit
+2203,13/01/2026,C089,Repeat Customer,Bookshelf,Furniture,Chennai,3,"₹16,284","₹3,877",Profit
+2204,13/08/2026,C359,Repeat Customer,Vacuum Cleaner,Home,Chennai,3,"₹22,917","₹5,419",Profit
+2205,16/01/2026,C183,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹7,028","₹2,406",Profit
+2206,28/03/2026,C476,Repeat Customer,Perfume,Beauty,Mumbai,1,"₹1,290",₹426,Profit
+2207,16/02/2026,C322,Repeat Customer,Chair,Furniture,Chennai,4,"₹31,400","₹6,182",Profit
+2208,27/05/2026,C412,Repeat Customer,Jacket,Apparel,Kolkata,1,"₹4,016","₹1,209",Profit
+2209,31/01/2026,C070,Repeat Customer,Speaker,Electronics,Hyderabad,5,"₹51,260","₹11,232",Profit
+2210,23/06/2026,C436,Repeat Customer,Vacuum Cleaner,Home,Pune,6,"₹99,186","₹22,728",Profit
+2211,25/07/2026,C456,Repeat Customer,Camera,Electronics,Pune,2,"₹106,710","₹11,183",Profit
+2212,25/03/2026,C249,Repeat Customer,Makeup Kit,Beauty,Delhi,3,"₹10,503","₹3,576",Profit
+2213,06/05/2026,C306,Repeat Customer,Cookware Set,Home,Hyderabad,3,"₹14,817",₹0,Profit
+2214,05/09/2026,C391,Repeat Customer,Table,Furniture,Mumbai,5,"₹90,825","₹21,134",Profit
+2214,05/09/2026,C391,Repeat Customer,Table,Furniture,Mumbai,5,"₹90,825","₹21,134",Profit
+2215,07/05/2026,C089,Repeat Customer,Vacuum Cleaner,Home,Chennai,3,"₹44,601","₹7,542",Profit
+2216,19/05/2026,C253,Repeat Customer,Vacuum Cleaner,Home,Kolkata,1,"₹7,272","₹1,614",Profit
+2217,02/07/2026,C208,Repeat Customer,Headphones,Electronics,Chennai,2,"₹11,662","₹2,852",Profit
+2218,14/04/2026,UNKNOWN,Repeat Customer,Bookshelf,Furniture,Kolkata,6,"₹46,950","₹8,784",Profit
+2219,04/08/2026,C192,Repeat Customer,Phone,Electronics,Kolkata,1,"₹27,735","₹2,978",Profit
+2220,06/02/2026,UNKNOWN,Repeat Customer,Table,Furniture,Bangalore,6,"₹116,736","₹29,417",Profit
+2221,17/03/2026,C012,Repeat Customer,Smartwatch,Electronics,Mumbai,2,"₹6,586",₹0,Profit
+2222,31/07/2026,C070,Repeat Customer,Perfume,Beauty,Bangalore,3,"₹9,063","₹3,103",Profit
+2223,29/04/2026,C473,Repeat Customer,Shoes,Apparel,Kolkata,3,"₹17,007","₹4,589",Profit
+2224,17/02/2026,C271,Repeat Customer,Shoes,Apparel,Chennai,1,"₹2,059",₹516,Profit
+2225,02/09/2026,C474,Repeat Customer,Cookware Set,Home,Mumbai,4,"₹21,044","₹4,551",Profit
+2226,03/07/2026,C227,Repeat Customer,Makeup Kit,Beauty,Kolkata,3,"₹12,234",₹0,Profit
+2227,18/06/2026,C158,Repeat Customer,Table,Furniture,Kolkata,1,"₹11,363","₹2,525",Profit
+2228,28/05/2026,C256,Repeat Customer,Smartwatch,Electronics,Pune,6,"₹31,236","₹5,352",Profit
+2229,07/01/2026,C230,Repeat Customer,Vacuum Cleaner,Home,Pune,2,"₹9,086","₹1,846",Profit
+2230,31/07/2026,C053,Repeat Customer,Speaker,Electronics,Mumbai,2,"₹5,014",₹922,Profit
+2231,05/03/2026,C322,Repeat Customer,Phone,Electronics,Hyderabad,3,"₹115,095","₹15,280",Profit
+2232,08/06/2026,C115,Repeat Customer,Makeup Kit,Beauty,Hyderabad,3,"₹13,437","₹4,447",Profit
+2233,08/02/2026,C309,Repeat Customer,Jacket,Apparel,Chennai,6,"₹13,164","₹4,594",Profit
+2234,01/07/2026,C325,Repeat Customer,Microwave,Home,Mumbai,2,"₹16,880","₹2,555",Profit
+2235,26/06/2026,C075,Repeat Customer,T-Shirt,Apparel,Pune,2,"₹1,244",₹425,Profit
+2236,20/05/2026,C035,Repeat Customer,Desk,Furniture,Delhi,2,"₹15,454","₹3,514",Profit
+2237,31/05/2026,C396,Repeat Customer,Tablet,Electronics,Bangalore,4,"₹94,152",₹0,Profit
+2238,04/11/2026,C242,Repeat Customer,Laptop,Electronics,Hyderabad,3,"₹128,046","₹17,808",Profit
+2239,06/05/2026,C034,Repeat Customer,Makeup Kit,Beauty,Hyderabad,5,"₹12,610","₹4,468",Profit
+2240,05/10/2026,C479,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹10,974","₹2,967",Profit
+2241,15/08/2026,C034,Repeat Customer,T-Shirt,Apparel,Chennai,6,"₹5,514","₹1,925",Profit
+2242,01/09/2026,C359,Repeat Customer,Headphones,Electronics,Delhi,2,"₹9,386","₹1,498",Profit
+2243,17/05/2026,UNKNOWN,Repeat Customer,Skincare Set,Beauty,Hyderabad,2,"₹1,748",₹629,Profit
+2244,02/03/2026,C127,Repeat Customer,Smartwatch,Electronics,Hyderabad,1,"₹17,542","₹2,986",Profit
+2245,28/02/2026,C070,Repeat Customer,Bookshelf,Furniture,Hyderabad,4,"₹462,360","₹91,809",Profit
+2246,01/03/2026,C063,Repeat Customer,Phone,Electronics,Chennai,4,"₹151,756","₹19,690",Profit
+2247,03/01/2026,C155,Repeat Customer,Microwave,Home,Delhi,1,"₹8,887","₹1,320",Profit
+2248,02/05/2026,C053,Repeat Customer,Speaker,Electronics,Chennai,5,"₹53,695","₹8,554",Profit
+2249,14/03/2026,C357,Repeat Customer,Blender,Home,Kolkata,3,"₹8,547","₹1,429",Profit
+2250,21/03/2026,C035,Repeat Customer,Kurta,Apparel,Mumbai,5,"₹11,130","₹2,948",Profit
+2251,18/01/2026,C257,Repeat Customer,Laptop,Electronics,Bangalore,6,"₹270,654","₹36,296",Profit
+2252,07/01/2026,C479,Repeat Customer,Vacuum Cleaner,Home,Delhi,1,"₹9,177","₹1,722",Profit
+2253,17/05/2026,C409,Repeat Customer,Makeup Kit,Beauty,Bangalore,6,"₹25,944","₹10,219",Profit
+2254,04/06/2026,C307,Repeat Customer,Sofa,Furniture,Pune,5,"₹110,190","₹19,523",Profit
+2255,25/02/2026,C155,Repeat Customer,Speaker,Electronics,Mumbai,6,"₹59,010","₹12,161",Profit
+2256,25/07/2026,C314,Repeat Customer,Perfume,Beauty,Hyderabad,4,"₹11,768","₹3,687",Profit
+2257,28/05/2026,C262,Repeat Customer,Cookware Set,Home,Pune,2,"₹8,230","₹1,793",Profit
+2258,05/04/2026,C227,Repeat Customer,Laptop,Electronics,Delhi,2,"₹99,878","₹9,040",Profit
+2259,28/02/2026,C069,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹25,812","₹4,875",Profit
+2260,13/04/2026,C445,Repeat Customer,Camera,Electronics,Hyderabad,4,"₹243,948","₹26,598",Profit
+2261,05/02/2026,C237,Repeat Customer,Laptop,Electronics,Pune,2,"₹143,204","₹13,501",Profit
+2262,02/10/2026,C104,Repeat Customer,Phone,Electronics,Mumbai,3,"₹39,636","₹5,236",Profit
+2263,31/05/2026,C192,Repeat Customer,Perfume,Beauty,Chennai,5,"₹20,615","₹7,821",Profit
+2264,16/08/2026,C219,Repeat Customer,Camera,Electronics,Kolkata,5,"₹322,620","₹43,379",Profit
+2265,21/05/2026,C413,Repeat Customer,Sofa,Furniture,Kolkata,6,"₹130,800","₹23,437",Profit
+2266,02/05/2026,C377,Repeat Customer,Blender,Home,Pune,6,"₹11,562","₹2,116",Profit
+2267,02/02/2026,C391,Repeat Customer,Shoes,Apparel,Hyderabad,4,"₹13,836","₹4,274",Profit
+2268,30/04/2026,C004,Repeat Customer,Blender,Home,Hyderabad,3,"₹12,576","₹2,865",Profit
+2269,08/08/2026,C220,Repeat Customer,Blender,Home,Pune,4,"₹6,400","₹1,190",Profit
+2270,13/03/2026,C248,Repeat Customer,Kurta,Apparel,Not Specified,5,"₹3,605",₹951,Profit
+2271,08/08/2026,C010,Repeat Customer,Shoes,Apparel,Chennai,3,"₹15,129","₹4,827",Profit
+2272,21/02/2026,C138,Repeat Customer,Desk,Furniture,Delhi,3,"₹27,549","₹5,298",Profit
+2273,24/02/2026,C391,Repeat Customer,Blender,Home,Chennai,2,"₹9,852","₹1,946",Profit
+2274,17/01/2026,C070,Repeat Customer,Speaker,Electronics,Delhi,3,"₹8,382","₹1,689",Profit
+2275,04/01/2026,C264,New Customer,Jacket,Apparel,Pune,5,"₹17,470","₹4,843",Profit
+2276,21/04/2026,C115,Repeat Customer,Perfume,Beauty,Chennai,5,"₹6,580","₹2,301",Profit
+2277,01/11/2026,C006,Repeat Customer,Table,Furniture,Bangalore,1,"₹19,130","₹3,581",Profit
+2278,21/02/2026,C127,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹8,943","₹2,560",Profit
+2279,07/08/2026,C476,Repeat Customer,Makeup Kit,Beauty,Mumbai,3,"₹12,666","₹4,906",Profit
+2280,24/02/2026,C404,Repeat Customer,Kurta,Apparel,Hyderabad,3,"₹47,679",₹940,Profit
+2281,18/04/2026,C472,Repeat Customer,Skincare Set,Beauty,Delhi,5,"₹19,650","₹6,957",Profit
+2282,20/04/2026,C249,Repeat Customer,Jeans,Apparel,Hyderabad,6,"₹16,440","₹5,136",Profit
+2283,15/05/2026,C054,Repeat Customer,Perfume,Beauty,Kolkata,4,"₹6,620","₹2,351",Profit
+2284,06/10/2026,C271,Repeat Customer,Blender,Home,Kolkata,1,"₹4,952",₹875,Profit
+2285,06/11/2026,C241,Repeat Customer,Blender,Home,Mumbai,5,"₹17,980","₹3,172",Profit
+2286,26/07/2026,C422,Repeat Customer,Vacuum Cleaner,Home,Pune,1,"₹12,965","₹2,641",Profit
+2287,05/11/2026,C052,Repeat Customer,Laptop,Electronics,Chennai,5,"₹187,005","₹15,488",Profit
+2288,26/06/2026,C249,Repeat Customer,Skincare Set,Beauty,Bangalore,4,"₹3,956","₹1,311",Profit
+2289,22/06/2026,C074,Repeat Customer,Jeans,Apparel,Mumbai,2,"₹3,386",₹957,Profit
+2290,28/02/2026,C167,Repeat Customer,Table,Furniture,Hyderabad,3,"₹20,196","₹5,221",Profit
+2291,08/12/2026,C379,Repeat Customer,Phone,Electronics,Mumbai,4,"₹77,840","₹9,730",Profit
+2292,18/03/2026,C246,Repeat Customer,Sofa,Furniture,Pune,3,"₹80,109","₹13,653",Profit
+2293,23/04/2026,C197,Repeat Customer,Camera,Electronics,Mumbai,4,"₹137,312","₹17,900",Profit
+2294,07/08/2026,C204,Repeat Customer,Blender,Home,Pune,6,"₹9,924","₹2,246",Profit
+2295,06/11/2026,C242,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,2,"₹27,106","₹5,180",Profit
+2296,22/05/2026,C396,Repeat Customer,Vacuum Cleaner,Home,Delhi,4,"₹33,544","₹7,844",Profit
+2297,06/01/2026,C446,Repeat Customer,Sofa,Furniture,Delhi,3,"₹127,356","₹23,378",Profit
+2298,29/07/2026,C472,Repeat Customer,Blender,Home,Chennai,6,"₹14,928","₹3,308",Profit
+2299,01/09/2026,C397,Repeat Customer,Camera,Electronics,Chennai,4,"₹112,272","₹13,770",Profit
+2300,05/02/2026,C161,Repeat Customer,Smartwatch,Electronics,Mumbai,2,"₹23,606","₹4,440",Profit
+2301,02/05/2026,C353,Repeat Customer,Bookshelf,Furniture,Mumbai,3,"₹32,010","₹6,464",Profit
+2302,13/06/2026,C229,Repeat Customer,Phone,Electronics,Delhi,2,"₹88,174","₹9,062",Profit
+2303,23/02/2026,C135,Repeat Customer,Not Specified,Apparel,Pune,1,"₹1,211",₹305,Profit
+2304,03/12/2026,C421,Repeat Customer,Table,Furniture,Pune,6,"₹61,146","₹12,959",Profit
+2305,01/03/2026,C020,New Customer,Headphones,Electronics,Bangalore,3,"₹18,759","₹3,093",Profit
+2306,30/05/2026,C447,Repeat Customer,Sofa,Furniture,Mumbai,6,"₹175,608","₹32,657",Profit
+2307,19/03/2026,C242,Repeat Customer,Headphones,Electronics,Bangalore,4,"₹23,524","₹5,013",Profit
+2308,14/01/2026,C319,New Customer,Phone,Electronics,Chennai,6,"₹72,900","₹7,703",Profit
+2309,22/03/2026,C331,Repeat Customer,Shoes,Apparel,Chennai,6,"₹22,470","₹4,985",Profit
+2310,17/02/2026,C447,Repeat Customer,Microwave,Home,Kolkata,1,"₹11,583","₹1,795",Profit
+2311,13/05/2026,C318,Repeat Customer,Kurta,Apparel,Mumbai,1,"₹1,958",₹637,Profit
+2312,14/02/2026,C306,Repeat Customer,Camera,Electronics,Mumbai,5,"₹183,280","₹27,784",Profit
+2313,06/10/2026,C035,Repeat Customer,T-Shirt,Apparel,Mumbai,6,"₹2,130",₹656,Profit
+2314,03/05/2026,C262,Repeat Customer,Chair,Furniture,Bangalore,1,"₹5,741","₹1,491",Profit
+2315,22/04/2026,C074,Repeat Customer,Cookware Set,Home,Chennai,1,"₹4,183","₹1,085",Profit
+2316,04/10/2026,C379,Repeat Customer,Bookshelf,Furniture,Mumbai,6,"₹57,882","₹12,306",Profit
+2317,26/03/2026,C258,Repeat Customer,Sofa,Furniture,Delhi,1,"₹20,133","₹4,236",Profit
+2318,08/09/2026,C349,Repeat Customer,Skincare Set,Beauty,Kolkata,0,"₹1,214",₹429,Profit
+2319,28/02/2026,C023,Repeat Customer,Headphones,Electronics,Delhi,5,"₹34,360","₹6,741",Profit
+2320,04/12/2026,C047,Repeat Customer,Jacket,Apparel,Kolkata,1,"₹3,777","₹1,090",Profit
+2321,19/08/2026,C367,Repeat Customer,Smartwatch,Electronics,Hyderabad,6,"₹50,328","₹10,024",Profit
+2322,16/08/2026,C038,Repeat Customer,Microwave,Home,Bangalore,6,"₹37,854","₹5,549",Profit
+2323,27/02/2026,C037,Repeat Customer,Chair,Furniture,Kolkata,1,"₹6,191","₹1,287",Profit
+2324,08/10/2026,C006,Repeat Customer,Camera,Electronics,Chennai,4,"₹206,360","₹23,175",Profit
+2325,01/10/2026,C472,Repeat Customer,Phone,Electronics,Delhi,5,"₹89,865","₹7,245",Profit
+2326,07/10/2026,C379,Repeat Customer,T-Shirt,Apparel,Pune,1,₹713,₹249,Profit
+2327,24/03/2026,C184,Repeat Customer,Table,Furniture,Mumbai,2,"₹22,460","₹4,807",Profit
+2328,14/05/2026,C155,Repeat Customer,Perfume,Beauty,Delhi,1,"₹2,865","₹1,083",Profit
+2329,17/03/2026,C183,Repeat Customer,Sofa,Furniture,Delhi,5,"₹150,260","₹25,684",Profit
+2330,13/08/2026,C391,Repeat Customer,Headphones,Electronics,Mumbai,1,"₹1,807",₹361,Profit
+2331,21/03/2026,C332,Repeat Customer,Headphones,Electronics,Bangalore,1,"₹4,866",₹940,Profit
+2331,21/03/2026,C332,Repeat Customer,Headphones,Electronics,Bangalore,1,"₹4,866",₹940,Profit
+2332,06/03/2026,C095,Repeat Customer,Vacuum Cleaner,Home,Bangalore,6,"₹103,500","₹22,418",Profit
+2333,27/04/2026,C089,Repeat Customer,Desk,Furniture,Delhi,6,"₹63,492","₹13,195",Profit
+2334,15/06/2026,C052,Repeat Customer,Vacuum Cleaner,Home,Bangalore,1,"₹8,243","₹1,324",Profit
+2335,26/01/2026,UNKNOWN,Repeat Customer,Speaker,Electronics,Bangalore,6,"₹62,322","₹12,873",Profit
+2336,25/03/2026,C391,Repeat Customer,Laptop,Electronics,Chennai,2,"₹135,732",₹0,Profit
+2337,20/06/2026,C140,Repeat Customer,Desk,Furniture,Kolkata,3,"₹165,690","₹31,047",Profit
+2338,23/05/2026,C012,Repeat Customer,Bookshelf,Furniture,Mumbai,4,"₹46,396","₹11,194",Profit
+2339,15/07/2026,C045,Repeat Customer,Jeans,Apparel,Kolkata,2,"₹1,740",₹439,Profit
+2340,30/03/2026,C475,Repeat Customer,Vacuum Cleaner,Home,Bangalore,5,"₹53,585","₹9,807",Profit
+2341,07/04/2026,C155,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,6,"₹46,344","₹9,584",Profit
+2342,21/04/2026,C391,Repeat Customer,Bookshelf,Furniture,Pune,3,"₹35,538",₹0,Profit
+2343,13/04/2026,C314,Repeat Customer,Sofa,Furniture,Bangalore,5,"₹174,570","₹31,429",Profit
+2344,04/12/2026,C198,Repeat Customer,Headphones,Electronics,Mumbai,5,"₹10,330","₹2,478",Profit
+2345,07/01/2026,C111,Repeat Customer,Jacket,Apparel,Pune,3,"₹14,361","₹3,603",Profit
+2346,02/12/2026,C063,Repeat Customer,Bookshelf,Furniture,Bangalore,4,"₹35,672","₹7,946",Profit
+2347,08/01/2026,C307,Repeat Customer,Camera,Electronics,Mumbai,5,"₹210,735","₹24,754",Profit
+2348,25/06/2026,C391,Repeat Customer,Speaker,Electronics,Hyderabad,1,"₹9,251","₹1,701",Profit
+2349,19/07/2026,C324,Repeat Customer,Kurta,Apparel,Chennai,4,"₹9,432","₹2,362",Profit
+2350,29/05/2026,C262,Repeat Customer,Speaker,Electronics,Mumbai,1,"₹11,585","₹2,205",Profit
+2351,27/07/2026,C024,Repeat Customer,Kurta,Apparel,Mumbai,3,"₹47,679","₹1,306",Profit
+2352,07/07/2026,C475,Repeat Customer,Sofa,Furniture,Pune,6,"₹248,028","₹39,577",Profit
+2353,30/03/2026,C402,Repeat Customer,Laptop,Electronics,Pune,5,"₹271,895","₹27,506",Profit
+2354,04/11/2026,C153,Repeat Customer,T-Shirt,Apparel,Delhi,5,"₹2,315",₹768,Profit
+2355,15/06/2026,C476,Repeat Customer,Jeans,Apparel,Delhi,4,"₹10,204","₹2,802",Profit
+2356,03/04/2026,C304,Repeat Customer,Jacket,Apparel,Delhi,2,"₹7,966","₹2,008",Profit
+2357,29/03/2026,C288,Repeat Customer,Smartwatch,Electronics,Bangalore,5,"₹97,280","₹17,179",Profit
+2358,26/02/2026,C385,Repeat Customer,Bookshelf,Furniture,Mumbai,2,"₹8,674","₹2,101",Profit
+2359,16/05/2026,C409,Repeat Customer,Smartwatch,Electronics,Chennai,3,"₹40,056","₹6,626",Profit
+2360,27/03/2026,C328,Repeat Customer,T-Shirt,Apparel,Mumbai,5,"₹2,970",₹989,Profit
+2361,08/10/2026,C068,Repeat Customer,Skincare Set,Beauty,Delhi,2,"₹7,748","₹2,648",Profit
+2362,30/11/2026,C179,Repeat Customer,Tablet,Electronics,Bangalore,6,"₹162,990","₹18,118",Profit
+2363,02/06/2026,C462,Repeat Customer,Jeans,Apparel,Pune,3,"₹3,828","₹1,068",Profit
+2364,02/05/2026,C119,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,6,"₹29,514","₹6,371",Profit
+2365,29/07/2026,C193,Repeat Customer,Shoes,Apparel,Chennai,1,"₹1,551",₹478,Profit
+2366,22/02/2026,C227,Repeat Customer,Blender,Home,Mumbai,2,"₹6,464","₹1,383",Profit
+2367,15/07/2026,C230,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,3,"₹33,372","₹6,939",Profit
+2368,15/05/2026,C306,Repeat Customer,Camera,Electronics,Bangalore,6,"₹120,354","₹18,526",Profit
+2369,27/01/2026,C468,Repeat Customer,Makeup Kit,Beauty,Hyderabad,3,"₹10,839","₹3,557",Profit
+2370,01/10/2026,C127,Repeat Customer,Jacket,Apparel,Bangalore,3,"₹10,713","₹2,723",Profit
+2371,13/05/2026,C063,Repeat Customer,Phone,Electronics,Mumbai,6,"₹112,386","₹13,079",Profit
+2372,23/02/2026,C105,Repeat Customer,Microwave,Home,Kolkata,4,"₹48,740","₹8,975",Profit
+2373,13/04/2026,C445,Repeat Customer,Vacuum Cleaner,Home,Kolkata,3,"₹32,739","₹7,086",Profit
+2374,29/03/2026,C325,Repeat Customer,Perfume,Beauty,Chennai,1,"₹1,745",₹0,Profit
+2375,20/04/2026,C149,New Customer,Jeans,Apparel,Mumbai,4,"₹10,244","₹3,391",Profit
+2376,05/04/2026,C411,Repeat Customer,Blender,Home,Not Specified,1,"₹3,692",₹863,Profit
+2377,31/07/2026,C436,Repeat Customer,Makeup Kit,Beauty,Pune,5,"₹10,990","₹3,437",Profit
+2378,07/02/2026,C424,Repeat Customer,Smartwatch,Electronics,Mumbai,3,"₹57,054","₹11,265",Profit
+2379,19/02/2026,C454,Repeat Customer,Skincare Set,Beauty,Kolkata,4,"₹4,972","₹1,844",Profit
+2380,23/01/2026,C135,Repeat Customer,Laptop,Electronics,Kolkata,2,"₹91,164","₹11,885",Profit
+2381,29/06/2026,C389,Repeat Customer,Chair,Furniture,Kolkata,4,"₹12,696","₹2,574",Profit
+2382,22/02/2026,C242,Repeat Customer,Perfume,Beauty,Pune,4,"₹5,092","₹1,544",Profit
+2383,08/07/2026,C421,Repeat Customer,Shoes,Apparel,Hyderabad,4,"₹6,924","₹1,597",Profit
+2384,07/04/2026,C373,Repeat Customer,Smartwatch,Electronics,Delhi,1,"₹19,215","₹3,981",Profit
+2385,13/03/2026,C393,Repeat Customer,Laptop,Electronics,Delhi,6,"₹498,870","₹44,137",Profit
+2386,27/07/2026,C328,Repeat Customer,Tablet,Electronics,Chennai,2,"₹77,816","₹10,792",Profit
+2387,03/01/2026,C091,New Customer,Phone,Electronics,Hyderabad,1,"₹46,493","₹5,361",Profit
+2388,17/05/2026,C268,Repeat Customer,Headphones,Electronics,Bangalore,5,"₹38,465","₹8,396",Profit
+2389,07/03/2026,C476,Repeat Customer,Headphones,Electronics,Mumbai,6,"₹40,218","₹6,301",Profit
+2390,30/05/2026,UNKNOWN,Repeat Customer,Headphones,Electronics,Delhi,6,"₹35,958","₹7,818",Profit
+2391,08/11/2026,C025,Repeat Customer,Smartwatch,Electronics,Hyderabad,2,"₹37,088","₹7,467",Profit
+2392,02/10/2026,C082,Repeat Customer,Blender,Home,Pune,4,"₹9,868","₹1,994",Profit
+2393,18/05/2026,C070,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹4,225","₹1,346",Profit
+2393,18/05/2026,C070,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹4,225","₹1,346",Profit
+2394,23/05/2026,C369,Repeat Customer,Sofa,Furniture,Kolkata,3,"₹100,599","₹16,044",Profit
+2395,02/05/2026,C412,Repeat Customer,Laptop,Electronics,Bangalore,0,"₹39,747","₹5,424",Profit
+2396,03/11/2026,C114,Repeat Customer,Desk,Furniture,Pune,1,"₹13,755","₹2,564",Profit
+2397,14/06/2026,C256,Repeat Customer,Shoes,Apparel,Chennai,4,"₹15,452","₹4,932",Profit
+2398,15/08/2026,C421,Repeat Customer,Phone,Electronics,Chennai,5,"₹67,520","₹8,007",Profit
+2399,01/07/2026,C377,Repeat Customer,Jacket,Apparel,Hyderabad,2,"₹9,654","₹2,580",Profit
+2400,15/06/2026,C267,Repeat Customer,Perfume,Beauty,Delhi,3,"₹11,097","₹4,065",Profit
+2401,17/03/2026,C294,Repeat Customer,Chair,Furniture,Bangalore,1,"₹5,299","₹1,135",Profit
+2402,15/05/2026,C257,Repeat Customer,Skincare Set,Beauty,Bangalore,4,"₹13,520","₹4,619",Profit
+2403,04/02/2026,C155,Repeat Customer,Cookware Set,Home,Bangalore,6,"₹32,076","₹7,339",Profit
+2404,26/05/2026,C277,Repeat Customer,Sofa,Furniture,Bangalore,3,"₹115,848","₹18,795",Profit
+2405,29/01/2026,C353,Repeat Customer,Chair,Furniture,Hyderabad,2,"₹15,670","₹3,616",Profit
+2406,03/01/2026,C442,Repeat Customer,Perfume,Beauty,Hyderabad,3,"₹12,039","₹3,834",Profit
+2407,29/07/2026,C317,Repeat Customer,Cookware Set,Home,Pune,3,"₹10,620","₹2,524",Profit
+2408,01/11/2026,C391,Repeat Customer,Skincare Set,Beauty,Chennai,6,"₹13,248","₹4,042",Profit
+2409,17/02/2026,C080,New Customer,Vacuum Cleaner,Home,Delhi,3,"₹16,608","₹3,541",Profit
+2410,15/08/2026,C242,Repeat Customer,Jeans,Apparel,Mumbai,3,"₹7,134","₹2,385",Profit
+2411,03/02/2026,C003,Repeat Customer,Laptop,Electronics,Kolkata,1,"₹68,499","₹8,171",Profit
+2412,26/01/2026,C130,Repeat Customer,Headphones,Electronics,Chennai,1,"₹4,045",₹894,Profit
+2413,01/12/2026,C370,Repeat Customer,Camera,Electronics,Bangalore,5,"₹282,205","₹28,872",Profit
+2414,03/08/2026,C479,Repeat Customer,Speaker,Electronics,Pune,1,"₹6,035","₹1,104",Profit
+2415,24/03/2026,C052,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹9,540","₹3,217",Profit
+2416,14/01/2026,C211,Repeat Customer,Microwave,Home,Delhi,4,"₹59,644","₹11,582",Profit
+2417,26/04/2026,C403,Repeat Customer,Cookware Set,Home,Mumbai,5,"₹32,525","₹7,330",Profit
+2418,14/05/2026,C109,New Customer,Sofa,Furniture,Bangalore,6,"₹211,650","₹32,947",Profit
+2419,21/07/2026,C273,Repeat Customer,Cookware Set,Home,Delhi,6,"₹27,216",₹0,Profit
+2420,08/12/2026,C377,Repeat Customer,Perfume,Beauty,Chennai,3,"₹5,289","₹1,969",Profit
+2421,14/08/2026,C307,Repeat Customer,Chair,Furniture,Bangalore,1,"₹7,468","₹1,433",Profit
+2422,05/11/2026,C097,Repeat Customer,Tablet,Electronics,Hyderabad,4,"₹89,132","₹8,961",Profit
+2423,23/07/2026,C186,Repeat Customer,Jacket,Apparel,Chennai,1,"₹1,675",₹440,Profit
+2424,18/04/2026,C396,Repeat Customer,Blender,Home,Pune,1,"₹2,238",₹359,Profit
+2425,03/03/2026,C273,Repeat Customer,Kurta,Apparel,Bangalore,1,"₹1,828",₹535,Profit
+2426,07/06/2026,C002,Repeat Customer,Smartwatch,Electronics,Hyderabad,4,"₹69,752","₹15,052",Profit
+2427,26/07/2026,C391,Repeat Customer,Perfume,Beauty,Pune,6,"₹47,679","₹8,556",Profit
+2428,22/03/2026,C017,Repeat Customer,Skincare Set,Beauty,Bangalore,6,"₹7,308","₹2,408",Profit
+2429,07/06/2026,C384,Repeat Customer,Kurta,Apparel,Not Specified,4,"₹9,992","₹2,875",Profit
+2430,13/01/2026,C108,Repeat Customer,Desk,Furniture,Kolkata,6,"₹44,250","₹10,467",Profit
+2431,08/06/2026,C472,Repeat Customer,Smartwatch,Electronics,Kolkata,5,"₹89,000","₹16,549",Profit
+2432,13/03/2026,C192,Repeat Customer,Jeans,Apparel,Kolkata,6,"₹17,592","₹5,862",Profit
+2433,15/04/2026,C170,Repeat Customer,Bookshelf,Furniture,Chennai,6,"₹28,662","₹6,384",Profit
+2434,24/05/2026,C074,Repeat Customer,T-Shirt,Apparel,Mumbai,2,"₹1,820",₹628,Profit
+2435,05/07/2026,C155,Repeat Customer,Camera,Electronics,Kolkata,6,"₹351,984","₹53,932",Profit
+2436,15/01/2026,C442,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹5,586","₹1,743",Profit
+2437,08/06/2026,C479,Repeat Customer,Cookware Set,Home,Bangalore,3,"₹18,678","₹4,114",Profit
+2438,20/08/2026,C193,Repeat Customer,Cookware Set,Home,Hyderabad,3,"₹25,098","₹5,204",Profit
+2439,07/05/2026,C236,Repeat Customer,Jacket,Apparel,Pune,2,"₹3,870","₹1,351",Profit
+2440,20/03/2026,C368,Repeat Customer,Chair,Furniture,Delhi,2,"₹6,862","₹1,239",Profit
+2441,18/04/2026,C445,Repeat Customer,Blender,Home,Chennai,3,"₹13,461","₹3,214",Profit
+2442,16/06/2026,C297,Repeat Customer,Camera,Electronics,Mumbai,4,"₹47,679","₹16,577",Profit
+2443,16/06/2026,C204,Repeat Customer,Table,Furniture,Delhi,5,"₹94,870","₹18,818",Profit
+2444,24/01/2026,C218,Repeat Customer,Speaker,Electronics,Bangalore,5,"₹32,175","₹7,045",Profit
+2445,21/03/2026,C359,Repeat Customer,T-Shirt,Apparel,Hyderabad,3,"₹2,178",₹546,Profit
+2446,28/05/2026,C002,Repeat Customer,Bookshelf,Furniture,Delhi,5,"₹22,285","₹5,481",Profit
+2447,17/01/2026,C309,Repeat Customer,Vacuum Cleaner,Home,Mumbai,4,"₹62,604","₹12,936",Profit
+2448,26/07/2026,C186,Repeat Customer,Camera,Electronics,Kolkata,5,"₹175,525","₹20,770",Profit
+2449,14/03/2026,C400,Repeat Customer,Cookware Set,Home,Mumbai,3,"₹11,127","₹2,094",Profit
+2450,06/09/2026,C051,Repeat Customer,Kurta,Apparel,Kolkata,5,"₹6,375","₹1,880",Profit
+2451,02/01/2026,C293,Repeat Customer,Jacket,Apparel,Pune,1,"₹2,518",₹832,Profit
+2452,26/04/2026,C248,Repeat Customer,Laptop,Electronics,Delhi,5,"₹286,480","₹32,380",Profit
+2453,14/07/2026,C323,Repeat Customer,Table,Furniture,Chennai,1,"₹13,496","₹3,352",Profit
+2454,03/08/2026,UNKNOWN,Repeat Customer,Perfume,Beauty,Chennai,4,"₹20,540","₹7,022",Profit
+2455,15/04/2026,C285,Repeat Customer,Speaker,Electronics,Mumbai,2,"₹16,056","₹3,127",Profit
+2456,18/03/2026,C275,Repeat Customer,Chair,Furniture,Chennai,1,"₹4,111",₹986,Profit
+2457,13/07/2026,C274,Repeat Customer,Bookshelf,Furniture,Delhi,6,"₹66,234","₹13,637",Profit
+2458,04/07/2026,C305,Repeat Customer,Microwave,Home,Mumbai,4,"₹56,652","₹10,212",Profit
+2459,02/07/2026,C346,Repeat Customer,Cookware Set,Home,Hyderabad,3,"₹21,795","₹5,421",Profit
+2460,04/05/2026,C406,Repeat Customer,T-Shirt,Apparel,Mumbai,6,"₹3,528","₹1,091",Profit
+2461,04/11/2026,C140,Repeat Customer,Jacket,Apparel,Hyderabad,1,"₹3,337","₹1,113",Profit
+2462,02/05/2026,C413,Repeat Customer,Phone,Electronics,Kolkata,5,"₹258,395","₹28,359",Profit
+2463,21/01/2026,C251,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹2,736",₹898,Profit
+2464,04/06/2026,C043,Repeat Customer,Camera,Electronics,Bangalore,3,"₹208,317","₹23,427",Profit
+2465,21/04/2026,C034,Repeat Customer,Smartwatch,Electronics,Mumbai,6,"₹69,780","₹13,033",Profit
+2466,06/03/2026,C176,Repeat Customer,Skincare Set,Beauty,Pune,1,"₹1,865",₹719,Profit
+2467,19/04/2026,C396,Repeat Customer,Microwave,Home,Kolkata,3,"₹18,948","₹2,768",Profit
+2468,02/04/2026,C365,Repeat Customer,Vacuum Cleaner,Home,Chennai,6,"₹24,000","₹4,726",Profit
+2469,13/03/2026,C397,Repeat Customer,Cookware Set,Home,Kolkata,5,"₹36,290","₹7,334",Profit
+2470,03/06/2026,C261,Repeat Customer,Cookware Set,Home,Kolkata,2,"₹5,098","₹1,062",Profit
+2471,05/04/2026,C230,Repeat Customer,Bookshelf,Furniture,Mumbai,3,"₹33,249","₹6,325",Profit
+2472,01/03/2026,C072,New Customer,Headphones,Electronics,Kolkata,6,"₹43,386","₹8,270",Profit
+2473,06/09/2026,C171,Repeat Customer,Camera,Electronics,Bangalore,4,"₹163,432","₹17,113",Profit
+2474,25/02/2026,C228,Repeat Customer,Microwave,Home,Kolkata,6,"₹37,464","₹7,427",Profit
+2475,30/06/2026,C050,Repeat Customer,Tablet,Electronics,Kolkata,5,"₹199,875","₹21,087",Profit
+2476,19/02/2026,C117,Repeat Customer,Sofa,Furniture,Mumbai,5,"₹218,570","₹39,874",Profit
+2477,17/05/2026,C301,New Customer,Sofa,Furniture,Hyderabad,2,"₹46,348","₹9,815",Profit
+2478,31/01/2026,C379,Repeat Customer,Phone,Electronics,Kolkata,6,"₹232,140","₹26,218",Profit
+2479,27/01/2026,C479,Repeat Customer,Speaker,Electronics,Kolkata,2,"₹17,322","₹3,638",Profit
+2480,31/07/2026,C465,Repeat Customer,Vacuum Cleaner,Home,Chennai,1,"₹4,282",₹943,Profit
+2481,07/01/2026,C323,Repeat Customer,Skincare Set,Beauty,Delhi,4,"₹9,028","₹3,071",Profit
+2481,07/01/2026,C323,Repeat Customer,Skincare Set,Beauty,Delhi,4,"₹9,028","₹3,071",Profit
+2482,28/03/2026,C223,Repeat Customer,Desk,Furniture,Kolkata,6,"₹64,572","₹15,549",Profit
+2483,02/07/2026,C317,Repeat Customer,Table,Furniture,Pune,4,"₹32,000","₹6,655",Profit
+2484,06/05/2026,C396,Repeat Customer,Kurta,Apparel,Delhi,1,"₹1,189",₹317,Profit
+2485,26/02/2026,C060,New Customer,Microwave,Home,Delhi,1,"₹13,235","₹2,316",Profit
+2486,06/01/2026,C216,Repeat Customer,Shoes,Apparel,Kolkata,4,"₹15,388","₹4,897",Profit
+2487,26/03/2026,C421,Repeat Customer,Tablet,Electronics,Pune,2,"₹66,438","₹10,319",Profit
+2488,13/01/2026,C199,Repeat Customer,Table,Furniture,Pune,5,"₹95,340","₹19,622",Profit
+2489,03/07/2026,C280,Repeat Customer,Jeans,Apparel,Mumbai,5,"₹11,340","₹3,920",Profit
+2490,15/05/2026,C293,Repeat Customer,Kurta,Apparel,Pune,6,"₹13,062","₹4,310",Profit
+2491,05/07/2026,C095,Repeat Customer,Laptop,Electronics,Pune,5,"₹246,540","₹25,248",Profit
+2492,30/03/2026,C189,Repeat Customer,Kurta,Apparel,Bangalore,5,"₹5,240","₹1,450",Profit
+2493,02/10/2026,C176,Repeat Customer,Cookware Set,Home,Hyderabad,5,"₹38,670","₹7,809",Profit
+2494,14/04/2026,C012,Repeat Customer,Tablet,Electronics,Pune,1,"₹35,221","₹4,418",Profit
+2495,13/06/2026,C012,Repeat Customer,Chair,Furniture,Hyderabad,1,"₹7,634","₹1,588",Profit
+2496,06/12/2026,C415,Repeat Customer,Smartwatch,Electronics,Mumbai,5,"₹50,220","₹9,863",Profit
+2497,30/03/2026,C141,Repeat Customer,Table,Furniture,Delhi,2,"₹21,830","₹4,055",Profit
+2498,04/12/2026,C262,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹121,504","₹16,212",Profit
+2499,14/08/2026,C155,Repeat Customer,Sofa,Furniture,Kolkata,1,"₹34,637","₹6,918",Profit
+2500,06/05/2026,C467,New Customer,Bookshelf,Furniture,Hyderabad,6,"₹65,208","₹14,643",Profit
+2501,27/04/2026,C138,Repeat Customer,Shoes,Apparel,Bangalore,4,"₹4,080","₹1,146",Profit
+2502,19/07/2026,C227,Repeat Customer,Smartwatch,Electronics,Kolkata,3,"₹38,385","₹6,582",Profit
+2503,16/07/2026,C442,Repeat Customer,Jacket,Apparel,Bangalore,4,"₹11,740","₹3,309",Profit
+2504,29/01/2026,C421,Repeat Customer,Jacket,Apparel,Delhi,4,"₹19,116","₹6,596",Profit
+2505,27/06/2026,C095,Repeat Customer,Jeans,Apparel,Chennai,1,₹995,₹343,Profit
+2506,20/06/2026,C404,Repeat Customer,Desk,Furniture,Bangalore,5,"₹52,585","₹9,902",Profit
+2507,15/04/2026,C241,Repeat Customer,Smartwatch,Electronics,Kolkata,3,"₹43,359","₹9,035",Profit
+2508,13/04/2026,C248,Repeat Customer,Shoes,Apparel,Pune,6,"₹47,679","₹3,074",Profit
+2509,25/02/2026,C070,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹8,454","₹2,527",Profit
+2510,04/09/2026,C044,Repeat Customer,Perfume,Beauty,Pune,1,"₹4,980","₹1,797",Profit
+2511,21/05/2026,C373,Repeat Customer,Table,Furniture,Kolkata,5,"₹65,425","₹12,708",Profit
+2512,17/05/2026,C250,Repeat Customer,T-Shirt,Apparel,Chennai,2,"₹1,322",₹435,Profit
+2513,08/06/2026,C229,Repeat Customer,Headphones,Electronics,Mumbai,3,"₹7,116","₹1,502",Profit
+2514,27/04/2026,C374,Repeat Customer,Jacket,Apparel,Hyderabad,5,"₹15,975",₹0,Profit
+2515,03/09/2026,C391,Repeat Customer,Desk,Furniture,Pune,3,"₹42,558","₹8,987",Profit
+2516,26/07/2026,C079,Repeat Customer,Smartwatch,Electronics,Kolkata,5,"₹78,950","₹15,065",Profit
+2517,04/06/2026,C306,Repeat Customer,Microwave,Home,Chennai,5,"₹71,495","₹10,638",Profit
+2518,25/06/2026,C070,Repeat Customer,Skincare Set,Beauty,Pune,3,"₹3,336","₹1,033",Profit
+2519,21/06/2026,C386,Repeat Customer,Blender,Home,Pune,5,"₹9,550","₹1,693",Profit
+2520,04/12/2026,C329,Repeat Customer,Headphones,Electronics,Bangalore,2,"₹6,248","₹1,103",Profit
+2521,17/01/2026,C472,Repeat Customer,Jacket,Apparel,Delhi,1,"₹3,227",₹962,Profit
+2522,18/03/2026,C036,Repeat Customer,Tablet,Electronics,Chennai,3,"₹98,634","₹12,917",Profit
+2523,25/05/2026,C034,Repeat Customer,Table,Furniture,Kolkata,3,"₹23,364","₹4,361",Profit
+2524,20/05/2026,C146,New Customer,Vacuum Cleaner,Home,Delhi,2,"₹19,018","₹4,561",Profit
+2525,27/05/2026,C140,Repeat Customer,Laptop,Electronics,Chennai,1,"₹56,765","₹4,769",Profit
+2526,06/09/2026,C130,Repeat Customer,Blender,Home,Hyderabad,3,"₹14,238","₹2,289",Profit
+2526,06/09/2026,C130,Repeat Customer,Blender,Home,Hyderabad,3,"₹14,238","₹2,289",Profit
+2527,15/07/2026,C447,Repeat Customer,Desk,Furniture,Chennai,3,"₹19,149","₹3,964",Profit
+2528,08/08/2026,C133,New Customer,Chair,Furniture,Mumbai,3,"₹18,033","₹4,161",Profit
+2529,23/05/2026,C141,Repeat Customer,Phone,Electronics,Bangalore,4,"₹62,936","₹6,180",Profit
+2530,31/05/2026,C391,Repeat Customer,Jeans,Apparel,Chennai,1,"₹2,657",₹771,Profit
+2531,18/08/2026,C237,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹14,470","₹3,195",Profit
+2532,08/08/2026,C393,Repeat Customer,Bookshelf,Furniture,Delhi,3,"₹25,338","₹5,641",Profit
+2533,04/03/2026,C035,Repeat Customer,Jacket,Apparel,Delhi,5,"₹14,870","₹4,785",Profit
+2534,03/08/2026,C249,Repeat Customer,T-Shirt,Apparel,Bangalore,5,"₹4,390","₹1,164",Profit
+2535,06/09/2026,C015,Repeat Customer,Desk,Furniture,Hyderabad,4,"₹44,832","₹10,684",Profit
+2536,18/01/2026,C035,Repeat Customer,Jeans,Apparel,Chennai,3,"₹8,154","₹2,571",Profit
+2537,18/07/2026,C447,Repeat Customer,Jeans,Apparel,Pune,3,"₹3,912","₹1,211",Profit
+2538,01/01/2026,C070,Repeat Customer,Camera,Electronics,Kolkata,2,"₹73,060","₹7,404",Profit
+2539,15/08/2026,C262,Repeat Customer,Smartwatch,Electronics,Mumbai,5,"₹79,190","₹12,657",Profit
+2540,24/03/2026,C218,Repeat Customer,Blender,Home,Chennai,3,"₹7,515","₹1,780",Profit
+2541,02/01/2026,C183,Repeat Customer,Sofa,Furniture,Mumbai,1,"₹30,717","₹6,695",Profit
+2542,05/04/2026,C447,Repeat Customer,Jacket,Apparel,Delhi,1,"₹4,045","₹1,376",Profit
+2543,01/03/2026,C012,Repeat Customer,Jacket,Apparel,Mumbai,6,"₹10,872","₹2,889",Profit
+2544,01/01/2026,C336,Repeat Customer,Blender,Home,Kolkata,4,"₹6,072","₹1,009",Profit
+2545,01/05/2026,C474,Repeat Customer,Desk,Furniture,Bangalore,3,"₹18,282","₹4,065",Profit
+2546,01/04/2026,C274,Repeat Customer,Kurta,Apparel,Hyderabad,4,"₹4,468","₹1,485",Profit
+2547,03/10/2026,C465,Repeat Customer,Jacket,Apparel,Mumbai,6,"₹22,644","₹6,872",Profit
+2548,02/03/2026,C032,New Customer,Shoes,Apparel,Hyderabad,6,"₹28,620","₹7,340",Profit
+2549,02/11/2026,C221,Repeat Customer,Smartwatch,Electronics,Not Specified,3,"₹21,417","₹4,269",Profit
+2550,19/03/2026,C138,Repeat Customer,Blender,Home,Hyderabad,3,"₹14,460","₹2,810",Profit
+2551,22/07/2026,C375,Repeat Customer,Sofa,Furniture,Mumbai,4,"₹168,360","₹30,110",Profit
+2552,02/12/2026,C476,Repeat Customer,Chair,Furniture,Pune,4,"₹35,208","₹7,689",Profit
+2553,17/03/2026,C135,Repeat Customer,Desk,Furniture,Chennai,4,"₹40,144","₹8,891",Profit
+2554,08/02/2026,C327,Repeat Customer,T-Shirt,Apparel,Delhi,6,"₹2,106",₹528,Profit
+2555,28/01/2026,C105,Repeat Customer,Cookware Set,Home,Mumbai,2,"₹10,758","₹2,135",Profit
+2556,27/02/2026,C277,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹8,288","₹2,286",Profit
+2557,22/01/2026,C242,Repeat Customer,Shoes,Apparel,Hyderabad,3,"₹7,020","₹1,922",Profit
+2558,06/12/2026,C476,Repeat Customer,Cookware Set,Home,Delhi,2,"₹11,066","₹2,136",Profit
+2559,13/04/2026,C306,Repeat Customer,Jeans,Apparel,Chennai,6,"₹12,456","₹3,676",Profit
+2560,24/02/2026,C183,Repeat Customer,Makeup Kit,Beauty,Hyderabad,6,"₹16,638","₹5,596",Profit
+2561,29/03/2026,C056,Repeat Customer,Speaker,Electronics,Pune,3,"₹14,577","₹2,755",Profit
+2562,28/02/2026,C074,Repeat Customer,Skincare Set,Beauty,Mumbai,2,"₹5,066","₹1,947",Profit
+2563,28/06/2026,C119,Repeat Customer,Headphones,Electronics,Chennai,2,"₹5,162","₹1,196",Profit
+2564,13/05/2026,C135,Repeat Customer,Vacuum Cleaner,Home,Pune,3,"₹28,755","₹4,764",Profit
+2565,08/08/2026,C428,Repeat Customer,Chair,Furniture,Pune,3,"₹9,522","₹2,279",Profit
+2566,08/12/2026,C275,Repeat Customer,Tablet,Electronics,Chennai,2,"₹41,382","₹5,706",Profit
+2567,18/04/2026,C262,Repeat Customer,Perfume,Beauty,Chennai,2,"₹2,550",₹765,Profit
+2568,13/01/2026,C056,Repeat Customer,Headphones,Electronics,Bangalore,2,"₹14,348","₹2,186",Profit
+2569,07/01/2026,C434,Repeat Customer,Jacket,Apparel,Pune,5,"₹18,910","₹5,850",Profit
+2570,05/03/2026,C368,Repeat Customer,Shoes,Apparel,Pune,4,"₹23,524","₹5,999",Profit
+2571,01/08/2026,C035,Repeat Customer,Speaker,Electronics,Pune,5,"₹19,195","₹4,147",Profit
+2572,03/09/2026,C365,Repeat Customer,Kurta,Apparel,Kolkata,5,"₹10,780","₹3,372",Profit
+2573,23/02/2026,C268,Repeat Customer,Kurta,Apparel,Kolkata,4,"₹6,080","₹2,047",Profit
+2574,30/06/2026,C044,Repeat Customer,Headphones,Electronics,Kolkata,6,"₹41,232","₹8,611",Profit
+2575,15/01/2026,C241,Repeat Customer,Laptop,Electronics,Hyderabad,4,"₹269,792","₹29,370",Profit
+2576,06/11/2026,C248,Repeat Customer,Sofa,Furniture,Bangalore,6,"₹101,364","₹17,303",Profit
+2577,20/03/2026,C083,Repeat Customer,Jacket,Apparel,Mumbai,1,"₹3,104",₹838,Profit
+2578,14/05/2026,C470,Repeat Customer,Laptop,Electronics,Chennai,6,"₹319,302","₹44,541",Profit
+2579,17/02/2026,C428,Repeat Customer,Smartwatch,Electronics,Bangalore,3,"₹48,735","₹7,876",Profit
+2580,16/02/2026,C338,Repeat Customer,Shoes,Apparel,Kolkata,3,"₹5,511","₹1,681",Profit
+2581,14/03/2026,C242,Repeat Customer,Shoes,Apparel,Kolkata,3,"₹14,940","₹3,337",Profit
+2582,08/12/2026,C218,Repeat Customer,Smartwatch,Electronics,Mumbai,3,"₹23,664","₹4,451",Profit
+2583,26/05/2026,C325,Repeat Customer,Perfume,Beauty,Mumbai,4,"₹8,788","₹3,328",Profit
+2584,01/12/2026,C269,New Customer,Tablet,Electronics,Pune,5,"₹95,510","₹14,404",Profit
+2585,24/04/2026,C035,Repeat Customer,Headphones,Electronics,Mumbai,5,"₹11,745","₹2,769",Profit
+2586,20/02/2026,C258,Repeat Customer,Sofa,Furniture,Bangalore,5,"₹134,170","₹25,502",Profit
+2587,26/04/2026,C406,Repeat Customer,Desk,Furniture,Pune,3,"₹30,468","₹7,790",Profit
+2588,19/01/2026,C241,Repeat Customer,Microwave,Home,Kolkata,5,"₹618,450","₹121,558",Profit
+2589,14/04/2026,C031,Repeat Customer,Chair,Furniture,Mumbai,4,"₹23,488","₹4,350",Profit
+2590,13/05/2026,C397,Repeat Customer,Tablet,Electronics,Mumbai,4,"₹64,908","₹7,614",Profit
+2591,05/04/2026,C107,Repeat Customer,Shoes,Apparel,Delhi,6,"₹18,108","₹4,176",Profit
+2592,03/10/2026,C137,Repeat Customer,Cookware Set,Home,Mumbai,1,"₹5,638","₹1,064",Profit
+2593,28/01/2026,C082,Repeat Customer,Desk,Furniture,Bangalore,4,"₹49,340","₹9,798",Profit
+2594,07/09/2026,C172,New Customer,Camera,Electronics,Hyderabad,2,"₹40,164","₹5,840",Profit
+2595,30/07/2026,C390,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹6,744","₹2,272",Profit
+2596,15/07/2026,C262,Repeat Customer,Bookshelf,Furniture,Hyderabad,5,"₹26,280","₹6,115",Profit
+2597,31/05/2026,C110,Repeat Customer,Jeans,Apparel,Delhi,3,"₹6,870","₹1,787",Profit
+2598,06/03/2026,C442,Repeat Customer,Desk,Furniture,Pune,3,"₹34,692",₹0,Profit
+2599,01/02/2026,C442,Repeat Customer,Smartwatch,Electronics,Chennai,1,"₹15,947","₹3,226",Profit
+2600,23/01/2026,C442,Repeat Customer,Tablet,Electronics,Hyderabad,1,"₹17,725","₹2,223",Profit
+2600,23/01/2026,C442,Repeat Customer,Tablet,Electronics,Hyderabad,1,"₹17,725","₹2,223",Profit
+2601,14/04/2026,C126,Repeat Customer,Skincare Set,Beauty,Hyderabad,2,"₹6,966","₹2,459",Profit
+2602,18/01/2026,C239,Repeat Customer,Camera,Electronics,Delhi,6,"₹223,176","₹28,929",Profit
+2603,27/02/2026,C476,Repeat Customer,Headphones,Electronics,Pune,5,"₹13,075","₹1,988",Profit
+2604,20/07/2026,C391,Repeat Customer,T-Shirt,Apparel,Bangalore,6,"₹5,652","₹1,547",Profit
+2605,06/04/2026,C012,Repeat Customer,Microwave,Home,Hyderabad,2,"₹21,248","₹4,121",Profit
+2606,08/12/2026,C035,Repeat Customer,Speaker,Electronics,Mumbai,5,"₹43,950","₹7,386",Profit
+2607,15/01/2026,C242,Repeat Customer,Sofa,Furniture,Pune,2,"₹33,036","₹5,011",Profit
+2608,15/02/2026,C448,Repeat Customer,Perfume,Beauty,Mumbai,5,"₹25,615","₹7,818",Profit
+2609,27/04/2026,C265,Repeat Customer,Kurta,Apparel,Hyderabad,0,₹898,₹270,Profit
+2610,27/04/2026,C250,Repeat Customer,Camera,Electronics,Kolkata,4,"₹231,744","₹27,988",Profit
+2611,03/05/2026,C053,Repeat Customer,T-Shirt,Apparel,Mumbai,4,"₹3,872","₹1,134",Profit
+2612,22/01/2026,C329,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹6,540","₹2,327",Profit
+2613,24/06/2026,UNKNOWN,Repeat Customer,Perfume,Beauty,Chennai,3,"₹16,986","₹5,408",Profit
+2614,19/03/2026,C198,Repeat Customer,Perfume,Beauty,Chennai,2,"₹8,880","₹2,803",Profit
+2615,21/06/2026,C392,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹5,806",₹0,Profit
+2616,19/04/2026,C474,Repeat Customer,Vacuum Cleaner,Home,Bangalore,4,"₹37,684","₹7,760",Profit
+2617,01/02/2026,UNKNOWN,Repeat Customer,Cookware Set,Home,Chennai,4,"₹31,816","₹5,750",Profit
+2618,04/02/2026,C262,Repeat Customer,Sofa,Furniture,Pune,5,"₹79,500","₹15,981",Profit
+2619,19/06/2026,C151,Repeat Customer,Vacuum Cleaner,Home,Kolkata,4,"₹56,320","₹12,188",Profit
+2620,29/03/2026,C400,Repeat Customer,Phone,Electronics,Bangalore,5,"₹123,275","₹14,654",Profit
+2621,26/02/2026,C283,New Customer,Cookware Set,Home,Bangalore,1,"₹2,712",₹559,Profit
+2622,08/06/2026,C316,Repeat Customer,Blender,Home,Kolkata,2,"₹3,162",₹749,Profit
+2623,24/04/2026,C402,Repeat Customer,Smartwatch,Electronics,Mumbai,2,"₹30,114","₹5,209",Profit
+2624,04/10/2026,C205,Repeat Customer,Headphones,Electronics,Delhi,4,"₹25,412","₹4,379",Profit
+2625,03/11/2026,C452,Repeat Customer,Desk,Furniture,Kolkata,1,"₹6,786",₹0,Profit
+2626,06/04/2026,UNKNOWN,Repeat Customer,Headphones,Electronics,Mumbai,6,"₹37,398","₹7,803",Profit
+2627,05/12/2026,C077,Repeat Customer,Cookware Set,Home,Mumbai,6,"₹28,134","₹7,168",Profit
+2628,05/01/2026,C359,Repeat Customer,Blender,Home,Pune,4,"₹14,396","₹2,932",Profit
+2629,20/08/2026,C400,Repeat Customer,Cookware Set,Home,Kolkata,6,"₹44,118","₹10,700",Profit
+2630,05/12/2026,C162,Repeat Customer,Smartwatch,Electronics,Chennai,3,"₹36,996","₹6,320",Profit
+2631,20/06/2026,C432,Repeat Customer,Bookshelf,Furniture,Hyderabad,5,"₹50,340","₹12,332",Profit
+2632,25/06/2026,C447,Repeat Customer,Kurta,Apparel,Chennai,2,"₹2,454",₹733,Profit
+2633,31/05/2026,C141,Repeat Customer,Skincare Set,Beauty,Delhi,1,"₹47,679",₹905,Profit
+2634,27/07/2026,C476,Repeat Customer,Blender,Home,Bangalore,1,"₹4,482",₹748,Profit
+2635,27/06/2026,C070,Repeat Customer,Smartwatch,Electronics,Bangalore,1,"₹9,172","₹1,457",Profit
+2636,25/05/2026,C108,Repeat Customer,Smartwatch,Electronics,Delhi,1,"₹18,409","₹3,012",Profit
+2637,07/01/2026,C095,Repeat Customer,Headphones,Electronics,Hyderabad,6,"₹44,994","₹6,813",Profit
+2638,05/08/2026,C446,Repeat Customer,Sofa,Furniture,Bangalore,6,"₹159,342","₹23,950",Profit
+2639,03/04/2026,C327,Repeat Customer,Cookware Set,Home,Pune,2,"₹7,802","₹1,709",Profit
+2640,29/04/2026,C075,Repeat Customer,Skincare Set,Beauty,Pune,4,"₹12,420","₹4,902",Profit
+2641,19/02/2026,C230,Repeat Customer,Bookshelf,Furniture,Hyderabad,1,"₹4,457","₹1,104",Profit
+2642,15/01/2026,C307,Repeat Customer,Chair,Furniture,Kolkata,1,"₹7,884","₹1,999",Profit
+2643,02/07/2026,C046,New Customer,Smartwatch,Electronics,Kolkata,4,"₹70,256","₹11,432",Profit
+2644,14/08/2026,C442,Repeat Customer,Speaker,Electronics,Hyderabad,6,"₹14,532","₹3,177",Profit
+2645,05/01/2026,C404,Repeat Customer,Microwave,Home,Chennai,1,"₹11,989","₹2,362",Profit
+2646,02/09/2026,C256,Repeat Customer,Table,Furniture,Delhi,6,"₹104,718","₹22,339",Profit
+2647,15/06/2026,C474,Repeat Customer,Shoes,Apparel,Delhi,2,"₹10,398","₹2,440",Profit
+2648,30/04/2026,C220,Repeat Customer,Bookshelf,Furniture,Chennai,4,"₹33,784","₹8,229",Profit
+2649,03/08/2026,C476,Repeat Customer,Tablet,Electronics,Mumbai,3,"₹58,125","₹7,071",Profit
+2650,15/01/2026,C338,Repeat Customer,Laptop,Electronics,Hyderabad,1,"₹80,360","₹9,919",Profit
+2651,01/06/2026,C316,Repeat Customer,Blender,Home,Kolkata,4,"₹15,780","₹3,407",Profit
+2652,22/06/2026,C083,Repeat Customer,Blender,Home,Hyderabad,6,"₹13,338","₹2,185",Profit
+2653,21/03/2026,C442,Repeat Customer,Jacket,Apparel,Bangalore,5,"₹17,190","₹5,089",Profit
+2654,24/01/2026,C227,Repeat Customer,Desk,Furniture,Mumbai,6,"₹55,350","₹10,697",Profit
+2655,01/02/2026,C081,Repeat Customer,Chair,Furniture,Chennai,5,"₹24,410","₹5,935",Profit
+2656,29/07/2026,C007,Repeat Customer,Jacket,Apparel,Pune,4,"₹10,932","₹2,783",Profit
+2657,28/01/2026,C274,Repeat Customer,Speaker,Electronics,Bangalore,6,"₹46,944","₹7,914",Profit
+2658,20/01/2026,C262,Repeat Customer,Perfume,Beauty,Delhi,5,"₹21,230","₹8,198",Profit
+2659,03/09/2026,C367,Repeat Customer,T-Shirt,Apparel,Delhi,2,₹706,₹208,Profit
+2660,17/01/2026,C446,Repeat Customer,Jacket,Apparel,Hyderabad,1,"₹2,871",₹802,Profit
+2661,21/01/2026,C044,Repeat Customer,Jacket,Apparel,Hyderabad,6,"₹22,266",₹678,Profit
+2662,19/05/2026,C376,Repeat Customer,Speaker,Electronics,Chennai,1,"₹6,447","₹1,032",Profit
+2663,24/02/2026,C097,Repeat Customer,Bookshelf,Furniture,Not Specified,5,"₹30,565","₹7,356",Profit
+2664,08/04/2026,C433,Repeat Customer,Laptop,Electronics,Hyderabad,5,"₹317,525","₹34,045",Profit
+2665,16/01/2026,C412,Repeat Customer,Sofa,Furniture,Chennai,4,"₹154,208","₹26,903",Profit
+2666,22/06/2026,C266,Repeat Customer,Laptop,Electronics,Hyderabad,5,"₹257,680","₹34,009",Profit
+2667,20/05/2026,C365,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,4,"₹20,416","₹4,304",Profit
+2668,17/03/2026,C160,Repeat Customer,Speaker,Electronics,Kolkata,5,"₹13,890","₹2,488",Profit
+2669,04/10/2026,C244,Repeat Customer,Speaker,Electronics,Hyderabad,6,"₹63,336","₹10,118",Profit
+2670,06/07/2026,C412,Repeat Customer,Shoes,Apparel,Pune,5,"₹25,540","₹8,156",Profit
+2671,02/04/2026,C241,Repeat Customer,Jeans,Apparel,Delhi,2,"₹3,316","₹1,133",Profit
+2672,07/10/2026,C187,Repeat Customer,Skincare Set,Beauty,Pune,4,"₹5,556","₹2,077",Profit
+2673,25/07/2026,C249,Repeat Customer,Blender,Home,Mumbai,3,"₹12,336","₹2,776",Profit
+2674,30/03/2026,C413,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹8,172","₹1,529",Profit
+2675,28/04/2026,C177,Repeat Customer,Laptop,Electronics,Bangalore,3,"₹113,208","₹15,651",Profit
+2676,29/03/2026,C089,Repeat Customer,Tablet,Electronics,Chennai,5,"₹163,050","₹16,981",Profit
+2677,26/06/2026,C365,Repeat Customer,Table,Furniture,Kolkata,3,"₹54,672","₹12,025",Profit
+2678,22/01/2026,C413,Repeat Customer,T-Shirt,Apparel,Mumbai,5,"₹2,840",₹875,Profit
+2679,17/08/2026,C053,Repeat Customer,Chair,Furniture,Pune,5,"₹35,955","₹6,809",Profit
+2680,19/01/2026,C127,Repeat Customer,Headphones,Electronics,Delhi,1,"₹2,458",₹422,Profit
+2681,18/08/2026,C070,Repeat Customer,Desk,Furniture,Kolkata,5,"₹55,150","₹13,970",Profit
+2682,08/07/2026,C183,Repeat Customer,Kurta,Apparel,Mumbai,6,"₹4,614","₹1,292",Profit
+2683,17/03/2026,C237,Repeat Customer,Phone,Electronics,Chennai,5,"₹271,430","₹24,385",Profit
+2684,24/06/2026,C385,Repeat Customer,Phone,Electronics,Pune,6,"₹125,280","₹12,921",Profit
+2685,23/01/2026,C325,Repeat Customer,Headphones,Electronics,Pune,3,"₹11,520","₹2,536",Profit
+2686,02/09/2026,C311,Repeat Customer,Desk,Furniture,Hyderabad,2,"₹21,586","₹4,432",Profit
+2687,21/04/2026,C184,Repeat Customer,Headphones,Electronics,Kolkata,1,"₹7,903","₹1,817",Profit
+2688,24/01/2026,C421,Repeat Customer,T-Shirt,Apparel,Kolkata,2,"₹1,610",₹534,Profit
+2689,08/11/2026,C244,Repeat Customer,Blender,Home,Delhi,5,"₹19,835","₹4,038",Profit
+2690,07/02/2026,C476,Repeat Customer,Headphones,Electronics,Hyderabad,3,"₹14,145","₹3,150",Profit
+2691,02/10/2026,C316,Repeat Customer,Jacket,Apparel,Delhi,2,"₹8,658","₹2,652",Profit
+2692,04/02/2026,C066,New Customer,Chair,Furniture,Bangalore,3,"₹23,559","₹4,293",Profit
+2693,17/07/2026,C345,New Customer,Smartwatch,Electronics,Mumbai,4,"₹39,388","₹5,980",Profit
+2694,04/12/2026,C167,Repeat Customer,Laptop,Electronics,Mumbai,5,"₹375,555","₹47,428",Profit
+2695,24/05/2026,C352,Repeat Customer,Perfume,Beauty,Mumbai,2,"₹5,974","₹1,827",Profit
+2696,06/03/2026,C036,Repeat Customer,Camera,Electronics,Bangalore,1,"₹69,324","₹10,632",Profit
+2697,18/04/2026,C089,Repeat Customer,Jacket,Apparel,Mumbai,3,"₹11,154","₹2,946",Profit
+2698,27/06/2026,C431,Repeat Customer,Sofa,Furniture,Kolkata,2,"₹58,072","₹10,990",Profit
+2699,13/02/2026,C119,Repeat Customer,Desk,Furniture,Kolkata,4,"₹37,920","₹9,064",Profit
+2700,18/01/2026,C419,Repeat Customer,Phone,Electronics,Delhi,5,"₹158,925","₹13,700",Profit
+2701,03/08/2026,C143,Repeat Customer,Tablet,Electronics,Delhi,1,"₹21,496","₹2,247",Profit
+2702,22/06/2026,C323,Repeat Customer,Chair,Furniture,Chennai,3,"₹14,688","₹2,749",Profit
+2703,26/06/2026,C359,Repeat Customer,Laptop,Electronics,Mumbai,1,"₹41,076","₹4,305",Profit
+2704,01/08/2026,C258,Repeat Customer,Jeans,Apparel,Hyderabad,2,"₹4,798","₹1,310",Profit
+2705,03/11/2026,C155,Repeat Customer,Headphones,Electronics,Chennai,3,"₹5,313",₹833,Profit
+2706,06/06/2026,C114,Repeat Customer,Jacket,Apparel,Pune,1,"₹4,330","₹1,433",Profit
+2707,07/10/2026,C014,Repeat Customer,Bookshelf,Furniture,Bangalore,1,"₹10,077","₹2,197",Profit
+2708,30/07/2026,C155,Repeat Customer,Perfume,Beauty,Pune,4,"₹11,504","₹3,981",Profit
+2709,25/04/2026,C326,Repeat Customer,Makeup Kit,Beauty,Kolkata,6,"₹8,238","₹3,034",Profit
+2710,22/03/2026,C465,Repeat Customer,Makeup Kit,Beauty,Mumbai,3,"₹13,737","₹5,421",Profit
+2711,04/07/2026,C442,Repeat Customer,Blender,Home,Mumbai,4,"₹8,768","₹1,970",Profit
+2712,19/01/2026,C391,Repeat Customer,Perfume,Beauty,Chennai,1,"₹3,998","₹1,251",Profit
+2713,04/03/2026,C397,Repeat Customer,Jacket,Apparel,Hyderabad,1,"₹3,206",₹897,Profit
+2714,22/06/2026,C337,Repeat Customer,Sofa,Furniture,Pune,2,"₹77,950","₹15,351",Profit
+2715,14/04/2026,C138,Repeat Customer,Jeans,Apparel,Delhi,5,"₹6,475","₹1,839",Profit
+2716,14/04/2026,C447,Repeat Customer,Phone,Electronics,Kolkata,4,"₹155,984","₹13,867",Profit
+2717,06/11/2026,C340,New Customer,Smartwatch,Electronics,Delhi,1,"₹3,454",₹758,Profit
+2718,27/06/2026,C274,Repeat Customer,Perfume,Beauty,Hyderabad,5,"₹15,205","₹5,319",Profit
+2719,03/12/2026,C055,Repeat Customer,Blender,Home,Chennai,6,"₹13,320","₹2,501",Profit
+2720,27/02/2026,C235,Repeat Customer,Speaker,Electronics,Kolkata,5,"₹32,235","₹2,422",Profit
+2721,14/07/2026,C242,Repeat Customer,Makeup Kit,Beauty,Chennai,3,"₹7,242","₹2,843",Profit
+2722,07/04/2026,C438,Repeat Customer,Bookshelf,Furniture,Delhi,3,"₹15,603","₹3,147",Profit
+2723,03/01/2026,C270,Repeat Customer,Camera,Electronics,Chennai,4,"₹237,412","₹26,506",Profit
+2724,02/06/2026,C198,Repeat Customer,Chair,Furniture,Chennai,2,"₹11,520","₹2,265",Profit
+2725,22/01/2026,C476,Repeat Customer,Phone,Electronics,Mumbai,1,"₹29,504","₹2,773",Profit
+2726,01/05/2026,C055,Repeat Customer,Blender,Home,Hyderabad,3,"₹10,209","₹1,715",Profit
+2727,22/02/2026,C224,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹7,980","₹2,575",Profit
+2728,06/05/2026,C024,Repeat Customer,Jeans,Apparel,Mumbai,5,"₹12,775","₹3,657",Profit
+2729,25/06/2026,C382,Repeat Customer,Skincare Set,Beauty,Kolkata,6,"₹9,990","₹3,368",Profit
+2730,17/05/2026,C454,Repeat Customer,Laptop,Electronics,Chennai,6,"₹465,330","₹55,036",Profit
+2731,22/02/2026,C143,Repeat Customer,Microwave,Home,Bangalore,1,"₹5,015",₹802,Profit
+2732,15/01/2026,C433,Repeat Customer,Chair,Furniture,Kolkata,5,"₹28,795","₹5,848",Profit
+2733,22/02/2026,C153,Repeat Customer,Phone,Electronics,Mumbai,1,"₹13,028","₹1,617",Profit
+2734,07/04/2026,C449,Repeat Customer,Speaker,Electronics,Hyderabad,5,"₹47,025","₹7,757",Profit
+2735,13/03/2026,C389,Repeat Customer,Jeans,Apparel,Mumbai,6,"₹8,586","₹2,407",Profit
+2736,05/06/2026,C406,Repeat Customer,Phone,Electronics,Pune,6,"₹81,126",₹0,Profit
+2737,05/09/2026,C009,Repeat Customer,T-Shirt,Apparel,Chennai,3,"₹1,683",₹554,Profit
+2738,03/09/2026,C473,Repeat Customer,Bookshelf,Furniture,Chennai,1,"₹8,531","₹1,905",Profit
+2739,13/06/2026,C370,Repeat Customer,Kurta,Apparel,Kolkata,2,"₹3,260",₹866,Profit
+2740,01/12/2026,C155,Repeat Customer,Sofa,Furniture,Pune,3,"₹69,687","₹13,354",Profit
+2741,21/01/2026,C413,Repeat Customer,T-Shirt,Apparel,Kolkata,4,"₹1,200",₹370,Profit
+2742,01/11/2026,C145,New Customer,Bookshelf,Furniture,Delhi,2,"₹19,910","₹4,667",Profit
+2743,31/05/2026,C442,Repeat Customer,Bookshelf,Furniture,Kolkata,2,"₹11,550","₹2,859",Profit
+2744,06/03/2026,C056,Repeat Customer,Camera,Electronics,Pune,1,"₹22,042","₹3,335",Profit
+2745,23/07/2026,C362,Repeat Customer,Microwave,Home,Delhi,4,"₹44,488","₹7,179",Profit
+2746,05/06/2026,C266,Repeat Customer,Laptop,Electronics,Kolkata,3,"₹224,991","₹26,064",Profit
+2747,14/01/2026,C051,Repeat Customer,Cookware Set,Home,Chennai,5,"₹19,010","₹3,635",Profit
+2748,17/04/2026,C127,Repeat Customer,Jacket,Apparel,Pune,4,"₹14,124","₹4,315",Profit
+2749,19/08/2026,C006,Repeat Customer,Makeup Kit,Beauty,Delhi,1,"₹2,590",₹992,Profit
+2750,21/07/2026,C243,Repeat Customer,Skincare Set,Beauty,Hyderabad,2,"₹7,166","₹2,585",Profit
+2751,21/05/2026,C155,Repeat Customer,Sofa,Furniture,Pune,5,"₹145,525","₹28,832",Profit
+2752,07/11/2026,UNKNOWN,Repeat Customer,Laptop,Electronics,Bangalore,1,"₹44,239","₹5,775",Profit
+2753,01/03/2026,C155,Repeat Customer,Phone,Electronics,Kolkata,6,"₹312,324","₹26,901",Profit
+2754,01/11/2026,C155,Repeat Customer,Makeup Kit,Beauty,Bangalore,5,"₹5,710","₹1,788",Profit
+2755,27/04/2026,C383,Repeat Customer,Table,Furniture,Delhi,6,"₹96,816","₹19,675",Profit
+2756,30/05/2026,C028,Repeat Customer,Headphones,Electronics,Kolkata,2,"₹3,734",₹910,Profit
+2757,13/08/2026,C447,Repeat Customer,Skincare Set,Beauty,Chennai,4,"₹9,556","₹3,591",Profit
+2758,23/01/2026,C428,Repeat Customer,Skincare Set,Beauty,Chennai,1,"₹1,311",₹442,Profit
+2759,28/01/2026,C338,Repeat Customer,Smartwatch,Electronics,Bangalore,2,"₹28,294","₹5,883",Profit
+2760,28/02/2026,C297,Repeat Customer,Bookshelf,Furniture,Pune,6,"₹41,688","₹10,495",Profit
+2761,24/07/2026,C446,Repeat Customer,Smartwatch,Electronics,Mumbai,6,"₹42,294","₹6,596",Profit
+2762,25/01/2026,C095,Repeat Customer,Blender,Home,Pune,2,"₹5,172","₹1,158",Profit
+2763,02/11/2026,C044,Repeat Customer,Shoes,Apparel,Mumbai,2,"₹10,062","₹2,782",Profit
+2764,17/05/2026,C127,Repeat Customer,Jeans,Apparel,Kolkata,4,"₹6,756","₹1,933",Profit
+2765,03/05/2026,C400,Repeat Customer,Jacket,Apparel,Pune,3,"₹8,319","₹2,234",Profit
+2766,28/06/2026,C017,Repeat Customer,Blender,Home,Hyderabad,5,"₹17,160","₹4,100",Profit
+2767,25/01/2026,C288,Repeat Customer,Makeup Kit,Beauty,Hyderabad,6,"₹17,610","₹5,410",Profit
+2768,04/01/2026,C479,Repeat Customer,Sofa,Furniture,Hyderabad,1,"₹23,418","₹1,619",Profit
+2769,01/08/2026,C431,Repeat Customer,Camera,Electronics,Mumbai,5,"₹256,900","₹27,577",Profit
+2770,08/03/2026,C262,Repeat Customer,Makeup Kit,Beauty,Mumbai,3,"₹5,778","₹2,079",Profit
+2771,23/02/2026,C035,Repeat Customer,Phone,Electronics,Hyderabad,2,"₹39,152","₹4,519",Profit
+2772,04/12/2026,C415,Repeat Customer,Speaker,Electronics,Mumbai,3,"₹18,978","₹4,081",Profit
+2773,08/07/2026,C302,New Customer,Jacket,Apparel,Hyderabad,3,"₹4,578","₹1,245",Profit
+2774,20/04/2026,C056,Repeat Customer,Tablet,Electronics,Pune,6,"₹216,810","₹23,254",Profit
+2775,20/05/2026,C051,Repeat Customer,Cookware Set,Home,Mumbai,1,"₹4,452",₹929,Profit
+2776,02/09/2026,C448,Repeat Customer,Speaker,Electronics,Mumbai,3,"₹16,104","₹3,002",Profit
+2777,16/04/2026,C338,Repeat Customer,Laptop,Electronics,Pune,2,"₹131,300","₹11,200",Profit
+2778,28/05/2026,C413,Repeat Customer,Desk,Furniture,Hyderabad,5,"₹55,495","₹11,134",Profit
+2779,28/07/2026,C442,Repeat Customer,Jeans,Apparel,Chennai,4,"₹11,196","₹3,033",Profit
+2780,21/01/2026,C280,Repeat Customer,Blender,Home,Hyderabad,3,"₹6,699","₹1,335",Profit
+2781,04/11/2026,C261,Repeat Customer,Sofa,Furniture,Kolkata,3,"₹72,825","₹11,937",Profit
+2782,27/05/2026,C227,Repeat Customer,Table,Furniture,Pune,5,"₹31,515","₹7,258",Profit
+2783,23/04/2026,C162,Repeat Customer,Kurta,Apparel,Chennai,1,"₹1,796",₹470,Profit
+2784,30/04/2026,C228,Repeat Customer,Desk,Furniture,Kolkata,1,"₹10,964","₹2,571",Profit
+2785,29/03/2026,C391,Repeat Customer,Speaker,Electronics,Hyderabad,4,"₹8,300","₹1,585",Profit
+2786,05/07/2026,C304,Repeat Customer,Desk,Furniture,Kolkata,4,"₹58,740","₹11,571",Profit
+2787,03/03/2026,C446,Repeat Customer,Desk,Furniture,Kolkata,3,"₹31,455","₹7,312",Profit
+2788,22/03/2026,C232,Repeat Customer,Table,Furniture,Pune,1,"₹17,745","₹3,553",Profit
+2789,14/04/2026,C306,Repeat Customer,Table,Furniture,Bangalore,2,"₹26,448","₹5,499",Profit
+2790,01/01/2026,C315,Repeat Customer,Cookware Set,Home,Delhi,5,"₹25,555","₹6,113",Profit
+2791,04/12/2026,C296,Repeat Customer,Speaker,Electronics,Pune,3,"₹7,440","₹1,139",Profit
+2792,14/01/2026,C362,Repeat Customer,Table,Furniture,Hyderabad,4,"₹52,300","₹10,450",Profit
+2793,14/08/2026,C125,Repeat Customer,Sofa,Furniture,Pune,1,"₹43,741","₹7,109",Profit
+2794,26/07/2026,C258,Repeat Customer,Jacket,Apparel,Mumbai,2,"₹9,836","₹2,544",Profit
+2795,31/01/2026,C053,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,1,"₹7,042","₹1,143",Profit
+2796,03/05/2026,C199,Repeat Customer,Chair,Furniture,Hyderabad,1,"₹4,789",₹910,Profit
+2797,05/07/2026,C249,Repeat Customer,Jeans,Apparel,Delhi,6,"₹17,208","₹4,322",Profit
+2798,14/03/2026,C326,Repeat Customer,Camera,Electronics,Pune,6,"₹238,506","₹34,307",Profit
+2798,14/03/2026,C326,Repeat Customer,Camera,Electronics,Pune,6,"₹238,506","₹34,307",Profit
+2799,22/01/2026,C470,Repeat Customer,Sofa,Furniture,Bangalore,4,"₹84,208","₹16,252",Profit
+2800,29/04/2026,C303,Repeat Customer,Bookshelf,Furniture,Hyderabad,3,"₹35,301","₹7,108",Profit
+2801,04/08/2026,C384,Repeat Customer,Laptop,Electronics,Pune,3,"₹135,378","₹15,906",Profit
+2802,25/07/2026,UNKNOWN,Repeat Customer,Cookware Set,Home,Pune,2,"₹9,868","₹2,091",Profit
+2803,08/07/2026,C316,Repeat Customer,Speaker,Electronics,Delhi,6,"₹71,892","₹11,253",Profit
+2804,06/03/2026,C037,Repeat Customer,Phone,Electronics,Bangalore,1,"₹57,424","₹5,412",Profit
+2805,03/12/2026,C135,Repeat Customer,Shoes,Apparel,Hyderabad,6,"₹22,194","₹5,609",Profit
+2806,19/04/2026,C189,Repeat Customer,Tablet,Electronics,Kolkata,3,"₹80,892","₹11,416",Profit
+2807,07/08/2026,C246,Repeat Customer,Cookware Set,Home,Bangalore,3,"₹24,228","₹5,112",Profit
+2808,08/09/2026,C026,Repeat Customer,Vacuum Cleaner,Home,Bangalore,6,"₹52,554","₹12,265",Profit
+2809,07/01/2026,C070,Repeat Customer,Phone,Electronics,Kolkata,2,"₹111,036","₹11,805",Profit
+2810,07/08/2026,C141,Repeat Customer,Jeans,Apparel,Mumbai,6,"₹10,902","₹3,237",Profit
+2811,26/04/2026,C476,Repeat Customer,Makeup Kit,Beauty,Pune,4,"₹10,984","₹4,039",Profit
+2812,27/06/2026,C173,New Customer,Makeup Kit,Beauty,Pune,0,"₹2,233",₹704,Profit
+2813,19/04/2026,C248,Repeat Customer,Jacket,Apparel,Hyderabad,1,"₹2,888",₹827,Profit
+2814,24/01/2026,C105,Repeat Customer,Skincare Set,Beauty,Mumbai,6,"₹47,679","₹6,441",Profit
+2815,01/12/2026,C306,Repeat Customer,Perfume,Beauty,Delhi,1,"₹5,080","₹1,986",Profit
+2816,20/02/2026,C144,New Customer,Chair,Furniture,Pune,6,"₹38,652","₹8,737",Profit
+2817,01/01/2026,C113,Repeat Customer,Desk,Furniture,Pune,1,"₹7,650","₹1,406",Profit
+2818,21/04/2026,C261,Repeat Customer,Blender,Home,Kolkata,5,"₹10,970","₹2,627",Profit
+2819,08/06/2026,C002,Repeat Customer,Table,Furniture,Pune,6,"₹36,774","₹7,498",Profit
+2820,06/06/2026,C003,Repeat Customer,Blender,Home,Mumbai,2,"₹9,238","₹2,084",Profit
+2821,06/07/2026,C116,Repeat Customer,Shoes,Apparel,Chennai,3,"₹9,321","₹2,619",Profit
+2822,19/06/2026,C018,Repeat Customer,Vacuum Cleaner,Home,Chennai,5,"₹82,175","₹16,799",Profit
+2823,23/05/2026,C054,Repeat Customer,Smartwatch,Electronics,Kolkata,2,"₹21,924","₹4,286",Profit
+2824,24/07/2026,C179,Repeat Customer,Kurta,Apparel,Hyderabad,2,"₹3,308","₹1,131",Profit
+2825,19/04/2026,C404,Repeat Customer,Jeans,Apparel,Hyderabad,6,"₹13,938","₹4,126",Profit
+2826,25/06/2026,C280,Repeat Customer,Cookware Set,Home,Bangalore,4,"₹15,344","₹2,806",Profit
+2827,27/02/2026,C258,Repeat Customer,Jeans,Apparel,Hyderabad,3,"₹4,086","₹1,154",Profit
+2828,06/01/2026,C154,Repeat Customer,Bookshelf,Furniture,Delhi,6,"₹36,930","₹9,343",Profit
+2829,03/10/2026,C464,Repeat Customer,Table,Furniture,Mumbai,5,"₹378,450","₹69,348",Profit
+2830,16/03/2026,C205,Repeat Customer,Vacuum Cleaner,Home,Pune,3,"₹40,524","₹7,801",Profit
+2831,13/04/2026,C049,Repeat Customer,Shoes,Apparel,Pune,3,"₹3,153",₹844,Profit
+2832,31/03/2026,C309,Repeat Customer,Bookshelf,Furniture,Pune,4,"₹19,612","₹4,231",Profit
+2833,17/08/2026,C056,Repeat Customer,Chair,Furniture,Mumbai,4,"₹23,656","₹4,300",Profit
+2834,19/01/2026,C182,New Customer,Jeans,Apparel,Hyderabad,1,₹831,₹237,Profit
+2835,14/03/2026,C257,Repeat Customer,Shoes,Apparel,Delhi,4,"₹23,620","₹5,622",Profit
+2836,16/05/2026,C442,Repeat Customer,Headphones,Electronics,Pune,3,"₹16,125","₹3,864",Profit
+2837,18/02/2026,C249,Repeat Customer,Skincare Set,Beauty,Bangalore,5,"₹4,500","₹1,365",Profit
+2838,14/04/2026,C361,New Customer,Makeup Kit,Beauty,Mumbai,4,"₹7,324","₹2,201",Profit
+2839,08/02/2026,C479,Repeat Customer,Jeans,Apparel,Chennai,6,"₹8,400","₹2,488",Profit
+2840,26/06/2026,C070,Repeat Customer,Vacuum Cleaner,Home,Pune,4,"₹22,064","₹5,013",Profit
+2841,15/03/2026,C141,Repeat Customer,Perfume,Beauty,Delhi,6,"₹24,258","₹9,442",Profit
+2842,30/04/2026,C204,Repeat Customer,Cookware Set,Home,Hyderabad,6,"₹26,742","₹5,563",Profit
+2843,01/07/2026,C224,Repeat Customer,Kurta,Apparel,Pune,5,"₹5,670","₹1,910",Profit
+2844,28/02/2026,C218,Repeat Customer,Vacuum Cleaner,Home,Hyderabad,6,"₹104,514","₹17,736",Profit
+2845,30/04/2026,C447,Repeat Customer,Laptop,Electronics,Pune,6,"₹393,768","₹52,111",Profit
+2846,05/06/2026,C367,Repeat Customer,Phone,Electronics,Delhi,5,"₹212,090","₹21,875",Profit
+2847,26/05/2026,C306,Repeat Customer,Cookware Set,Home,Bangalore,5,"₹38,090","₹8,662",Profit
+2848,22/05/2026,C157,Repeat Customer,Sofa,Furniture,Hyderabad,6,"₹209,892","₹32,143",Profit
+2849,04/06/2026,C413,Repeat Customer,Makeup Kit,Beauty,Chennai,4,"₹19,464","₹6,810",Profit
+2850,26/05/2026,C472,Repeat Customer,Jacket,Apparel,Pune,3,"₹6,276","₹2,097",Profit
+2851,03/01/2026,C412,Repeat Customer,Camera,Electronics,Mumbai,6,"₹134,772","₹14,094",Profit
+2852,07/10/2026,C002,Repeat Customer,Speaker,Electronics,Chennai,1,"₹4,224",₹715,Profit
+2853,08/03/2026,C317,Repeat Customer,Microwave,Home,Mumbai,2,"₹28,972","₹4,821",Profit
+2854,05/09/2026,C031,Repeat Customer,Bookshelf,Furniture,Bangalore,6,"₹56,448","₹12,339",Profit
+2855,17/02/2026,C137,Repeat Customer,Perfume,Beauty,Bangalore,1,"₹2,352",₹813,Profit
+2856,03/11/2026,C034,Repeat Customer,Camera,Electronics,Kolkata,5,"₹223,720","₹32,989",Profit
+2857,20/05/2026,C305,Repeat Customer,Perfume,Beauty,Delhi,2,"₹10,374","₹3,727",Profit
+2858,07/03/2026,C352,Repeat Customer,Cookware Set,Home,Kolkata,2,"₹6,548","₹1,630",Profit
+2859,02/11/2026,C056,Repeat Customer,Sofa,Furniture,Chennai,1,"₹36,070","₹7,879",Profit
+2860,03/12/2026,C199,Repeat Customer,Tablet,Electronics,Pune,6,"₹139,278","₹19,133",Profit
+2861,28/01/2026,C241,Repeat Customer,Cookware Set,Home,Bangalore,3,"₹17,604","₹4,183",Profit
+2862,08/01/2026,C193,Repeat Customer,Headphones,Electronics,Bangalore,6,"₹13,194","₹1,979",Profit
+2863,23/03/2026,C062,Repeat Customer,Bookshelf,Furniture,Bangalore,2,"₹19,044","₹4,025",Profit
+2864,14/03/2026,C221,Repeat Customer,Cookware Set,Home,Delhi,6,"₹35,268","₹7,944",Profit
+2865,24/03/2026,C386,Repeat Customer,Cookware Set,Home,Bangalore,3,"₹8,706","₹2,090",Profit
+2866,06/09/2026,C037,Repeat Customer,Speaker,Electronics,Pune,1,"₹9,376","₹1,434",Profit
+2867,22/03/2026,C044,Repeat Customer,Blender,Home,Mumbai,5,"₹10,050","₹1,918",Profit
+2868,07/03/2026,C185,Repeat Customer,Tablet,Electronics,Kolkata,1,"₹18,223","₹2,387",Profit
+2869,02/10/2026,C468,Repeat Customer,Smartwatch,Electronics,Hyderabad,3,"₹47,784","₹8,482",Profit
+2870,07/01/2026,C338,Repeat Customer,Phone,Electronics,Pune,4,"₹55,768","₹4,911",Profit
+2871,08/07/2026,C347,Repeat Customer,Phone,Electronics,Kolkata,4,"₹175,608","₹14,839",Profit
+2872,06/01/2026,C189,Repeat Customer,Cookware Set,Home,Hyderabad,2,"₹8,646","₹2,112",Profit
+2873,21/06/2026,C297,Repeat Customer,T-Shirt,Apparel,Pune,6,"₹6,180","₹1,885",Profit
+2874,04/05/2026,C004,Repeat Customer,Jeans,Apparel,Kolkata,5,"₹4,435","₹1,545",Profit
+2875,01/06/2026,C317,Repeat Customer,Headphones,Electronics,Hyderabad,5,"₹31,795","₹5,026",Profit
+2876,01/03/2026,C451,Repeat Customer,Blender,Home,Pune,5,"₹13,285","₹2,773",Profit
+2877,06/06/2026,C306,Repeat Customer,Desk,Furniture,Delhi,3,"₹42,153","₹8,798",Profit
+2878,13/04/2026,C442,Repeat Customer,Microwave,Home,Chennai,6,"₹64,836","₹11,985",Profit
+2879,01/11/2026,C368,Repeat Customer,Laptop,Electronics,Pune,1,"₹51,502","₹4,853",Profit
+2880,07/09/2026,C062,Repeat Customer,Skincare Set,Beauty,Mumbai,5,"₹6,290","₹1,937",Profit
+2881,27/01/2026,C447,Repeat Customer,Smartwatch,Electronics,Pune,2,"₹34,916","₹7,554",Profit
+2882,03/04/2026,C035,Repeat Customer,Shoes,Apparel,Chennai,2,"₹2,882",₹845,Profit
+2883,05/01/2026,C263,New Customer,Desk,Furniture,Hyderabad,1,"₹5,729","₹1,260",Profit
+2884,22/02/2026,C070,Repeat Customer,Vacuum Cleaner,Home,Mumbai,1,"₹8,612","₹1,773",Profit
+2885,07/04/2026,C005,Repeat Customer,Phone,Electronics,Chennai,1,"₹13,363","₹1,385",Profit
+2886,17/08/2026,C224,Repeat Customer,Smartwatch,Electronics,Hyderabad,6,"₹63,612","₹11,132",Profit
+2887,27/05/2026,C155,Repeat Customer,Blender,Home,Chennai,4,"₹14,044","₹3,073",Profit
+2888,08/01/2026,C248,Repeat Customer,Vacuum Cleaner,Home,Pune,3,"₹36,903","₹6,019",Profit
+2889,06/08/2026,C282,Repeat Customer,Blender,Home,Kolkata,1,"₹3,542",₹730,Profit
+2890,16/04/2026,C025,Repeat Customer,Blender,Home,Hyderabad,6,"₹18,612","₹3,027",Profit
+2891,13/07/2026,C063,Repeat Customer,T-Shirt,Apparel,Chennai,1,"₹1,056",₹331,Profit
+2892,07/03/2026,C274,Repeat Customer,Sofa,Furniture,Pune,4,"₹159,460","₹29,680",Profit
+2893,14/04/2026,C179,Repeat Customer,Tablet,Electronics,Pune,6,"₹97,608","₹10,579",Profit
+2894,17/07/2026,C374,Repeat Customer,Skincare Set,Beauty,Chennai,1,"₹1,944",₹755,Profit
+2895,18/06/2026,C326,Repeat Customer,Jacket,Apparel,Delhi,5,"₹18,735","₹4,837",Profit
+2896,03/08/2026,C424,Repeat Customer,Laptop,Electronics,Chennai,3,"₹178,965","₹22,614",Profit
+2897,24/06/2026,C357,Repeat Customer,Tablet,Electronics,Pune,5,"₹172,450","₹22,420",Profit
+2898,15/01/2026,C227,Repeat Customer,T-Shirt,Apparel,Pune,2,₹878,₹290,Profit
+2899,02/09/2026,C342,Repeat Customer,Jeans,Apparel,Bangalore,2,"₹4,500","₹1,487",Profit
+2900,08/12/2026,C141,Repeat Customer,Bookshelf,Furniture,Bangalore,1,"₹4,930","₹1,250",Profit
+2901,15/04/2026,C155,Repeat Customer,Skincare Set,Beauty,Bangalore,6,"₹15,216","₹5,230",Profit
+2902,02/09/2026,C397,Repeat Customer,Skincare Set,Beauty,Pune,6,"₹19,818","₹7,401",Profit
+2903,05/11/2026,C234,Repeat Customer,Vacuum Cleaner,Home,Kolkata,5,"₹28,720","₹6,001",Profit
+2904,30/07/2026,C402,Repeat Customer,Skincare Set,Beauty,Hyderabad,3,"₹10,323","₹3,631",Profit
+2905,20/04/2026,C412,Repeat Customer,Table,Furniture,Pune,3,"₹24,462","₹4,952",Profit
+2906,15/08/2026,C432,Repeat Customer,T-Shirt,Apparel,Delhi,5,"₹5,970","₹1,573",Profit
+2907,24/01/2026,C454,Repeat Customer,Vacuum Cleaner,Home,Pune,4,"₹17,356","₹2,970",Profit
+2908,02/01/2026,C227,Repeat Customer,Cookware Set,Home,Pune,2,"₹6,314","₹1,511",Profit
+2909,04/02/2026,C163,Repeat Customer,Camera,Electronics,Mumbai,6,"₹210,882","₹33,469",Profit
+2910,13/08/2026,C288,Repeat Customer,T-Shirt,Apparel,Delhi,4,"₹3,620","₹1,111",Profit
+2911,23/02/2026,C193,Repeat Customer,Camera,Electronics,Hyderabad,6,"₹233,202","₹35,397",Profit
+2912,03/01/2026,C303,Repeat Customer,Smartwatch,Electronics,Chennai,4,"₹65,560","₹11,075",Profit
+2913,07/03/2026,C364,Repeat Customer,Laptop,Electronics,Bangalore,2,"₹162,712","₹14,298",Profit
+2914,25/02/2026,C353,Repeat Customer,T-Shirt,Apparel,Chennai,3,"₹1,458",₹395,Profit
+2915,20/06/2026,C195,New Customer,Microwave,Home,Mumbai,3,"₹20,883",₹970,Profit
+2916,04/03/2026,C085,Repeat Customer,Bookshelf,Furniture,Mumbai,1,"₹6,958","₹1,517",Profit
+2917,27/04/2026,C227,Repeat Customer,Chair,Furniture,Chennai,2,"₹7,726","₹1,769",Profit
+2918,02/01/2026,UNKNOWN,Repeat Customer,Cookware Set,Home,Hyderabad,6,"₹13,314","₹2,835",Profit
+2919,31/03/2026,C446,Repeat Customer,Table,Furniture,Bangalore,5,"₹82,685","₹18,655",Profit
+2920,13/03/2026,C183,Repeat Customer,Cookware Set,Home,Delhi,2,"₹4,224",₹946,Profit
+2921,27/03/2026,C076,Repeat Customer,Laptop,Electronics,Delhi,6,"₹424,794","₹50,540",Profit
+2922,27/02/2026,C012,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹9,952","₹3,161",Profit
+2923,20/07/2026,C325,Repeat Customer,Skincare Set,Beauty,Bangalore,6,"₹21,726","₹7,389",Profit
+2924,03/11/2026,C318,Repeat Customer,Kurta,Apparel,Chennai,1,"₹1,504",₹478,Profit
+2925,19/01/2026,C179,Repeat Customer,Headphones,Electronics,Delhi,4,"₹20,996","₹5,203",Profit
+2926,05/04/2026,C038,Repeat Customer,Camera,Electronics,Pune,6,"₹224,580","₹31,486",Profit
+2927,07/05/2026,C216,Repeat Customer,Desk,Furniture,Delhi,4,"₹44,460","₹10,065",Profit
+2928,31/05/2026,C158,Repeat Customer,Bookshelf,Furniture,Pune,2,"₹13,966","₹3,054",Profit
+2929,22/02/2026,C346,Repeat Customer,Perfume,Beauty,Bangalore,4,"₹17,272","₹6,183",Profit
+2930,07/04/2026,C306,Repeat Customer,Table,Furniture,Delhi,2,"₹38,928","₹8,060",Profit
+2931,07/06/2026,C192,Repeat Customer,Laptop,Electronics,Hyderabad,1,"₹62,930","₹6,917",Profit
+2932,05/06/2026,C116,Repeat Customer,Sofa,Furniture,Bangalore,5,"₹146,705","₹29,483",Profit
+2933,03/06/2026,C476,Repeat Customer,Makeup Kit,Beauty,Bangalore,3,"₹13,239","₹4,539",Profit
+2934,02/10/2026,C241,Repeat Customer,Shoes,Apparel,Kolkata,4,"₹10,788","₹3,113",Profit
+2935,08/01/2026,C353,Repeat Customer,Laptop,Electronics,Delhi,1,"₹48,868","₹4,315",Profit
+2936,21/07/2026,C070,Repeat Customer,Makeup Kit,Beauty,Chennai,4,"₹10,396","₹3,446",Profit
+2937,21/03/2026,C248,Repeat Customer,Kurta,Apparel,Bangalore,6,"₹8,916","₹2,996",Profit
+2938,28/02/2026,C012,Repeat Customer,Speaker,Electronics,Delhi,1,"₹6,710","₹1,258",Profit
+2939,21/04/2026,C256,Repeat Customer,Perfume,Beauty,Delhi,5,"₹12,970","₹4,586",Profit
+2940,03/09/2026,C474,Repeat Customer,Speaker,Electronics,Pune,3,"₹18,147","₹2,835",Profit
+2941,07/01/2026,C199,Repeat Customer,Table,Furniture,Kolkata,3,"₹43,707","₹9,166",Profit
+2942,22/02/2026,C021,Repeat Customer,Headphones,Electronics,Chennai,5,"₹15,680","₹3,067",Profit
+2943,29/01/2026,C013,Repeat Customer,Microwave,Home,Bangalore,6,"₹82,806","₹12,836",Profit
+2944,30/01/2026,C200,New Customer,T-Shirt,Apparel,Mumbai,4,"₹3,668","₹1,089",Profit
+2945,06/08/2026,UNKNOWN,Repeat Customer,Camera,Electronics,Chennai,6,"₹358,368","₹36,882",Profit
+2946,23/07/2026,C012,Repeat Customer,Skincare Set,Beauty,Pune,1,"₹1,569",₹574,Profit
+2947,04/09/2026,C390,Repeat Customer,Makeup Kit,Beauty,Bangalore,2,"₹3,232","₹1,095",Profit
+2948,18/03/2026,C241,Repeat Customer,Blender,Home,Delhi,1,"₹2,462",₹491,Profit
+2949,19/03/2026,C151,Repeat Customer,Phone,Electronics,Chennai,1,"₹51,337","₹6,777",Profit
+2950,29/03/2026,C447,Repeat Customer,Laptop,Electronics,Kolkata,4,"₹165,216","₹14,941",Profit
+2951,24/07/2026,C056,Repeat Customer,Jeans,Apparel,Mumbai,4,"₹6,888","₹1,935",Profit
+2952,06/08/2026,C472,Repeat Customer,Smartwatch,Electronics,Kolkata,4,"₹18,684","₹4,060",Profit
+2953,29/01/2026,C160,Repeat Customer,Cookware Set,Home,Hyderabad,5,"₹17,410","₹4,265",Profit
+2954,30/06/2026,C446,Repeat Customer,Jeans,Apparel,Bangalore,5,"₹11,425","₹3,619",Profit
+2955,31/05/2026,C305,Repeat Customer,Skincare Set,Beauty,Bangalore,1,₹815,₹312,Profit
+2956,20/08/2026,C413,Repeat Customer,Perfume,Beauty,Pune,6,"₹7,566","₹2,620",Profit
+2957,05/12/2026,C476,Repeat Customer,Blender,Home,Bangalore,1,"₹1,730",₹307,Profit
+2958,07/02/2026,C151,Repeat Customer,Jacket,Apparel,Chennai,3,"₹9,444","₹2,751",Profit
+2959,13/07/2026,C472,Repeat Customer,Vacuum Cleaner,Home,Pune,6,"₹64,608","₹13,068",Profit
+2960,16/07/2026,C201,Repeat Customer,Desk,Furniture,Delhi,4,"₹47,679","₹9,690",Profit
+2961,04/01/2026,C199,Repeat Customer,Chair,Furniture,Chennai,2,"₹8,986","₹1,901",Profit
+2962,22/07/2026,C179,Repeat Customer,Desk,Furniture,Pune,4,"₹28,548","₹6,044",Profit
+2963,20/03/2026,C266,Repeat Customer,Blender,Home,Mumbai,5,"₹23,455","₹4,950",Profit
+2964,14/04/2026,C076,Repeat Customer,Blender,Home,Bangalore,0,"₹4,798","₹1,015",Profit
+2965,23/02/2026,C273,Repeat Customer,Phone,Electronics,Chennai,3,"₹47,679","₹13,280",Profit
+2966,19/07/2026,C267,Repeat Customer,Skincare Set,Beauty,Hyderabad,6,"₹5,202","₹1,735",Profit
+2967,03/06/2026,C391,Repeat Customer,Speaker,Electronics,Chennai,3,"₹26,292","₹5,453",Profit
+2968,07/11/2026,C416,New Customer,T-Shirt,Apparel,Chennai,3,"₹1,206",₹337,Profit
+2969,07/01/2026,C231,Repeat Customer,Jacket,Apparel,Kolkata,3,"₹7,578","₹2,640",Profit
+2970,25/07/2026,C155,Repeat Customer,Chair,Furniture,Hyderabad,1,"₹7,599","₹1,506",Profit
+2971,16/02/2026,C138,Repeat Customer,Camera,Electronics,Chennai,5,"₹181,165","₹24,746",Profit
+2972,01/12/2026,C104,Repeat Customer,Chair,Furniture,Kolkata,2,"₹9,542","₹1,866",Profit
+2973,01/04/2026,C034,Repeat Customer,Cookware Set,Home,Chennai,1,"₹8,830","₹2,029",Profit
+2973,01/04/2026,C034,Repeat Customer,Cookware Set,Home,Chennai,1,"₹8,830","₹2,029",Profit
+2974,08/10/2026,C179,Repeat Customer,Tablet,Electronics,Hyderabad,6,"₹105,564","₹12,939",Profit
+2975,17/02/2026,C140,Repeat Customer,Tablet,Electronics,Bangalore,3,"₹72,984","₹8,631",Profit
+2976,01/04/2026,C474,Repeat Customer,Phone,Electronics,Delhi,6,"₹354,714","₹46,702",Profit
+2977,26/01/2026,C274,Repeat Customer,Perfume,Beauty,Mumbai,6,"₹10,938","₹3,433",Profit
